@@ -1,0 +1,956 @@
+<xml>
+	<database>
+		<printCommitments>
+			<ballot pid="3" barcodeSerialCommitment="U90pt/mA0AW4UnmcBEczx6CFBNQvL9Do4+N8b9/N4J5TCMy7suZViXGIpkuZUcB/S7qjj1uZ31tspb7RKvHY5A==" webSerialCommitment="NJhFsXsl2uiWxT62Es5bJC3Nhi17qQ6Da7CdTCkRxYUwAFn0Oqv27kOO5FApWc4vdh76FvdKZWtjS73e2Y6Pkg==">
+				<question id="0">
+					<symbol id="0" c="IlR5zalP9073AIP+nTEjksPJg5AQyAi5N+uC+ZsWzM2UdaanORg0EVlhkUWnGOzrX95TJH6gS3yd5XKS53v9GA=="/>
+					<symbol id="1" c="Qv3fJqT9ni1pwR2wsQGUIYPKuV2KOHAyRacrm6Q5sY5MmRJBpaeLsJR4f7bvtbOSah4pwAbV+c8o8fGICelJrA=="/>
+					<symbol id="2" c="bQLc1UQ2Mgd46bl/njwTwQMh3R1yAq/v23WIY6qLG3QO7wb3W6SOb4QzPba7ET5aFipImuhvrzSpyNnrZK6TZg=="/>
+					<symbol id="3" c="3bpMqYns8lixGyfrHpIJZBeDDDa+AHpSKNUzuLA8pihOotd80cfgj43bKPwZvo8nw7Mhq/n/KRrne6v/q5B7eg=="/>
+				</question>
+				<question id="1">
+					<symbol id="0" c="WRDzcJ/gE2AIb7/wybAgeXbXWmVyqSCPd2Fbhk9YF5aA3ahoqZJozjHef2ie9hVIaKiWrWdvWyo2X0goKe+wMA=="/>
+					<symbol id="1" c="KZjn+VfFZ2G8hyd45OjSdlVfrSZMoWaqjcYb3P8w24Pz8InfCN9XbMx2X5ixNj6NxQK+aCQ1dLCbamlSYBsqzA=="/>
+					<symbol id="2" c="dtqBS+J70C9n/6dvcgwCZ6Lk0Uc74XHlWamttMh34qE3PpP+fj4UT78Ue38KCuxdGir4P5J27SUjvEhIKOTvDw=="/>
+				</question>
+				<question id="2">
+					<symbol id="0" c="75Ut4MaaAqMLhIxXs5TTx8gU9RbRkUk0pOrHpOoohMJ7g4OrjkP0dqp6CQL0tv0kvr3tS7xgMsj2AZQ0P0u8Sg=="/>
+					<symbol id="1" c="dgVlChUhmzvcMm5nRlkQuheyDFnPXsV+JIO0I29sH711nY3mcjancKv9yaLY/cKVVkZ9hS6NysULmwAXckpx7Q=="/>
+					<symbol id="2" c="J6cCNhilB07sQwXSFD5zL5W1RgOucn1kd2rk6wAAlAdZ6WowkqOcWCQukSvJacB4P7Yag7yCJxOIqRshBY36cg=="/>
+					<symbol id="3" c="tfnoQL+8QmXbEWjbZff1BX9Jfgn5yd99DS1mGemZqfFNkQI1B1vINxdInua7JwFICtHzlvWj5EXr5rnwVglq5g=="/>
+				</question>
+			</ballot>
+			<ballot pid="4" barcodeSerialCommitment="SmTgBqubWZCRAGrq2DWvZqPbdezrE5beB2qpInhYOHt7ISqE0qsrL0qFsI43HbJ/f4LbUBcRpFu/opL2mRqxmw==" webSerialCommitment="DVrwynlc4Q6RJ5qu1PB50ThRVHCgBhl9I5Z+DcFuk1jMXtIw7i8RpbloLdVg8sTzwD7q1piVfTvUL2O7cKn0Og==">
+				<question id="0">
+					<symbol id="0" c="Okob1pK2CZsf7qvHlRhucbWJdKdcEZz30SWOey92k+WKqUvNcC8aP3+73haei0i8DWWg8FAQzO6Qnm1Jgc5TQQ=="/>
+					<symbol id="1" c="heDk8srlb7ELPrsO/Lx7+UxyHsDvCgNuAB6lIcrfdEgbzrNygeYJS1xcIjgIMj55Sv3b0rGdTmjN+ovyZaJvqw=="/>
+					<symbol id="2" c="mEo2kEnz+Vh5JdNgp6w9jMJgziPcQM2hJt/tp7k7dQyMjA/hbM4kIc5Bc/BWmHE+qMs00TNNX3mgAktfz6tJjA=="/>
+					<symbol id="3" c="GDKVcaS5UBWl2c+5LL9FgZPjvFvJ3m/bY9z+R5Bx5QzIbP6kgBLzFJfZ5YQbK/LBp/daCvzDJuzN8TLGliYYQw=="/>
+				</question>
+				<question id="1">
+					<symbol id="0" c="eRUzWQR9TVCsVmyz4diYU2yTBi0Wdl+MG/iIXCesmQXD3oetb3r1x/bp2eDI45ddiDLdtgDlNcxr/jr13f+3Sw=="/>
+					<symbol id="1" c="dzVv0hx/vG3iPyD6OM5urE6M7uSsbe//SFm7gQFuI5p3sX/wltxDfRayY+Q91wcJgZWrigWhpAXNR2JlYnUAaw=="/>
+					<symbol id="2" c="MYM73d+isHmpsfFP/bVh5p/qum+GvakJiv10arW0BobH8kqVspC0fGU5kV1EY3q5RygHm5InoZmXpURMAtqeYA=="/>
+				</question>
+				<question id="2">
+					<symbol id="0" c="unOfJY1ZrgkPoUoprbrCpZMWQneAkGXs19/lAX3NuShiUAOvmshyHag3sCbUvnLUnqXZWfQ7tZfQD+IT0qbfBQ=="/>
+					<symbol id="1" c="E7B89CA8yccI2t21FHq+aaJZ0FpKTxvs27VUSZZqerPHJ4rSrjm3hWa5yPg1p7fQB4YI8pBzoYYAYM2DD3bHqQ=="/>
+					<symbol id="2" c="tY7lQkvvveflySUfk4/zLhZGQNH103NxkTsRsjoSn5UFj7CO8t91P7vhL3MhVWQAre3G8Td1h6wO8/fCQRY4CQ=="/>
+					<symbol id="3" c="wWujQ4Iu201+7cW3D+Z08gwWc+8kOSXZmKLOKf6ajz0Lk8SqYH2EyQFk9x0i2F/zC3ccDA3QGzrbBAnIY/rDew=="/>
+				</question>
+			</ballot>
+			<ballot pid="10" barcodeSerialCommitment="ABiiNKVZgXC8KZPuLX/yd29bv7BDNIs/t1yogixmMzZ505ixg89YF71N5oEo/x6t3VmqTfrX9xGmOcni4vA2Yw==" webSerialCommitment="HJkkJaN/QgmviJDBhcREd5hNungApnLE7a/GxUWtZ1vIEjaHmfRbYhvHUSCduYayBXT04hAPq7SWueMw1h2tYg==">
+				<question id="0">
+					<symbol id="0" c="0AtOWPfXeUrNAFyWw5tHpLcAsaB7EUQHUzTkCZsP+9OYuNhCbNURSX9Ijbc42BChaH5QgN86KpYdJK0hnstwiw=="/>
+					<symbol id="1" c="6qZ0DJTyT52BntA6Jog73e0xJPSMThEUKbfFKkr/AZXIvHRJmRefc6ICXerWXVPkmvYgwDA9et1+sWMqxFhwPw=="/>
+					<symbol id="2" c="hiDuDQq90b9yl7uXPFPGDijpm/iBynil4lNouLlWLwYvOhobhrrVZDlmIl4VIFlzc5SLBVRqfA2URXDoyQNGFQ=="/>
+					<symbol id="3" c="zPaDDh3mGCu8zLL0cIWhs63NIDsZ1moFldtjB8Ei6MPVCRDhsrVRwfzWCIxmmlwV0hQsT10wtipxOiZ5uKDHrw=="/>
+				</question>
+				<question id="1">
+					<symbol id="0" c="2WFu+Bt10MswawcoZAHIxIHh7YORLk8nDW99XZ6fOZy89SiU7+SAspjYbxcpeykNfOC/SbiDA+CiV0ZMhSxBRA=="/>
+					<symbol id="1" c="C5bqk26l2Rf2jR2SsICUo40DO1NPeRI699+XAsoPskwN2yHGPi/E5MFpKfp7DguMgeI9kAz5bMlx8zYh500LNQ=="/>
+					<symbol id="2" c="uut+vpQmM2SVJSCAfsAO4CoHlwF2x4Xe/UIqed8b5j+cfawAY0xWu3YrGz9k0AT/nYEf6phMYKvdVrB2KJa2yg=="/>
+				</question>
+				<question id="2">
+					<symbol id="0" c="fpthVTSEl8UREibXSdcb0wlNDvY8yJnsiNSHLqQjobmIcMNLPUvnDACIhh/hmwgHkbTd0CTjhiUX/2oxXPiieg=="/>
+					<symbol id="1" c="QvHlO3YBhg7TGKxMnTjCu8E7gi+ZV0U8VdBS4UYA4yoCHgwENtVEQ1+ljOmpzl5Knk2+Pxkh228WlOW9ZpKIPg=="/>
+					<symbol id="2" c="wB628US1CuEfW4iH9FWgmV81noiTpG2qB/1MaOBWMKqX/uhz5N21vWAXxzzvqcAgvA00uOcBH2gmzdeDrDyoRw=="/>
+					<symbol id="3" c="iYmSk9szlDZriKt37+6AKYhLu0SCFAMDfPb5HaIHpWEJLvZEN9UinDd1UCnjQERa3AMoBoPPLYgRSbCHBrIHxA=="/>
+				</question>
+			</ballot>
+			<ballot pid="12" barcodeSerialCommitment="ehBEb/WvCEbi5eyPqy9nr5vCpp/5UGyNlXvkWHTjPatf4Atr7LwlagOR9+zynZl/isvjxZrQrdZfJ/ReLCcVyQ==" webSerialCommitment="IVV1vHgiL5SF1QCKuUk0bN4+iGSx0RRQRntwDJkUHOtoapsWRubOpxu9ZUXZtHd436aPh3KQGte+KyGYqYazAw==">
+				<question id="0">
+					<symbol id="0" c="i57uOvBxMGGEPotDYOesn2Dkw+IvVKUaDiqKvrasr/pxL3E9d2oLzfOgz1eqXlXUIXpvUM8O0gcTHV0vZCjNyA=="/>
+					<symbol id="1" c="As3FOOUNP7YklKAdhvPfuzziM8WZxeL5t0H+vzerFeVQ5Oew2UCU1d6BTS+mmoV1BESh3YRoZkPPBne5Co+hHw=="/>
+					<symbol id="2" c="JbrdRA+TQOC+/QD3PTFdwL3lBzUEtYJWx6/jkw3Kk7l2R2OPLqaEY8gBH0LBhsN0v7HyQ/6yhIuszyrrr//s9Q=="/>
+					<symbol id="3" c="ZBeDG5ScqVlaOqu3bz0DgQ545KIc4gHm4XKdwZfKzfbCvGczZ2Bi5sSyPCIyqsMCgUgjeXZ23qcyc36aYP83cA=="/>
+				</question>
+				<question id="1">
+					<symbol id="0" c="dAwDpTmfhHiB58QsB8Av56SjrrjFh/TPJ+Ct8i+s9KW0aeA1ZbXvwv/TX9bYnXhAc6papvjzuzoDvoLFuYwrwA=="/>
+					<symbol id="1" c="gm5vhSkRpDExRrbX34i6HH485AlVLT9tn0zFVpfiiHtuoigfz59j8bHiewvZ2bQT931DNTAC3kkXXJbmUstOVw=="/>
+					<symbol id="2" c="2M7CVZQObjIF7razOcBNpLEcz3w3OAUjOElSf14jFtMk+vLobue9iN0ALVJLDikJmmv6klqrH0niZ2U6Tw//Eg=="/>
+				</question>
+				<question id="2">
+					<symbol id="0" c="+E7uxaBIPO87py0hvk4JwFRftoiSL/FPRmAenY1VdrFZ23LA+Sx2L+NmLPt1/RSVKsa8rjjhgzZ9vbRiiV3c6Q=="/>
+					<symbol id="1" c="VY7CLdYJxPrKyiB3eG6foWJlz3fB/U0NJSkadPqmPV0TYCcU1WZajCn+3WOyTc3cKQIF+6BHFxVAaSk7m+nUOw=="/>
+					<symbol id="2" c="Y9yG0WZSh+UhtNqCjvDNsONQc+BpcPVHPCdHksxXfYIXZE0F8P4FiZ3c9p406lDG2DTuuiQV6hzw0w+DTyYidA=="/>
+					<symbol id="3" c="RpI6yw6C9VvUtZ9MThcm3WqtIBQzW5MolLjam3kG1tMCtOHX5E1w5/GfgAC8/MKLKk18uP4uNZdhjrRwHb2Q6A=="/>
+				</question>
+			</ballot>
+			<ballot pid="13" barcodeSerialCommitment="Gikncg5bHy7ZjihCpcsCWocDLMKHPaO7rYqqFuQpX3G6HO5+O9cv4KdO8xQ9/FoB7/Jn9jBiyT0LaNAXPeMHBw==" webSerialCommitment="iIuc851lGUIJi2LRUSwNlML6kMjNukxSMrtvrJcW+zJL2btEC9jhkCmBg4ZJB0zJ1aKRAog0m8d6mwrKJegFig==">
+				<question id="0">
+					<symbol id="0" c="hz0Z0kH+MBlW7sPTNVfopMP7OzVIGPDQ291bM026jhyoSivqqmcOYDEYm9pSdhvAnMak9pRT0rtZ76gXPLgq1g=="/>
+					<symbol id="1" c="q+sqU3HZoWWrO6iZRhBBc+YryT7qsPweYArXtKcrxJLGtg/DAUj6chwizy/mcFKdcwoipSY/tLFsYeMhTog5VQ=="/>
+					<symbol id="2" c="PxqxNE54b1kkLfyXAQl1WhiKiKFsb8thxwidvP6V83ZZZtEN9ceosp7WjnVHVuMKYt09pbyyHko0lZjcqNNmyg=="/>
+					<symbol id="3" c="g/LMEH2W7tRq7cZqfx5cpeH7LsNRI2T63OV+kvYw2vbcu74rPGKgDyY5O/Lc+8Hb9FHhM1OYWwNjL5Mq77SCKg=="/>
+				</question>
+				<question id="1">
+					<symbol id="0" c="WzU0ks0n3UDB6+dAWOJ+oX0m1jncJ3zDC7/kKKQbwvoupQfVpUHFDdgedYqwBH/ZqHgHgrOb/gcVxNwoHsJxOw=="/>
+					<symbol id="1" c="vGFXbfdYE4Gj7ksfwY4t9cIIRbaL1IbfmRGqoOx5b15OTtsAqsYdap6rkbcxHNPsAzp5DtESYvwkp0rRk9+ZoQ=="/>
+					<symbol id="2" c="CKi0CzdCu+QMLybB0t9lRXzYHsfmelxuMQqAH3Ml2bX29ZwAtB882NXBsLY1iqJggK+3C0EC6FCjZmN2AFGauA=="/>
+				</question>
+				<question id="2">
+					<symbol id="0" c="dJXEIs5hIO0uggQNbf7MeBkNq+uFZpP8yM1KCqDxa+OEi5Fcpk0aSBtS+npDYfWAYGJCrvOQdzSxC8iOFAUgwQ=="/>
+					<symbol id="1" c="9xMKtu9luZHTEIsu0pHZirljIA7/bs8cwkk809TzB0q3FsRmbPa9eS4XM0OPLF5olJs3zMPt3J+6aNFlX9WMGQ=="/>
+					<symbol id="2" c="C8JiB9ZlKK4p2h6zpC9SHdCbIjq/UZNSoggk3xciHGWI+QkuzFP19+JIkGm+RbH6iodIEWOLqNl2eEuvp9gkXQ=="/>
+					<symbol id="3" c="cTxbsDIv/VC7/D3ZRrAZOJGzG4nLTYOFAKTEF07k27YcVKvFo8ptpBo4tnPf/9z90X7iC+0hYqdg1OW6gmeM4Q=="/>
+				</question>
+			</ballot>
+			<ballot pid="15" barcodeSerialCommitment="sE7n5Fg3qPLBvjQ55Ev0f9rIY1pxaHee9s2KB2TrpbmJZaTRJuemEaKXYdWzTX0mMBJ29x4askLI6IVVTdFm4A==" webSerialCommitment="vEzMSMbs8B81S3JVRlBlIMjhFPoLFSD65oI7HRsSoJGaVX32tzN5hcqfxzAV18yIphUDk8Ech5tbwotsj840ZQ==">
+				<question id="0">
+					<symbol id="0" c="8nvp/WfncP8MZ4RiVTeAlG5Vrr9QJzulRbVTSCHq5u99xhlMSDcs0wEl/wQLxwMYEJmCuGAd9bzD5ZlmxNjgUw=="/>
+					<symbol id="1" c="DpDjxC3aIPj1kOSngChjZfjWi5quNtJ+rCIoj3NRKHEy869IBiIcO0dmrjgmTG0hMEj8idfIQhn09vXoyVC1og=="/>
+					<symbol id="2" c="A8DDfZouoCHiHrOJhfJ9OwhZQQhuJuOes1qXE3QDZpxIyUKMtHCXjlV9KHp3/mziSg+ECFTj0R73dvaOLNc4HQ=="/>
+					<symbol id="3" c="qtkyHx35j8drxQCc336JlqpuDNWJmXgirtyckKngllaoYps9+6AbfJXt+KQTBHjH+bDGwOtt0iCOILOnZ/p3+w=="/>
+				</question>
+				<question id="1">
+					<symbol id="0" c="ybsuHGbkiWLUfY6u4sRrBWoaOmuLRmepiZFp6QcxRNgEm0/eAZ2T8peu0OLgee4dG/sayVFDFAq/2U0947qU9Q=="/>
+					<symbol id="1" c="TVtM8Cz0960uqaCDmxatqnqS2xIP7s5fGdYE1uUu22q6Ym73WPnekJ6bVodz9TLkqES8BLDD9SbbzJUmGqYXsw=="/>
+					<symbol id="2" c="/3LlOvrU3aWQXri3la0FWTnk7z2lsUeFg3vUbDBclz70AgIPPZgZglmrLmLT9Eb+DjnilgXFDuz+17Zp9gJs2w=="/>
+				</question>
+				<question id="2">
+					<symbol id="0" c="lv1RGVtw2h9kwA0Oon4v3FtFIsfz4S3xa3MnJsj7lx2rbqStALDf9hV8VjnhEVXWXO8wogwVE4iwo6oM4VV/CA=="/>
+					<symbol id="1" c="6lXbhOaw6d8e3Xa1FrWjwsgOuIO3cJFvbjgO2xH9Nqs9vlDjqYy8E3JLNzkBnKdDDbSkBdurMu/w3xZtfUkfPw=="/>
+					<symbol id="2" c="V17Uxyy/qCESITND2e5JXhayIz+ACHic6LAh7B28ndYX5m8xGt1uH18w9Vq2hCD4xe3brexFwZlcWBcWitgEsw=="/>
+					<symbol id="3" c="cS1Wb3bWWptVzAvioWUwc8q50wmhktqa/qTf6U+GEyKo6rGjcbqpaPzs8GLQH0fIdC+9obENggnL2yaRwM5mAw=="/>
+				</question>
+			</ballot>
+			<ballot pid="16" barcodeSerialCommitment="p2mxupPwxEP7235qpEQo5cw+OdSjUvdmagJ7efFyb98zv7EyKaA5Km+zao5F8kmrSs8Y4xHDx3p5IjFdT7ujvg==" webSerialCommitment="/YNuI1VmknPvB45M8Ef36qA6WqRkoH6QN4KlQKExCDQCUkrfGsKzZRbCpxtV9h4M6/3oCWlU61aQRBGYo2FdCw==">
+				<question id="0">
+					<symbol id="0" c="5ushs9UIZfwgRtXSMZPz0jIL0k3F4W98KX1q9fb3AeC+fBUh6J6i9INrdEB59sxn68+Pdydv/d6/wZq0tVVWYg=="/>
+					<symbol id="1" c="lFDr8AL+MxvRET7WBeBi3rebfb0CvJq9Dajd0YrQ4s7pu3ObigsIxh1/GAdClk8FKZUM3akRz+54DCKqun+G9Q=="/>
+					<symbol id="2" c="hk2TxGVx+38LzDjt0b1gy4XgtXLc96/uVzJyr1D5mlT/vtCv6HgO77XIXiWw4N1rwfXIBJl6RKHGAzbnAWKKAQ=="/>
+					<symbol id="3" c="/eGJBVPYnIMXl2rS3O20cgade5hT1n7TrjUr1Y6FXQ1XV3MRznufhWlEzPAmIkwHXzjm2qeRuFB9y61xIziApQ=="/>
+				</question>
+				<question id="1">
+					<symbol id="0" c="DuMwBvNJ91nJZlDjnlRnbQK6TG14wFwKGeUfTlyTZ7zH+w9PNlzK745CXHgiU4dGc4vjbLNf10cJ2+RS9XdXfg=="/>
+					<symbol id="1" c="/0yFtroUSuoXKUOgpFvFX/3KPkXMxiBV9hOgPWib0w7H2n75jKYzcwBR6/pX6qCBYXrNXUleoNKRCdYXwN9ZIg=="/>
+					<symbol id="2" c="JcBAeGCKxNLUtH+E18JRew/N/vZuj+GTjnRODWaVJCuHBeUDO8vN7ptf6MWpiHoimBYK38A3gIQif4CD0sV6QA=="/>
+				</question>
+				<question id="2">
+					<symbol id="0" c="fP6eR1e1Ro6JwgWWY+gHTWcTac4dCPR+mJgBxUczvc7tjDo+B5inu7zkv90/lThjLRBgEDyhPDYW3KNbwGFz9Q=="/>
+					<symbol id="1" c="i0/+Pa6nsvxNTf1NhShLZ58YirtV7AnpnMjLbAFtk4C8KgvLaMjObmEIMaxu9UTyZPIq2gfHBKGULujO0Eh1Cw=="/>
+					<symbol id="2" c="CYMV4tiXGw5iP5t5hQQAkzPTXNN52UdYOotWpdege865UZ8GTUJhxNCLzqhkEYyN3/IMvblpkbh6vaScg0gP+Q=="/>
+					<symbol id="3" c="zhRyEOJDScpVgvGRtbMjC/r1DcdMU4qJoY42ypFGDVtftpNI2CNBQIrTH4PMKvkBiduSPSoq2Dab0cC7m0XCXQ=="/>
+				</question>
+			</ballot>
+			<ballot pid="19" barcodeSerialCommitment="ivFZJ+cfWAdkzQ9vb63uX/Ful4ihRZW8Z0Tvcszl7Q3vwseANkHM7S+aTZvl/Vqz0AP2yf/RplehE4Il8kP/VA==" webSerialCommitment="FbsyXQp2Wr/udH4FwGNBc0uOMO7J4jV9JOoSJ4r6IPl/pcJoEKjKA/TpFS62ZyKPBh+SkMjkhyVAjR4JtXF3Vw==">
+				<question id="0">
+					<symbol id="0" c="lpBOGofbWUaW03k3uWv8bWbD74p1ETBXZuEqeghE3uC1FKFtANDOMuFqiEt2qAn+tRyDsCRha79YERDLSdgxUQ=="/>
+					<symbol id="1" c="Woc2Tve+yhQHhcNIBUy9NcBEWVdy3LdkZXByHpwRNArfrvLAQqjGTIrhlB/PS+NOFM4auqlstCoQsXVBGqxrew=="/>
+					<symbol id="2" c="mRfV12X9ze1w87/zgMkVlqFcJYi0ohJ0fvGZv8W8P0VdjH2v9kOcC8SfdO0Juwgj2CvludLteqlEciOG2aHObA=="/>
+					<symbol id="3" c="ua8V3GTVDEP/IAeJ11zd+0ew734D9NH6KGO9Fe5yWpB++JthXKrD+4qkwPKVj2x7023ncIYc/so8E8XnWeCrnA=="/>
+				</question>
+				<question id="1">
+					<symbol id="0" c="wu05DQi2Z44RyqsW/J7phLGep40oh07m0nXVHOgKNB0reAcP1W2CyOycPk0zudGg7ZX47JxHi3s6NmSS+25oMQ=="/>
+					<symbol id="1" c="y/qANs5TAtTI43DyexKgDDbtEVSweiUwUSDKX+/p1aU3zRPrWcXof/e3nFZ27PkkWZylYy+tn0ockQpy6GL96Q=="/>
+					<symbol id="2" c="EmiwFUouHL0J6yDOahl13UiMRD82AYPcwVAudMQbLjswMNiy+I9dslZi7WLi0dZ3dhDZR2dkTSqe9a3ozJG5Sw=="/>
+				</question>
+				<question id="2">
+					<symbol id="0" c="xDK1Btl1vDtT4ar9cpJyyp1RY8vjQNnU1JaudFuX21CiZJ/2AwJb1hAJZ6xMZrXaY46Z71M8xX7fHvR3LtYucw=="/>
+					<symbol id="1" c="9WHfg83ozBprotOzGeITgGTthL4RuoEtFiWzebhrL1qevXOsp+BDQMcwbDCjvm934rjnRZmrQKJmQT46HckFQQ=="/>
+					<symbol id="2" c="SB6YtxxkY7RoM3WEyMurMpb6XE5MtRNB698sQeLcYeH10OkRK2SW6DwZJTmcG6hrpL5DteJ7XChoRnDW01FPhA=="/>
+					<symbol id="3" c="pIrCoO7GOAnR6ZnN+u16Yq5tf0XmdrCqoU20wuJdZokE7Sd0Yge3t5h3FEQ/+mlFgaOLvRVsWwuMn5Pq3IWPHg=="/>
+				</question>
+			</ballot>
+			<ballot pid="22" barcodeSerialCommitment="CLteoElR3iWBxCSwOgu5m7Tec2rnV2AZ5QM83ppv88fovZRqV8rXWlfucO9ovUpRRhwECXhq+6R0b0MeX39geg==" webSerialCommitment="fCa88r6TaEsLA/usNHD4uh7E8WIwIyaCV/Mhr6wFpUVDGKqo/7u2qnbEvgsPkkFh4SMllyWoXlkw6lHmzK6Ekg==">
+				<question id="0">
+					<symbol id="0" c="6jBShSaOH1fLqy/N1z96u5WIVFV3MY8TZiO5JIbUYRO+GZ5geo2oaBR1NZBOC4QOLWiuMt9uXAPZfOfNHAzMHQ=="/>
+					<symbol id="1" c="ATQ/JV8ybUoQBN6kHnBjErbXnS6WaOO/DjOGYjQrcGY5B8fJ8s24/Ln8pYNpMGZ29s0wsDj4hlwWI8QkrMUwJg=="/>
+					<symbol id="2" c="nfZ2Q49eC6SDj8dTpkkMshf9Jtyjz51Xsvmkw/sy1JKVYyQuUF1HoeNNXoIUSw7C5K1sKFI1wxOV29VxG3joGA=="/>
+					<symbol id="3" c="LdXQE2sG9KPczNxHA5I0dluvlP5ydajnrCkqvczItmK20g/xcOj0OkxMB9DP4YhAoWp24THpOxh+jDk8208uzw=="/>
+				</question>
+				<question id="1">
+					<symbol id="0" c="gSN6SLWmZyXKDMRwRHu47FQvKVyt9f4kewcvOh1Xp4WPujlsVpcSqA8qnbmQVwB+iFO0jvHrAC5ReYczr383bA=="/>
+					<symbol id="1" c="6T4AoEFEyy2+HcJAwM6QTS4knAyNx6rXcoA8fySdF8XdaFUWQbTooqDPZQ41worj/x6IDi17rRAw/oJwZmO6Og=="/>
+					<symbol id="2" c="MkxOWJJYrAuz/FxsAKp3K5VixpFs34xT9YMCnKeU2W3nSV+DQzys9Q5AVBKTbG7cnQYB7AFv1Nx6TKOUKB7hVQ=="/>
+				</question>
+				<question id="2">
+					<symbol id="0" c="57v1xGeUiskJ+k3E4BXmrgiwglOHWZBFHjDIWRVh13M+t8BwNtuHKFVf/NCYxalKtY+IYD6fv7ENmrs5VQwsmQ=="/>
+					<symbol id="1" c="f4qK7Do6HJTAWNu1hkmdTJqynMmAUOZb9ixi+kpObFR46oMC20ZwOzenGIQb8jDQ2vjxkNwkRE4Ti5BEugoDaA=="/>
+					<symbol id="2" c="9rrM4ccnV6AztkPBc9vY0tqT4L+jqZj0CNAIvcnkwuqwOFFWwjI1v07Xq6OZP//NWUGjcU6Ly2pVtyfKXC03PA=="/>
+					<symbol id="3" c="nMYGfXdE84NaVcPMLbBcZ9m5w9HpXNzbUdZt36kqXnayYF2HhEkCLSKUmNJXWaKNW6gWq3Ot9to0gK2qUcEqQA=="/>
+				</question>
+			</ballot>
+			<ballot pid="23" barcodeSerialCommitment="e6s2sfKVG16PxlOZwBwia2+F5bpt/MmQtoGdRhtKMeALEs1/ks7Mw0hBXkNO1X/FiB0G/RQelKytlotnXZ71dQ==" webSerialCommitment="eRkAGEDrklQrCE/aqKQ3zgccS59m07Fs/qSULrCCr5C05RRZzMeHkPfG9ZmzgktEtBwk4AjF6nLfPcrBGnkM/Q==">
+				<question id="0">
+					<symbol id="0" c="cuc3C8F94rdVkrA/PvPtc/z/jsF/kClF35Q+rxxI8TXgvixfUrRgLE8AhCz+I2tlqfRRUCZ7NY3FxLFUZoWERg=="/>
+					<symbol id="1" c="jQhlt2bZ86c3qQyQFazGUHOA5eciFa/WXWJBsq4vB3B31PcTQHWcR9l1WjUNegslurG67Vyg0IEqCSHswiO2NQ=="/>
+					<symbol id="2" c="UCXJWRB+8670hVBOXr6sp+btw+PqQhhgxucN2CWCsDAhvpaPQVqbsfhEjwGt1nsNUu1sn9dMWYlv6PzeKM+vuQ=="/>
+					<symbol id="3" c="lHXVzlCiTc70JChYrLzLRFBfEmhejDP/G366kWQpFvjt0Dt2AuYJ0mwhuYh0tArDMDCEnL8V085SbNSweJogzw=="/>
+				</question>
+				<question id="1">
+					<symbol id="0" c="tWn4FiNghhK/UHEw6Y8mwbJ4Jl9NA64CSxAEAO0aWqDItiTOMoGJ1QlFamfq/DqtmXrzm/I+9OfSVui0wQKEiQ=="/>
+					<symbol id="1" c="sb58YC1AC3K82GCDBsUpsaYoePubn2U4Od0rHubguVAIlzRsZ0UztTSwGM4r4GWJRUqIEmawB4AV89Zj53JovA=="/>
+					<symbol id="2" c="m2yqT2dMnutJW1kV9hdDm312xnTez3pH8uzxUjIqpxDSqCx6PEJagLw9q6X4lqO1O2HmcIkb1b+XouFAz+KGbg=="/>
+				</question>
+				<question id="2">
+					<symbol id="0" c="KHgMLZKdfF/wtuECLzvRHl8JSg4qobY3yuT/GtzPrn0pGvhBijIH4QhMp24/NtuAoolh3qj+vLsRyw930ccHzw=="/>
+					<symbol id="1" c="vT3g6E5KJQfB0DWqUTeKKrsBPblvJGKQEkgSErjQyAdnFIeK90Rxlqth7yC7jjn7lgGvlfNmVK1WCFU3gjL/Mg=="/>
+					<symbol id="2" c="6ah9p9KoGfyI775rUDuH1EU5JOE3gP7JVp8Qlxn5/TS/6VRhh6FV9AIPNhBLt22OiTj6r4C3k/J7Ia7gZtOHSg=="/>
+					<symbol id="3" c="u8tQk4kiQkcqF6DxzPgt/EJ3QUHCIpTJHSXMDCGy9ejTI8Qz694qdUqVB2+zEfujU3OKSeO/5UWfa6bwCVKxnQ=="/>
+				</question>
+			</ballot>
+			<ballot pid="24" barcodeSerialCommitment="g4ezggk2gWEvE81a/Wp8NP4n5xxIp1dFzMupGuGNIqoGWBUYSemdz9L2NBpi78aRjtV3XddScCYNXXlJVPg4xQ==" webSerialCommitment="zYWNUPhEQx6qCniFMG1cek8uegdXWNt0Gz+dQDSTV8zslhbB4UxOA45P3eEdi4OvUWD9UwvRnagPMTctowkPLw==">
+				<question id="0">
+					<symbol id="0" c="qI8QlSAMG2WaY/Ky/BH6ew2A15xKd/wBMGRG+CAnZC5wYZR0mLKKOpUgMkbCELsKE1xv3RSViwpwqbibZhf61Q=="/>
+					<symbol id="1" c="WSaQCnz8jF+76y7JAkYjBC8b7z/VxcXd0bPRnAUFiaX83s15du1YRP0o3pePGfw50Axv3oDSZ3Ac+ZYqm0g1FQ=="/>
+					<symbol id="2" c="ySIZgR7z/EMxntFPcSUP1cn2ynxlR5D3W8oC6mVuBINN/7cMJ86y1v9aOo/aMFXcxSoajlhU9lEMvYKBcQjkGg=="/>
+					<symbol id="3" c="Z1fzBiUB6MdWbjMyFXVW7nWqBY9nC9X35Qlp4JlLbPs8IFLWryPTHp44vYlaj5lZBHpVHQ2LBdFHmfHmZZrM9g=="/>
+				</question>
+				<question id="1">
+					<symbol id="0" c="HS2JCF0gQDsDt6Pw0awYRX7i5UAaQ45s1r448cFXnY5PwC5SKDJ8qeWIUAfjQQxiejOIkeT2vj6P8zw7A9UeOw=="/>
+					<symbol id="1" c="FiMhpNWEMYhZEcy5g/cKy3tiR4BU01OfCFNhZ2LClPX+qnBTVXx+zN6vdCQ3xK/+Yl/1Hc5F2CfTBF4BXPSn5g=="/>
+					<symbol id="2" c="DD3tsb9zWJIaM1omRVQpbzbF6RU61P/UtrI17chOC9MmMY/b2DUH1NWBdO2gtcL7NhEu7VDunk97OTW0JjjO/g=="/>
+				</question>
+				<question id="2">
+					<symbol id="0" c="PJ3hiCzQt9c9aY4BSJ7AR1eqUO2BiFR1gJ52h5VrIg88Sg64KLkwLhpyIdRnS7DU/hrU3rx02QcpVNa2N/K9Qg=="/>
+					<symbol id="1" c="LV8yaWFbcxKlow9PmXpoS/7onM8F+EAfzCfEmxcvroEN3WJLmKDnm9NnKMbDEqYcPoM+If7NjAns5/AR2WqWwA=="/>
+					<symbol id="2" c="mdhnyopOd3T1305FoEoU4phj+cpVKHjU+eyt7WFEGMCAF20eMDoeThQHSbmYJoud72iQq6H6VKGA6nzkS+0Avw=="/>
+					<symbol id="3" c="ANKMDgvmx9vueQZuizDLjZuLaBaayup6Sg6gEseSFkwLJ8kUXP6JttmYB+pcwCcS3dpKo0W3VOzGhKjqiLRgcQ=="/>
+				</question>
+			</ballot>
+			<ballot pid="28" barcodeSerialCommitment="BfdCx68JegHA6E/LyC1Q3hGYVTINXoZ+/iy2wfQ6uB6lqGtRAWqBl2Wpu5c3gdOiHPHQdaLGyMRW5/Rmm5StGg==" webSerialCommitment="/3uDrQxg5AphPM77yXUEjlBcahe8aai2fiYtn6jZB1DxJ9CXoiqT6/7dLwf3nKyZ1blwdwvYcN3dWWGq5TDAvA==">
+				<question id="0">
+					<symbol id="0" c="DLUMVNQKYe2k5KTBmTDcfHfJix98zX5AWKzS5/POyx9tltK8KEcm2X5UFaL1oFeLA48tc7oKbzvPb5ikRTvzfA=="/>
+					<symbol id="1" c="HV40LkVwV4efiV3KxDtA82E2/1MEFVgMY2k49NbDEnHhMjE2uiAw4dhbMK8ZlYmhQfRzooEq3s4R3/kB9x8NgQ=="/>
+					<symbol id="2" c="X63KSAAItLEKWmoBbB8KSX3MahX2D13bxoavNaJObzDRJ4m4sdqEOdTHxIRwphARb/cZSYe+iFTGp44iaVrldg=="/>
+					<symbol id="3" c="O+gGCBx1CpItrXxYwlTreiDlgbT8v5f0kMiIb3MPngkiHYKbl6efDwfrd0nkr5Bob/mKd/1cK5IQEbcCi5fvoA=="/>
+				</question>
+				<question id="1">
+					<symbol id="0" c="9ENTwJsYikF5lRTooUrmMw8pomSePU1Z40F+woQcq7kCTk4UVdBIjhYR/LkJfurh24YZrpwBCT2PpWtY3pHO0w=="/>
+					<symbol id="1" c="9WlW0+lGl9Z02x16SWXUNvdwqi7LgY28WX8A/IeJbtlGqRMnBD4mcG/C4qRVE13kxUfHMPS3nXHIUbywr3ON/g=="/>
+					<symbol id="2" c="wwEJHpNrXwxDrWFCxV6qjGZ0SqyN50QddZiNCKS9SnWjBflRkBYFZ74RUgyaw7JQ15fLEhEDtDiobBAvp0eRmA=="/>
+				</question>
+				<question id="2">
+					<symbol id="0" c="Oq819Qs1+KQpe1dN0EwvNFtjtGY2yw08ugjZufLgeetvqxxHFMRrCWlSTyA5sDbmXYWhiIp1F0D0nXYShAIhLQ=="/>
+					<symbol id="1" c="zHQ4WwVW2z3c5/1fnRxL6vhNcAEakowSrUZGy7BQx0RaBYmCjIj2gVh3aaxWigIAys/kD/s52X1F5yuWKfdetw=="/>
+					<symbol id="2" c="TznvV4ep7MURqu+TR9BBO5/7WWILeWzNfZBvuLVoFfr5R0djSfBlbIVSwpuZepC1NQnU9M7Vat6kv5axAHNNhQ=="/>
+					<symbol id="3" c="Jq3WQvCOmeNL+MLYI9H0AXf6xJoYfPSsbA/O/fGvMdQcuojq1QvZzmF6fGN9TplvC5Zz9SaI38UM8HOU/ZDZsw=="/>
+				</question>
+			</ballot>
+			<ballot pid="29" barcodeSerialCommitment="1DG/PhTkJb5xsxJCvHvK5yUtEm51JN+vtAtiqZLtE2EMTJJW/wBGOEmzfP35wbad/zN13T+Lx8JFxtpzQMG3jg==" webSerialCommitment="pwdPKLmxi5uwtC3ZrCgs/VnxWoIkItk2g1u/aS7lnarZpRiT7f+LJRF7v1Drkuj07Lcpum6IUAb4h28Jj7fkQQ==">
+				<question id="0">
+					<symbol id="0" c="2AJWdNj2dKI4YwNiU6QzmqwIGNaRNzAXR+eaWIiCkq/r0NNdZ1/BUoB8OUlZtR4vcRuV6sDc40gG7lNnvgmZsQ=="/>
+					<symbol id="1" c="toBUymYbd2sxT2lY8kflfwBtK1pxg2KVGRqB43HFFyD3kxXvDSRKnTpw4sxr4Dyn6YGN/H37xXAV6jRPcnoZGA=="/>
+					<symbol id="2" c="s2pNgm5VcVLMlJof91Ev7ehvpa84XUbt59SfaW9CXkbmtwO9i1mIA8ineOB+vwhaS8RRpbidWEzgIrG6RVt5ZQ=="/>
+					<symbol id="3" c="Bb7Ls1JbA4gBSg946FM0hKFxIAOVhDCzbUQu9UTKS5LcDziyOS7l3m4OfpnQQD0Q8akZHI25fovPvegrDNCpeA=="/>
+				</question>
+				<question id="1">
+					<symbol id="0" c="k9XKVU5wuel6/EOuigOKSEkfXhKBoUj7vBzszJ0BWIL6kzZB6B+BTKOOU4j655UdlOq3wxmZYD1W8HX4PmNeFg=="/>
+					<symbol id="1" c="axA/hmL4t+b/Nxt5YDS91WY4lRmMov9L+bw+DO1ssvfiYpjlB5DZaF4QQIYs+BwD4Mnd+Bf0HBd4YwwmVTh+SQ=="/>
+					<symbol id="2" c="6czI4mIIZwd4oaMDxWkKVRGRDmVCyR8motlA3rh85J1qfxjLV9Q2deFt8VZZi1kXPleP2wvcR49FUGsQ19Cr9Q=="/>
+				</question>
+				<question id="2">
+					<symbol id="0" c="IMv9jN+seMwMkJfaJZbvLRUIDAW6gt8fiY9U5e0f/gOYivNl7vzBtRxH0u79+BkkqfmtfSUmX5HjRENLi0HGWg=="/>
+					<symbol id="1" c="KF/kYVdrBMpimwPpN1t47KjN1C7tKhC4qONtlkwMP6ELBBIgxTzlR3hx1u5glopRKggI7ZECrvbQ9ZDnPhHeSg=="/>
+					<symbol id="2" c="xaqkFwvuShis5WQyjPf1w3eA/dtt5bYljiMG4CMVccbvLwD2KxASYObHXGSNEhhSjU/bYyZKk6yzRkUmfrRTSA=="/>
+					<symbol id="3" c="DyjgA8lrQb/JK9UQHxOk0KpQbIZCImNJ87FacN4OzTHlq3MBdoIJIBrol5aK0ZZHK7cxPN2wr1wMLN/PKztT7Q=="/>
+				</question>
+			</ballot>
+			<ballot pid="33" barcodeSerialCommitment="959jUfAgmQyF5zdfwG0IBHKr6x6JrNzaT4UiefDeT7lz495Pyumu4cu1ALs/BM7XzzdPUw7xrlaBe0uoZ+oOBA==" webSerialCommitment="0sk3XJY28I2qq0ifoDPI6XPLEXz2PQiKApm8fSpMZeGdHFMmV8Cy/D6AyOhQcjtVZlQwhgAaUjT7uyDIggHWdw==">
+				<question id="0">
+					<symbol id="0" c="d/Doch/jIIfGbOybM/WX1foiYmDhLlXQ0tkdp92VwIGLEu5Nbg9nC1/yAbd4AsUWlPnJmhr8L4yH+Wl6snagrw=="/>
+					<symbol id="1" c="ym2fD3bMDV2Nutsb1e0xGOQGNIxTXetTd6KeDxniZe2haKlzL2bnerEuWyV/2/Z/7Z2Rkw6mBKJ/964NLYWX3g=="/>
+					<symbol id="2" c="nA2d/C4akbxlUKIeNSquzKMZmnLmWFZMtiSoL6k2HA2ozBE3OZ9hHD7jc8CpRjvtDMsbZ8uw+q3LZZfLJA1gvQ=="/>
+					<symbol id="3" c="4KQhnWBckRAkgQCD5YiNdICHVdDI3YqPummhXNn8m2k66/7r8tsW8uSiKRVCPRGABXJvrPNDiaQzbKiXEGRy9Q=="/>
+				</question>
+				<question id="1">
+					<symbol id="0" c="pUVWAWEVQwIPLdHOpXmeSpJr0cieUbAGgZPGPbpBvIbGI49NbQa/vui7oGJKMEKbJjdPFcZFg7ybwjXY3XmPdQ=="/>
+					<symbol id="1" c="Wj9z3A/bP+o4fW/fZppH/kbMTSHmoRs6kS7C3DRuVXScY6uyAPX23/CZLCEke+aRGFY3NDS458Y+eIlIvvlsIA=="/>
+					<symbol id="2" c="/I+wyt5Htyi64hIhsqT5z02fwwm6Cvav8UJr3qjIumGp/nr2Q/DBQgIxQ5eNxEttQJc4yyq5+EsyK8KGCR+YrQ=="/>
+				</question>
+				<question id="2">
+					<symbol id="0" c="jfykl5ottt4WnX0HYg64ZdPDgF7IPfQiU0Gf0yBg5Tjzpdz4xoCcnCJfHJ4VsniBgh027v42+UF8RBLaH7kKpA=="/>
+					<symbol id="1" c="T76KvF6ESnwusl4WbHjIdu2uS13Ty3b4ltJv+lCwWtk81HByCJ/kaelNTb/DfEcsjuvoU42434MNsXbHrNno0w=="/>
+					<symbol id="2" c="tvfJpKXAcl4dX+BzJoeRtdIVJzC2aoostChqmQulO9ZLNyaqiny2nl14Xx8Cnkqlvo7f6in6D9Mioir7wiUu+A=="/>
+					<symbol id="3" c="N3ZIOUDgp8MX36IMbq4/5HE117op4KUAwK8dkBiWovQ575SWg/KQdBVxAoTBatgf5Mnw2h0Vn7oNiU/uRjDagQ=="/>
+				</question>
+			</ballot>
+			<ballot pid="36" barcodeSerialCommitment="kPnduhN/Cl81JWuir7wpdw1LTuMtQhwjDMT96bUmjSoNckWMQJau0WrAWwGHbDpUqiTVcPC/LHnUp2RrFJBglg==" webSerialCommitment="PK4EQgDH8Poxud4tuKMc7Z5R6ihuhBTlgsBA/SwgjFq8YB+54dEL+Sip0AJNp400GKWPD2e9VEvIIZdcMlLBWg==">
+				<question id="0">
+					<symbol id="0" c="nhmaVlq6rGpmPus9JIlWIcpFCkfS7v4LfrOMLzzRyV6r6XIhCShcnE6JZ47opSC+ijZwgtGSFHRHXXbWyi2p3w=="/>
+					<symbol id="1" c="KGPHNmqWWLxWAM8FbgjrhC8V4ylJCa54asU71dTPawOLW+8O3utDkmSm9HuHwfp5soo/r7XGnHv2aZl2a4sVoA=="/>
+					<symbol id="2" c="U9T7q+rdX2RY6f2qpsMPRvHRipKGh6uMbB4aZUbl/rhZ0Epr1PXUfnoY6loFC+msVbYLSoZMrLeh7vOd9JupTA=="/>
+					<symbol id="3" c="jk8PuHJfplXH1ZSmaWv3/Gn7aJx2jXP6VOlNbhWNU4NouOUWv06lwBm1Rjy4dytg7fbimmQkc9LRpJ9xy6CJxA=="/>
+				</question>
+				<question id="1">
+					<symbol id="0" c="5k6Oa/XFRnpwJbu0SxGYN/qy8EnpVrDZn1zRoSn8Np860W3Qf+9vS0Uj8MsXWLYNKTDNYx/TTXwQMktMxUQi1Q=="/>
+					<symbol id="1" c="dk+6AIJodEmMDZnE01FbAWzAPkuz7Tv0NR7ioFLAewJOVHQx5YG3ooys3xUFlVS7RC14Sqx95eR3cwJx0zV2sQ=="/>
+					<symbol id="2" c="UzmsqK23xwS/CZNIIMCs7uJQM5O8FbkXb7W4z3++PPiVa5mJtEH4UpPPW998ZU/X4VOHxaqaJVkmFuvTEzqm9Q=="/>
+				</question>
+				<question id="2">
+					<symbol id="0" c="MD2IlelE6lRivMuPfrNAJwMPdssh2ol8dnCQdUrhWEtH0IP7Ber3WJD7AY+GKF8+q0ZDRnmccxf8rVUdfrxtew=="/>
+					<symbol id="1" c="NdDk2CdVcwYt6vj3bstiyzBbyRyS9De9o0km126J1lgNNjgqNtBshsWrQEkik1ZP9BkZSEZgTEQyXr9En6ENbg=="/>
+					<symbol id="2" c="c6E4KHZOaGOhAHH0BL8gjhKRZQxNwI0LLAwj0YfHw7ao7NhUkGGFEw8sAJGDDiNW4BY+XFKEDTy7QTOEoZzasA=="/>
+					<symbol id="3" c="+T3CeadT0jSvBq+mF2ajQLvp+DJdDzsHY92izalhN9cMM73Rh3fgN8DuovTwpBiMU4o+LwBERbXZagEoEvLWAQ=="/>
+				</question>
+			</ballot>
+			<ballot pid="42" barcodeSerialCommitment="Wqs52B151v7X107Z/oyMzMvXnN+0ntf+M45c74zUiuAsgqHkv9xhAWjzA1mrgNVNg2f4h5h1Z41ZEQ7cHm5k3g==" webSerialCommitment="gFArNc3NAeTgqQO3bJkr/FRl6NbowvCH2q0WrSuuJMHKazPLR3IHqlgTEdT6ndIo7YReF5FvwNWuZIiqwAFz+Q==">
+				<question id="0">
+					<symbol id="0" c="y3BE5EP5AAtsWfo+r9AADd2D2h0UvH7LZUxi7R0aeueDJK/fv6ze47oo9hDFo+1DOIbg/PiQXNZzUaxs7uu8Pg=="/>
+					<symbol id="1" c="uMtJc6BJLva2fF0Hf1LwDLMsarz4AXH43T0wxZGny/FBG/LFon0AfJ47cdHGl1OuxMbBgl7+qF72PlRCTTcJCg=="/>
+					<symbol id="2" c="RyT2dEnUJC5qUAs1yheW/5npMj2lNC4plBGH4uWBK4G2WDLbFE4CUXRaw7mosZeFBjRa0HAsm1eqI7w9XGK0xw=="/>
+					<symbol id="3" c="hjWJPcTqNi4HWuoo2aJt9NuVrJWuTzFs7B3VkpFB3WT0nEJfDRz+3anbyCbhvPArtvfNfKVuY8mHfGmK8YVYdw=="/>
+				</question>
+				<question id="1">
+					<symbol id="0" c="UCD2GrxqVBHHZDnlB58lUb/i9OcLEGCGsPggFyeEE68Y3TjSaF84qn6VC5ScDOApBpjp9hiZigLKA33qeqr/HA=="/>
+					<symbol id="1" c="u/iISBYsddaPzDRxHWs3UjoSWn5YzDG/FkF9lI+FHekamOz3SLGkQS4oacU5eSIjPV5G/f1Hk8vJuAr2PPlHkg=="/>
+					<symbol id="2" c="U7pPwxAb4rpunSoQet1iKrEPjWPN6Ph4RrjYj5ZzSiR8uQwNm9zwbNfyH/O34tkvTl+zrz1zHag83Gv2jfXCNw=="/>
+				</question>
+				<question id="2">
+					<symbol id="0" c="PUUVQ6U+gkwlbceBHK4R1/bmKtYMv9EDyt81bv/Xrzk7CZ+3zRK8rlvR+CQiJ27qTXGPZDfABwwNyCJDr1A6CA=="/>
+					<symbol id="1" c="FSHKeopL6wZ7tzQohOZYOuKmt4A5SXe+kJJA+pSmae9CjrIWgob2a4L4tyc+rA5J56GB3ZZjhAzhUN71gTJz7A=="/>
+					<symbol id="2" c="nmVKwhFyjKZiLIA0FbkBDzTfkAqLHsaRjhJ0v8aWxGLGXm63mGrBfg/TJ1T4gebeMSap0fzt5zQMmT2BgpJoOg=="/>
+					<symbol id="3" c="3LwUuh+dbbu04ugjZbopVbVciSyfl9707w/j8dEyhRq3VJhloGtgRt40UQS+ZHiSuEQpgIkoPcZk4h7YtEsBKQ=="/>
+				</question>
+			</ballot>
+			<ballot pid="43" barcodeSerialCommitment="WCyoZnkIkDI5TNErwYZfudJgrfLomZ74Ny68YIO4X1QgXQOiT1RVmL0ksrfWFNW/dJfp14PQ6jW1dfYzrCDsfg==" webSerialCommitment="12FBpgOMSiz0KKPBum/z7QDmsYiGlemscrxLuTAZv0Q8dWLqksgfGejQwrQOyBl0YIw5yV+wy9Y5TvAxE1krrQ==">
+				<question id="0">
+					<symbol id="0" c="fJQANbEg8MdiktybaHEyOo2fvIElxAiF16AMS0rbhhxpud0GcMt1GDVaamTSk5AsNCAvRLPZ6dcPIXPx6pMLuQ=="/>
+					<symbol id="1" c="Xw4Qe+hOA5vJsvYW1g9ywO/J2FuP4/e+LnP3rZt5vSko8iaHXSI0Tf5wLhnFAXi9Ac/ldoVCuJuXccMLx2ltTQ=="/>
+					<symbol id="2" c="CtfOTYeBPCARJvovJ49l+QYAez6mkPTvXiJLFgum2MVO8cV2UrNvTRwXW6K317oqmUXf21T9ZuCA66Xu82Wy/w=="/>
+					<symbol id="3" c="hy/mgpa6hnHA4RjrGnyA6WBa1upsg71z84Z7/csS5/U3K8FFNp6W4X3P0Ae9kWmVkjsA/cs4sn+vuL0iKnK0zQ=="/>
+				</question>
+				<question id="1">
+					<symbol id="0" c="dA7oEAQZ/ZRTHSn4uRiZqYEr9O2bbGuJO9WsWqtLQGHh01MO12Oe+Qu3YqSKx3SPaU8712YekJl+x6XHgzBnjQ=="/>
+					<symbol id="1" c="JqJnFZ3ue4rMzykQb1qfsDo8Xb8wwLs+jLjjSWcrTnQk7zsuwyq1CdcBbR46LqNsddFdQe5H4+SFOwEAw4/Mhw=="/>
+					<symbol id="2" c="pw0xjiuYL4JhWo94n2YV4zWTLpiTyzvIPqjSVvq2MN0B7/EHN9HSnhyRa9dVxsSRFrnGbqrwaOLIaY5coF2WRw=="/>
+				</question>
+				<question id="2">
+					<symbol id="0" c="OsfJmE2MCflf9AnZLbVD6tEJSP8/g6R18CvfZhg7yW/iUbf7gpXerN1+2qfzeiVC0MQ5xrq7mn2Kae2cCJNGtQ=="/>
+					<symbol id="1" c="YE/lY6FiYgUcluUL/uqQ3mFcGQ1+6PA1Jr51syIX0m9V2yBxauKi/GHKqGQnJYcrRBltsITzgc4VfMibs/xDcg=="/>
+					<symbol id="2" c="RwMyBOeYr5QU+oQgQ0SG9BWrW56K7cKnaOcvB6CjXUl66sSoAXE1II3u8tVfGCiR6R6LYr4kJl+ctEFEWBTe+w=="/>
+					<symbol id="3" c="8EB2SqNdUuBuB+PdH1eVCCevklkJHSYIrnP/MRgJ0RoeX+7Oy75nnHfFazyvIUD0vRbu4mclrSNeRt7ysMKL9w=="/>
+				</question>
+			</ballot>
+			<ballot pid="47" barcodeSerialCommitment="78/GIPrrxHgmvZtmgwNVxVc45Z1rtbLXc7Cic8n5rH8qnd9UF6VU7llCDQmZh+7N1zK+3qCsqD2UkeEreVMdVw==" webSerialCommitment="MjvP7KaMpxGacFV34WkJ4cUWmacf4iHM7qxtTk+KDNTmaXwsQUgN5glelS+jazcIFvqSSp+gU1WPNFB9NVH9Iw==">
+				<question id="0">
+					<symbol id="0" c="6QO23AJFhXb5ERiylhNp4ah4TFx+pzQzLfm9A0/mTJB2+mysnpd3SC9MgHSTwwrTVKk43a+vyoj5WjO/nQ4nLg=="/>
+					<symbol id="1" c="SVBdkoyoK/7T9LL8rE238J8eOF0IILwBlIm98mwFfHdCcOF2lyn2Bu+Vv8Cwl7yR3ru89f3an+uYwSZLOFdpxA=="/>
+					<symbol id="2" c="OkWdY+Q2CEXMfkelz/Q/q+Oo0sIThnoorjjj1dUfBfbbL8rarD3RyzvE85JtkQgC/3nau497SCYBJkwjFSxcNQ=="/>
+					<symbol id="3" c="oMfJSYPwVs2m6stQ2wnMyzEeGEJhaTsfupr1Zd33fNd4je/yluuXkKQcnF9gcGZ9/hZKsibHa+N5RHv2lJ46YA=="/>
+				</question>
+				<question id="1">
+					<symbol id="0" c="xiCmhlzodJMI7OyxZfpsCZ3r46gm4JP1GWnu3kS9U6es2Olv69sgwXTJnUoOwXp/oWAYMdpo6LJr86Ny84ru8w=="/>
+					<symbol id="1" c="95lpB+SUIE1s+hsRHjF4T4/9BzEjyf7Bk9MpxK3l23KMxs8IwlupdvgxmMXySZ/SMDgH6FjQo/8Wk1fPkgpUnw=="/>
+					<symbol id="2" c="Vrdmdu3k1xagg9Ac9X7EWL9nvgriTeoZgy6i9PSKrcx14ecg4I5xx56FsILgthNpFLIAul4NeCWFSH57T89G0w=="/>
+				</question>
+				<question id="2">
+					<symbol id="0" c="SI2hobnRo7B3xkBbrYLeOCepzwst5lurka+IuLrm6dlq9XwTlCKvQ+Cz/UsPB5d7vrXBFOcPiWwAzJMB/ytaFA=="/>
+					<symbol id="1" c="FYFjkgYeW7e78NYkuzY9hfMxKzgzqC0s4wB6KXB7dJBRARMVGYHkyF2xeoi5YZQQUfUZoJXVIpcQXw/pm68eRA=="/>
+					<symbol id="2" c="hFiyq67eS3j5iTvD38n0859cn9pqOXj2fbBJim9qjOxUozQWHqk/pia7wzwB4RuXEgChrza7cD2s3zVRAcUePw=="/>
+					<symbol id="3" c="917ogLbi+sw/swOqvatS9G59OCAdIK3vhrGu0O6ss9NAuYVq99vowP9Otcxmj63qiLMjeOAHFxEliNEk2MCiNQ=="/>
+				</question>
+			</ballot>
+			<ballot pid="49" barcodeSerialCommitment="0J4v8GARyxgDIJfSioYn09IgAp5xdvj9o439CMpY1RzvYDZYJb8jSjnSq8BsrpCoQQvo9mW6/Ev2scxtbu1lWw==" webSerialCommitment="o6hcnMDzxLWGyw/7NgV5aZzN22Gdr4Npfr70lP3ZjWoKuXeiQk79MxdspE1kXcSrMFmOhV+HJVlwl8B86K1yOA==">
+				<question id="0">
+					<symbol id="0" c="1p+SC0FIEgk9w6BwzY0aotxvn3PYVfgWEMJUxi5YR6g6aWbQ265Fh0Kq0sEuG74XKOki+9MqbT/oE0OgdZZs0Q=="/>
+					<symbol id="1" c="EXbTYxWMZzs7D8jQTa3NE+spUtUdWTKfT70W3bEa+gLDAwTFnDVmd006cyVXbdENxMAg1pxOXqWmUiygurPExA=="/>
+					<symbol id="2" c="YrmoPlNzFFvNrRLPq1CrjrAtr261f7U83IPAenPsOZ1JXYdG3XdcYvWsu6VzoV5K37R4WTJbSGVTb57dmPRJAQ=="/>
+					<symbol id="3" c="1YLtyFErQm54al/TMMySIlkyhKIR+5io82QmZMEUc56Zci01Yl4AfzPS+cYfkjqhXFVGLuTlwDX5ct+sglZh/g=="/>
+				</question>
+				<question id="1">
+					<symbol id="0" c="prxZDkCzBH7pLu+kbh7rvbcFpJBcUrlouh5jR32hMt2tLr6kjmLS2uBAuqL497fFQviPL3W5wltgwjEcEofGEw=="/>
+					<symbol id="1" c="+m2yOAarDXFU/AMb7ZfjR04ND3cpkZjhpw/3Y3cjwDcyfk7r3/+NxTO6NQTNFtwzpTwCShwEXXO3+ajOIDwOGA=="/>
+					<symbol id="2" c="lunejs5sUtOhnupLc3wBhBU4bhYnAX5+CjQBAGDpIC9mJAhmNY7RjpSnfKXO70NqpE0mrDpcX7WZHZ0qzLSnXw=="/>
+				</question>
+				<question id="2">
+					<symbol id="0" c="eHFRI3mZXCzmh/vr9SgGENFmMyhTwdQ1YI3czuOh61PE7DwE1V2X5RdZf1mniZHwJL7NmBFs0bkRMxUACerLaw=="/>
+					<symbol id="1" c="Jxc5ylm2EiJ7vMxB9XVQHlY5jP6DgcLQpYV03vnxcQcwDH1m52RF02Bocz3dGx6pn1sKttmkrVcxnCYIq0p7PQ=="/>
+					<symbol id="2" c="kgOGUsrKqM5+mzUJxtd3kwMpxFZpKomVAn09VZUREwxcEZP+62wIihxxqPy/FqIsX4Pp3yl3e+0GjIerK5fc4A=="/>
+					<symbol id="3" c="4yu1/cmiOBbIW/+Gq2Xgo5pUO2Nf7NU0M25qHrWrcueM9+GYa+Jcp06/KqqcsF88Rv9S44jlw0LDrWSvhCy7Rg=="/>
+				</question>
+			</ballot>
+			<ballot pid="50" barcodeSerialCommitment="+aXofKxjbq3Uj9/OCxGparBiOqDyAXF9QbC+U+gRPDoaOjDr2fkqru6whCJ1X23w+48uPl9J2/oEdAAi0a3DjA==" webSerialCommitment="Y8mjonaKzLoFaHXJL1Bplp+hwqSciIKRK054UARYYZmE725yrY9f5F52FQP7ZnRxwwIVpoevMjrtup0u4bHhdw==">
+				<question id="0">
+					<symbol id="0" c="MhQUdbnuGgFGxYA90hmOgzCRdW7901khzJZhDpQ4rVlq+1XU+PIPGLvdg5BBEFle26O3iHlAq0GpEdtFlplEvw=="/>
+					<symbol id="1" c="bOvH1woSWUhkFPKLlnA/D4hgDT8tSVM0OBBzpEXm/GUnuUVJZJ8rfYNJZUTViD7VHJho/Qyshtn3NhHzy/k6eQ=="/>
+					<symbol id="2" c="uJpiRO5pTionoX5QmHh1Iou6Nht+CCcSQTch6GfNg6RZ2A/Lfs7I884IGDtldfLJhyjlFpJpIhFnsvlLO8M1nw=="/>
+					<symbol id="3" c="R6Mzu8eh6E9CK06Su0qdR7LJ+JM0MWmJF2gOIRZe4FAthveXLtkgo1Bw7bOXoVO2p9lO8PV1mLLlj9FkIc0MfA=="/>
+				</question>
+				<question id="1">
+					<symbol id="0" c="P4hw5YnI18Ym9NRNSqCWq8axHFuV7h2LsW4gZFYPvmSLzBhNmMaYoZN69AAqkSP1pJxvtQDEi5rc1JcFNLzd4w=="/>
+					<symbol id="1" c="rdASCHDJ+/mYkIokgnCBmsFgxf2vifvUwga8fjPw9Wh73q40aUYihylrkUWWFw9hNoCMAIm1fiyC+AxJxlIkyA=="/>
+					<symbol id="2" c="44uPYdxzslbttSiMSVQ0mtW4qf5sIyla08gSSWG/1TXte2kvLc0Q+yhVpwr0cxseL3tQvAMcRK+L2ImrES5m8A=="/>
+				</question>
+				<question id="2">
+					<symbol id="0" c="RATPn4BuspDFlwwRaU2EvJ4NdOh23RLbdfIdn0rDOEnnvzB1NQWUW/y4QFnX26WiqsLnDL0W2ng5OhZ92LVvKQ=="/>
+					<symbol id="1" c="tHvCtoMMi/KI1X3Y8zZDEC3IeySDLjkuWTnw9f/ZCbMyX2BRIZpZ/Y7jtU9qhpXnZaEeiFGf3MbW3q5XzETDmA=="/>
+					<symbol id="2" c="rbYJzwQ3QHaCmxmVhYjbr5gxdiNFOjxdoMtiEz/BC4MKZBy2tVbgi85PgBiUtIfboxEU5C463sFUrygK6XA/2A=="/>
+					<symbol id="3" c="7bZL7UZvmYiobTGZNeXIeGrSfVjj4eB0wZveZr5g5P2LAvy3MaXxKRwoFk0FRtcxga89ayhE/oFEFJsAw+RMxw=="/>
+				</question>
+			</ballot>
+			<ballot pid="55" barcodeSerialCommitment="G1X8Hnu+AtxtIzsoblGwU271HKiBk3KgLNkeWmPodPImSM8i4bfiXuTwe0WPmFU0QMFyzjypJDRDYSX40/P9aA==" webSerialCommitment="Wc1UaDaXJqsoV8idZ79/fjIyeI5MKcjXSrepazX9XQWsk5ASJFDK21SG4+dtR+6zTonKjh2Q7wF0TV4AqzmHbw==">
+				<question id="0">
+					<symbol id="0" c="qEUDdefytTlpdnMKGQmOTWEAwMBetVeIZhI4h1wRc9VwEPPdPmQKRZ/WJgnlkmZWp26+eD0hdb3d5jVzSyCyww=="/>
+					<symbol id="1" c="xUgkboVBfc3b24WHORYY39F5drDYXboRqeUo5fAky88OpqyNXtfG0AA4VuBbYtm5tkDShuM7V0mHC42jRw0RSg=="/>
+					<symbol id="2" c="g35EaJWVS8X26LPqSsdlo9PQnCwMJLZUowEh5U9kZchGrdS/yvhuG+gq9iaJhYXhedHHstm86ieh3LyMQ0kmMQ=="/>
+					<symbol id="3" c="Y6h5+l/CNBIYDoQnGlT83rthmx3a/ek1K7LvcoTuPDPX0UROJvkdmLP+v7mANtZ7uyL3jDE4eQQWuM3YVc+47g=="/>
+				</question>
+				<question id="1">
+					<symbol id="0" c="L6ozw4FWIo++pCgw+4B63u82FXz8wel1TzTq83AOyWBycFfD+48qRw9GVs8uSiwJ6Pi4LwbaOT2AVGSuSInFbA=="/>
+					<symbol id="1" c="949RLp8bFkbczID0emMyf9tfspETZ6Mxx/I48XHl6H/2OzrsvHK5ncQKvHtRJ6tSOf3B+8eYwT/+bFg70+AD9w=="/>
+					<symbol id="2" c="NIo2wdhrMP5PHkmw4vB8vLffjXjOMUj+bpHrVWXFfDNIAmlFx/pu4UwpsC9so30XfIhZYLM+0ujn9a24J/0akw=="/>
+				</question>
+				<question id="2">
+					<symbol id="0" c="cAjg8kCW+k1CRHPUoHi1PJ1LC73lzLq1l4YQrOF//5G8g52wewHj638xYbbHgRmfXX1dhtPzdBUPx2SlwXnejA=="/>
+					<symbol id="1" c="/hT7oDMZ3+LiYgkJnYqRKR6G0NCNB6D0D/EfU0StbngfdA3m3fOdf6u+SilxR4BY0UzFGFJH6NI35vwpC7B7ow=="/>
+					<symbol id="2" c="zVspyrL+rHtyoAlfQWD2rdWdwTjvXCb4ISlJzc8DEnvnLVKmLFH7/+dRbKCHDWcH19uEJIza5TTwShFRRFYndg=="/>
+					<symbol id="3" c="5wcqUZ7lCdUwrVj6Ifr6Xoh4fqQon8gK7gqvyDc/K7CIfjctFGeaiO1m7Jj3eUJFYz0HnupDmT9zurAHEKYGfA=="/>
+				</question>
+			</ballot>
+			<ballot pid="58" barcodeSerialCommitment="7gZsb6+es4LLC0hj+s7zgl8Yhhnhu8EMHg6+VXDFNZFX1wmIAy89FHRK+SFPeo8E5ULHBAl1KgLoIM9VGne3Sw==" webSerialCommitment="QL0YYIzeOh6+9okTKXE+OOgtfYOGbmIelFXmkGlvoSZWLBy7A9RNNv4pKjODanKpBSA0LvuXfi1ojWwWEgqucA==">
+				<question id="0">
+					<symbol id="0" c="Lt80/y6KjFFTr7xBdqhf5XflftuWUNCgi4qXwjnEBO6dlDkTYVDBp92B5Xb91goJT1XPK4FFzPCJcex2GpGSww=="/>
+					<symbol id="1" c="64i5rN1eZfwU6nnHAi0nBJCrN3uRnpYBlkaz/svonUZ6Wz2O81qeDleFyV1F35eq3+SHwHRUka7rtliExD95hA=="/>
+					<symbol id="2" c="E9RnwyxXAjEsJifrxq7nsSPlQkQwZaS9AZM2ssa1rOgQOHhVUzsSvMt+zUDbeP6ht2kwfyNrQM6FJSZLgGFTuw=="/>
+					<symbol id="3" c="whHLFExczU58XOjKKHIJ+EhdLl8mK/gZyjwbz/egjQYJOWYsZNAYjmP6oYIeP8NPid5FmgBpwFOv5oF9xIr85A=="/>
+				</question>
+				<question id="1">
+					<symbol id="0" c="baMaYVa0tO66aDDjPb7fhIz3oMyTSXVTSF3A5LPSsEGkTQJR7U191WE2ayBBZzGvqD3YGCJkgA6nIK0B5HS/tQ=="/>
+					<symbol id="1" c="ZXTtHQHotAuXzeXukq5GzziU4Y19kX3kxiMZMlidP6kLubC/Onr0sGJL13Td7AFy6e6tpRhe20LC8xe7oalP/g=="/>
+					<symbol id="2" c="UdMl8SzIIr5LL0KzClNsBPSL/jwVfn9dQY5lEbfBJ7JwXqT7ICgcTcRqhabi33jI71X1hI+Mqz78dx9OcNRfGA=="/>
+				</question>
+				<question id="2">
+					<symbol id="0" c="0I8FzUls/ILebNSSZi394hWQ7EyZL3h93slWH9/Th2AnL8Sydep843Nfn6to0NvKwpktL+BigrYPzvf8scTKXQ=="/>
+					<symbol id="1" c="Uc0RNn4iwxFP8encE3vrMNqL/qAE1fOH6LOxExqA1AXL02DnrFuMLfQtfjuXWW/ruHHFO5A52xmj2dBgLhC5ZA=="/>
+					<symbol id="2" c="aH1SYL5uo4Z8ooZADe4n8HzPWoW2Yg/oCiT7hc7lUvfB5qT1NwuHuVUBGUPRqH7ymUuEaeQqBmDkMCZ1nNo4bA=="/>
+					<symbol id="3" c="nFwdakWbaoXNycavjYZaadEP29J/godhHFUA2gZ4IYRdAIbVEO3neUZwvHig2z3wXRZtMmxyNjnl36fkPra1rA=="/>
+				</question>
+			</ballot>
+			<ballot pid="59" barcodeSerialCommitment="a+5ve4+GHs6bVRXQp+hOIKXidE0dCl0NsdvnfCzRO+x+LFE0ycoyNiJBSUqzo6yAc9bp4btt7XrHqTlTH1Xt+g==" webSerialCommitment="UCsex4dVAQW7Kqo4JPr/0nd/PvGjtfEa6zIz7/eWt2eAGZzdmmrA/1UNeZF2U1Wm9mUZ38BDhN2YoMtlWB8iew==">
+				<question id="0">
+					<symbol id="0" c="gCRrQhYcKoXFedbJSEcQBgRlzytr1d4jbu+Dtz58WTB7I/x6gDkAJZdrrhvhQ7m8lT6Yj4+QLmG7+DMU0FMHFw=="/>
+					<symbol id="1" c="9p7KvxA0y4Q6O+8uoVpVKQ/0j1pTZEr5mwLwLy4t1SQhyhvK+d4gmZK2iBZp2OE3tfYYfJ+jB57ReKmDfD81tA=="/>
+					<symbol id="2" c="HPUnte3dE6R8L1J4C+8c9TwggIR9LFYMKT+GHnKENyC9Ub7h2krEwzHMPMPYJ2Iqw9zpkBcOnQ0A2bixJ05NYw=="/>
+					<symbol id="3" c="zLhTgikSoXJpiHqjhB4hj3x+teaJjJlFrlzWmyaeyKOiqspOVABfDEXkrB6/upBBq1ELGgDcI1UdiWo8YNul7Q=="/>
+				</question>
+				<question id="1">
+					<symbol id="0" c="HLJrfR3yiyTrwhqR61Lc/ouo5UUZ4BIw4jCH+aKTLURW3HA6hYX3D8cb6qdOtJUn7AcdPY5t+g1m9qdFX5PvWw=="/>
+					<symbol id="1" c="fGgoLATyX7sp5r1bVQM4WqDdAPA+bzOaI4H+5CM0j1X9agJfWHMf/AniE911Z0UfMJQg0EIXsE2RgI8+YLVKNw=="/>
+					<symbol id="2" c="DV+X3zovnsGvr/HjmPu9g2rx629S7Fs0E5yEJjyXTO+Pe4retjKV7ty4v9t2XWXW1ZUSAnlr6I/OtAjnGbzbmA=="/>
+				</question>
+				<question id="2">
+					<symbol id="0" c="W3XOsfSz6L5N1eFoSb7mCOjDVlK0cPZ1twAWXqzWO2x4ICRse0A9WvHUrux4om1MM2DoOjpBHYa/cqg5RIg5vQ=="/>
+					<symbol id="1" c="VnRETvMZuqL3KaENv/vhcpY4u4NKvmtetUTlA00dovG5D8jQVJTIzZWIrfxIiCJgmauwm4dxd3joC0dNRlTQWQ=="/>
+					<symbol id="2" c="XN9J/jZbRhbtrTt8w5ObAdng21or3rt3XPqHQvpWJEN8E0oZUsGCxU14WKGG3Dj4T3wrgPAuIjfMXec08n2I6w=="/>
+					<symbol id="3" c="tigg/wjEObaX8itSuIDurjqGmrq9jZ3S7qFn8vUGYCS4203PB9AMBOHNnEXMDUZ8+J3OTPBT4waO0T7qVzcLWg=="/>
+				</question>
+			</ballot>
+			<ballot pid="61" barcodeSerialCommitment="PuXvdKGolxMS9LOfOkmrlIshF9GPra9BItjLdrbdzbdzlG33E4LF+i/Dk6HbyFfOg2UrOgfucmgbnJ39tqZs4g==" webSerialCommitment="jNY03DWc8UtvJBkMzuw4lNGNeiujD8NDNqoZfhEYScYtNWy/+bBrRMgTCT6hV2qZHnRzBYej7JN6fUhQ/Lco2g==">
+				<question id="0">
+					<symbol id="0" c="6tNQmDQpj3VGli1ZpY9HJeb4+ld+kY4JCmuhrdGLXTMLwyZ9XM8k84nIomEoExZ6O39fLQpkI+eXV3LDwzxxzg=="/>
+					<symbol id="1" c="YyOj5LYp8gJMl+x0FKamIr3Nv049HSV1B0wkHijMnpn1A/DPJ6Wp6OSCY75V5y7JqrCGAZqnoRwJwl20rXwYUQ=="/>
+					<symbol id="2" c="HSsRkitFUS7F5HeJmWDOXFZVgxjzkV0M/te5Y7m/5TIKQuFV7st8HgAx1zlYTy363Sy7/BbH32YeNj+soZ2R0A=="/>
+					<symbol id="3" c="A16uPpcTUblVE/E2RHZ/q9RFBytb7oZ/RQYyfGv4VYLG9fY2A0Tm6wCQOcTOEl78S0pKtnyDJXiEmO4coaDs7A=="/>
+				</question>
+				<question id="1">
+					<symbol id="0" c="Lr0FQeiaU6GabS9LedkhizAjlTj6k7EKqtFNgWbg6/3xxwWwu9859FKQix5w75AvlHhlulPvvQzv6H4KU6LkNg=="/>
+					<symbol id="1" c="l2UANbwGnslNbfS8gKDwJ8dRfLjaZe3XC1+3mhtT7ME93bWlQ+ozuvJlXg3vEzUb+cQm+5a8RS/k2bDjnMZUfw=="/>
+					<symbol id="2" c="uGUQt/wRGNAT406UbgmQ5E0quE2llMoJx0qz2EVweoR9RbWaNYpPmrt1ntiicwwA8gXUCOqA58V8gJPf26HBXQ=="/>
+				</question>
+				<question id="2">
+					<symbol id="0" c="U/d6BbVzUx5duw3bZ98fE3sJ68QbDuSvMZNMKViDMPwD8HNQj7pOWqTJ5IKPDUKNsViezDKnftd2lzD+E0HrIg=="/>
+					<symbol id="1" c="oHjbi0w+9z6JdkZcnDH84On3uHZaHOsiEuAG0h8JDFtTzF/rc2p9xVStlZlzBI3ucdKnnCj6BZjJfivpqJo4Mw=="/>
+					<symbol id="2" c="wbuDHWyx0aFsGy9BF/qehixwNOa+G39Aog69tLl8TjS6gEBbQbbpDnSsxtY/Hs1JYicG8rPlifxHCF1VZsYV3g=="/>
+					<symbol id="3" c="03SFIFXt3yq58RtJyDw+9nYAZy1VsBZ6D8XkppDNGMEtqI5kie6JHXlOZj0gjQkkvaXVTetVZlFf4ur8etXGVw=="/>
+				</question>
+			</ballot>
+			<ballot pid="62" barcodeSerialCommitment="s0Xyuae/MM4yhzw+aAPHGitxDaaGEAuw9upPmUWi/goULbfj0gxEl6bh8W3DqTQw/8en4hQDI+FY7TRFBe1zNA==" webSerialCommitment="c8nRok81lqLUR31NAEDhzRF0LwzqrFbzmqNywhQFOqs0DuRqbnyE2h28cmgB3QLxSaV/Yt+QR69D1EnDsSgSCw==">
+				<question id="0">
+					<symbol id="0" c="1ik9Ait5x3Y4boos8/cANMqNM3idh3WOaRGpKdihbtNdwyZ2VKhHoAQHayh+nVFNudr/4nmGMRGccZPqlDRmvg=="/>
+					<symbol id="1" c="JPvsgB/mcF0euEjIcqV2B7NiOd7zG8ZIVtW0nSaLo9bM+oIgG25JK1YWkSF5OrfWuZzeD9cCNmfe6mUBEwsNxQ=="/>
+					<symbol id="2" c="lXhSq60ooWjrnftbsnw8uE9U/X7ewbcU3DlVkwehloSvWamfkUL5Sn8wdAI8nv6AQyJdB5w/M6Th8p7w+ylpmA=="/>
+					<symbol id="3" c="XKA5mWvLRHnSL4Xt7j3McarOqsI0Pc/1yQwUl3P5rgsbelDAj515k2t+75gMSOyNX/lCx8ouda/8cgy+kuUOHA=="/>
+				</question>
+				<question id="1">
+					<symbol id="0" c="7Y3/xmYLRh7RrNaXECwqbKXLSJoZm0AQEUK4UpHUB7wl58X7UcUlVSU7YeB6tOpU0o7IxC3ODMkdu8AidHsE3g=="/>
+					<symbol id="1" c="nurtimbHBJ8VyMkEzclHwM1pbfHX+jWlqimFsv6QC5RHzSeO2M2gjFQrpPHDjsyRydCOdXVAm414HXAnQ1H7Nw=="/>
+					<symbol id="2" c="g5LRbmjpYXS8aRJLSE+vpQbUuK69IWel8tXVtjN0Um1cf3A8kAK/ZoSJM2w5rbeWEwDkX5wBgcKoQPBI2i0y6w=="/>
+				</question>
+				<question id="2">
+					<symbol id="0" c="qGlFv7oJCwzp7H+0k1TXn6qAIMWfr0ashtBssiBNTmpJeHMaI9C6o7WzIYTUzbhnXy6FX1lP4T1D+ZcIMjMVjQ=="/>
+					<symbol id="1" c="pJicJtBU7MThvEP9xIBWTU2f7mOXudIpVMU4n+utofdYeWtOIFgXjpJbhSfOKCGwnVvgfKSjbznzm+/DQUNXDQ=="/>
+					<symbol id="2" c="FXEqPeaUk0hdS5w2pmsy2aIJdRmrvpKEEJVlObQjS9lhi2EaQJNlmJ03pmj9eH/6QSYYw5siHVt1akquirB4+Q=="/>
+					<symbol id="3" c="jqJiv/RowA8Etwbt78YbWDPq2ZEcQafqyrySyHkXGqDS4xPfT1+5GrbXjmUUwOeLWqqrgEIb2gAcqjXhR+EG+g=="/>
+				</question>
+			</ballot>
+			<ballot pid="64" barcodeSerialCommitment="zP4wT+CWFW1bvT2XGvM0ZWLwBbTdRVP27MCgmrwudz0wf5m9YuUAQaabT39rQbqNDQGPhBFTpo5SsC5D7yav5A==" webSerialCommitment="oUpgjnSj0UBQjU6p0Zl/WCoSGMlVQDdTY/IUtrYFSPqtiwkUb+t7NCyyeso8yxsMnHnV55kCsuWyhQ/4zBhvGw==">
+				<question id="0">
+					<symbol id="0" c="wuVCqMrQNm4bSD2WYXAydqmY2S9P21sH/WO96FuAWAZJ2Zc038Af1PoopLfDonD6TRt7yCemGoFp012iTE4tZw=="/>
+					<symbol id="1" c="uyRjuUNMcLj5AwqEg/Zd7SwJ/pAoVdFORNFXOmgTx2ptQiIKvokrASQmDTqPcVQHykSP2dGNFU6Pl11/N7I/9Q=="/>
+					<symbol id="2" c="rEyrL76sAonfeduviwovIoCrneC47fLkzvom4/HgEtxxByAMfgN5gX41Oeqf1AjRml0J+R2d72zahgP9aD7Ihg=="/>
+					<symbol id="3" c="wWuLQjZno7rQdkJtGUgv10rC+7DOaIObsoAZGon2qmSoSKK6Y6Gk/qktX8FcJR22YA8bUP7JgBIq7wsG5obTxQ=="/>
+				</question>
+				<question id="1">
+					<symbol id="0" c="zdcMwhdOU3u1qH/Y2jQ2qFDorbK/vv+zWhJMNOfJd+ENsyYWQgAgbbKK5zIgbGxK7GVJwOEApwnYkem0VVcp4Q=="/>
+					<symbol id="1" c="IYEYvmqgpS/UkMCB8pKninyBZJQxxEwb9+XtAooHhTiCwGZNvED0TrDN1HJZa6n1n42wW/h8IqGBwa7yruCDaA=="/>
+					<symbol id="2" c="9EIDDtu8/ThLUq3EqjvRVk1n/4x684+mH6+bFJIjLz83euBq6U8Ml/uV+f0xG1Q4PV6Da2RTB///szlKFZLwFw=="/>
+				</question>
+				<question id="2">
+					<symbol id="0" c="fjJCEcEwpVfir79vFp6kAAoP4OV7W/xDQhKREPTRh+c4t5mXSJrqnRgY0aVohpkna3I2g7AQ8u0zNn6SL7Sxog=="/>
+					<symbol id="1" c="NnRdeym6a/5SNheJDenME1+CHtz9SgL/NW3ja/B6Ekheq8Bg27r9RffdkmQmtJ2XkrG6YoFM679Dl9ljRIdexg=="/>
+					<symbol id="2" c="1wir5xL0m5LJoGohTQsKkE7KfsLVRM09qhjA9zL2NYpcHsH6rnUdpdwRheOY4DoHpicq26Nx/LtnUDamoJRKjA=="/>
+					<symbol id="3" c="qFsmgBrYLuFmnENchd8g194wvS/M4lttdFVunFZkdnZPCYeuNSGwDgwTxGf4jjvI8eOgIsBEwpaw94eTwp6dxg=="/>
+				</question>
+			</ballot>
+			<ballot pid="67" barcodeSerialCommitment="NZscuKjlMhU8DMyngJP3zSrvS6P7olmC1Xgd/nTQBs4+ihC67nqv8ADdRQaJ+owtV5rtzHEOh/UeqMwdZWDl2w==" webSerialCommitment="sV/YWFnERN5DcO563oxz2llbaxb/qMHMCxlh7CfW2dAEHI0eaMyAChgroxsTP4cVEDOa2oL/v+JVk1C1XfsVvg==">
+				<question id="0">
+					<symbol id="0" c="2A+91yRUVloGov8KtjB53VUp5OH2uRFdNlHo2jZOC8nxDT4BIiJFvyKlowhpSjUns2dD7ALYzuRYCs8rCYE2zg=="/>
+					<symbol id="1" c="GlV6J5cHELChwKJ01BVoF5dguHL8GcyBNzWIjj+R6Gap/UH0APDcf1W34n/aDqBVZGN8QeNnGKXnc8252qe8Tw=="/>
+					<symbol id="2" c="iLl/UOyALLEgVazdiSEWU1ANU3m8kiHr3qci1ABCDYwi7eiJPPmX2nAezYcwyiJoQQZGBUNVMi8o4GuRryACwA=="/>
+					<symbol id="3" c="/SyNoE4aS356dsM89Gx6mZZkYi0g0XgXxQ6QrC/sBtcsdscUf/G0dmADDaT51r8bhwbD8kEuk6CalYUcYumFBg=="/>
+				</question>
+				<question id="1">
+					<symbol id="0" c="dG7hlIAOPTg4bYCDOUOt4ZuNUgw+uDc4QDF6j+o6ykaZAd4PGasfc2xRgj0GENk2Jzd7hszqPqCfWAadOdDfnQ=="/>
+					<symbol id="1" c="vwAAPDwRLFv1uFBbwi2R9iO0RzFVUbVctTrYVVzF/d0MqEm5+AAFth7+ffsAIr4n+wI/nPH/aGLZd8/C+iTl9A=="/>
+					<symbol id="2" c="cYVVIdZM+nNzfeAeT6mviNbmLzduvo8oFM/ksmhSdDpNFjsxaic/S6yD+NM76yG2KEABoH8EDl6YY7xfDbVpMQ=="/>
+				</question>
+				<question id="2">
+					<symbol id="0" c="SjSDg6FuSHBAeUdFDgOX83scV6vVuQp8mM3hKjlLeThcxdcRdBWdW2Rxov/liJ//yTTHTpKYkApGxxdpR+QGOg=="/>
+					<symbol id="1" c="+bw91IcV/aLAXnTMpYztDnDxpvSveMona8D4AnADXqy4SOMb+ONLN/UnIvzTg2bQpnGUxHRzENXR0Z08370dZQ=="/>
+					<symbol id="2" c="HTSoOcQ8V6DluzR+wsWP9oLIDuAS+IqHsPhR4T+PILxyRey5CfOBL2N7SyFZHwW3eGpzGoagFPhO7JvN13nPiw=="/>
+					<symbol id="3" c="4Cj9BQc9u+p9rmp5Y/sc4ZRXnZTN0v1sRH2UwrtecxEpoxPTXSgJyP+dIhW8wuM175WYfyXm54kqvtwbveZ2yw=="/>
+				</question>
+			</ballot>
+			<ballot pid="69" barcodeSerialCommitment="Y5+8brWV3ReLH5UeYxlNBsPLZb4Rfo0I2bNyCezzUFmslrSq9hRGTT4kBnHpRRqWS1nDhbesGhkxUVrYb0iXqw==" webSerialCommitment="JhA/npRG0KWYBDUpKTg3nLgb7Ak91LJJ7LjHfGhH+D69qioZ7aNCZ8mya5+eCPEpXpl+dpAZcg+cEd2ZOo0kaA==">
+				<question id="0">
+					<symbol id="0" c="bnLtJT3K0Ia5qHnef/p+J0IYnUq9lFLH84yUewTXzRdCnz8rRUbHFp+Dc6fgi5FnqebIEfWmTX9s4y94CWwPWQ=="/>
+					<symbol id="1" c="aQWhlI9ZJdP/lVmv8ikpJVFEYlbLOsI09K7ve7Im2s+2xHGmiKcZ+iCoWUZ+bKpTavGKh260PRPMLpFpLWuLXA=="/>
+					<symbol id="2" c="fQA4THkPzBiWXIp7txGlFl18jYmbcwSAN8i3ExYJfkYI0FCTYFmj/MLhl8k5ibIe24dFBcz9BbR0t6twi1n/Lg=="/>
+					<symbol id="3" c="cBtquhuQ7P0kS5pAk8diWKBp2IIz8e0tE8jbQtVErSoI0WZx39HjIKGWeW9AneUaf1JskVuiGvfGL75A2WBo8g=="/>
+				</question>
+				<question id="1">
+					<symbol id="0" c="4wMZzuxOAMy5Ycyl6P2ibvdpLL4xgCVTANdD2caAxHexwJFgH3a6A2zYN/4wjAvBLxCxz8QAwdwaEQMVanXUHQ=="/>
+					<symbol id="1" c="y1FUxM4LTCFLwJGz1upQNuTPkHlbfGgOUetF5o0WMOgGIR7zzfaEv4d3xbWGaHieHWCRBI3Uk1ZtKKfZaA/M+w=="/>
+					<symbol id="2" c="G1KwtvRPqattTZ+Tf5vBUsylNHxcccVCt7EfWyeY2e005cV2EyDz8kRkc6JCjw2vWv3cfS71scOxyWtwCKttGQ=="/>
+				</question>
+				<question id="2">
+					<symbol id="0" c="8D19jH1B8LbZqbl6heTNfRJGanRcO8hW1PEL83E53isW7VgL7DFSIlKoaWfHlaPrzfVN6EaoBikxsQLhn8LQVQ=="/>
+					<symbol id="1" c="nXUcYBvNTFjWIT8Xz1I8A2HaUnbu6mzg38MS1bqYtNdruI6A/ThpI3T4o5DbVAT6VgLPMcM+m5HWU+AFRfyYVg=="/>
+					<symbol id="2" c="/GisSEQcqA9S6A9yEpRb1boGrTDvorT0a4XGEfjJxcLUUDLrRSwbgjTP34Udw8PKhbppHRz8Qze6gT73wI827Q=="/>
+					<symbol id="3" c="FmXSFUUqwvNQncCGryoUHpKHJgALZbkdz86kBSjb0b92X2ORg4wTY842zindxF6ZiQOZHaO7AXdo2IMplHTlGQ=="/>
+				</question>
+			</ballot>
+			<ballot pid="70" barcodeSerialCommitment="0wiClbkJctTlFmXb8kbVnDjgOCfvAR6WItzYExc41A5v4BOhAlAfDH/4mUBCaxqyjqOk3uR0DuEtefFTsN1YaA==" webSerialCommitment="E1rey9tWTuSg0El83BiJHeKVmfL7wxOOPkNQqsw15JZcf21eEDuopommS+V2uapVlzHwLP+Q9vGfgZI5r05KSA==">
+				<question id="0">
+					<symbol id="0" c="Y+yL1YouCuioRAXGpyLgKThPKMghN1UMCcvcsXp2nDmyOGKzxzVQmHORSsSuKs9kyDxcZlVFa1sMpYnBTFfQng=="/>
+					<symbol id="1" c="jBOhibO5JVvjkeBwTGec6I1w9tqpFUi6Y3Z5WmNUdj9fuwHwS+80aJEaKbyXwQRiAzJwxobTI+6TL+XxWB7KzA=="/>
+					<symbol id="2" c="ZQq5rstU81h5E/CieEv4jQxYPMIZdLEeAfX2/Zo1SNMTnzpqBYWn2UX2VR9m/Oh0QsLqrVDFsLrpCNYlGJ2tVw=="/>
+					<symbol id="3" c="BsyrTedCT8uYfhji9HDz1uRIqmsrZmimiDklBPP57OxjVRX00ce25LRGpr8X+0H32wMEnr1NG9TuwXMtZGgY7g=="/>
+				</question>
+				<question id="1">
+					<symbol id="0" c="2YxFvK+WkBhLuqqHha96XzZ6EXocdHJ07SWNX3nlPt62NJ7WN2xgph4HFjqhNyo3sO7Nz0ll1TC6O/J8av3A0Q=="/>
+					<symbol id="1" c="JSS/uOQAiEF8fOckedF4LthjTKwOUXmLeUgTITrYWwtsXNSMv3wYtzhTw46OqFBCR565AQU3Vz+5gP7R+iahgg=="/>
+					<symbol id="2" c="GuYI7S66JGXx7ovvQfpp54XCXVboqGb8dn1gLOjL4u7He70Se/S8nHd9kRaI94bBpAVJ1rCrVE7yX0ESINHl9w=="/>
+				</question>
+				<question id="2">
+					<symbol id="0" c="oi8ql1Xny+9MLmmPuSZ/hxfB2x7XGkwcKXKgexAV/b32ilD5ge5LUq4Y8lUjBlUvaznoaqqIWgTdxAiCrZcbdA=="/>
+					<symbol id="1" c="103S4/NYpS6rhG41mooeImYAizIf6GKO8spLKBK2bevD/8JqVyt4BIyqZmWeLlN4xv0EgjNjUAlE+EH+9ShEaQ=="/>
+					<symbol id="2" c="ItBKXQueo9ynqBLjFcqtJbFNoHzqbQ0mCZs76lD7Y3KAwPdpz1z0IUbEizrl+8vLLP5T9Pv0PyqCpLQB8jMAOQ=="/>
+					<symbol id="3" c="xo/txFAdp8LgA8lpkgv8FsgY2uwuu4zQVBeW0qyU8a9h33yh5rI/lB0coukuMLt/q0BCsTrMLT0dA+ekajlOHA=="/>
+				</question>
+			</ballot>
+			<ballot pid="71" barcodeSerialCommitment="MA/DmK7DWV1I0LilXp0zDFHaPiXFUvElcNG6O56JYUHDAsMEVg5Y+bQ6nmQIMq4xzKg6MRZ6DIfx9urRG8YDKA==" webSerialCommitment="98BKhVDNlGMmGE9Uqj6MwI6qr3BjL5Rtibui1PLQ7g2ES/mL/ED6VywqO0fbWcJjLNdInJLnftDjVY1N05w6vA==">
+				<question id="0">
+					<symbol id="0" c="kgfFEPJeXUb9k8cUA69G543IygUQZASV6H/iq0OfxHLZk8I6seDQKkhGGnHpxXUx5sFB4fwUMY4cXf/21hfutA=="/>
+					<symbol id="1" c="mzdlUQEQGPEhyBlk8E8PJaO4y+Y6DkMBzuqwBLUsFOxCx0nbo88EdJBiTzPmqoUvcZh974hh8VwhY50YU/S6Fg=="/>
+					<symbol id="2" c="DTqci8OCiAiQqAgVFcH7rxzrjVn6YHmMDlUiso2B/pHkfZtfls0/XMgKGIB05vFsAAgbfb5fKMxsGru1bZCHZQ=="/>
+					<symbol id="3" c="g0KSxUDi55nH3kk6lIkp4SPlfVXBL6oQ6YK+KifoxkiN2f/IsD2CQPB2sMXPmjCWgNhdlbR7W0belrjYjOXRmA=="/>
+				</question>
+				<question id="1">
+					<symbol id="0" c="1CHULy7UCTHBwoEZCMhLyUqTg2pGO+sUmpUG9rDlJjeMRcAiT2J/TW8THN7Q8z8w3/J9UYQe0qS1oIoOplbnNw=="/>
+					<symbol id="1" c="ybENj5gyowezUcXKC/gvLfQzY3bwEahpoeAlh4W/g5eaYoOR0oJpP5WmDy66HBLNi7nI8wYGx6kxC4l6mtyppQ=="/>
+					<symbol id="2" c="N2HRPPLe05sxBdxcZV4shM8Gp2MLdIrpcaNQJEGQs7P6Cqz+/dQNiQHS2EShv0bo3qtJf/4K5Cel5hcl9f70IQ=="/>
+				</question>
+				<question id="2">
+					<symbol id="0" c="rPxl3ZenU24gdpwe4CQAHvE2Qj6Ab4G2JSZjR/Ffp9aNBLvxiykro1i8232k836JtzbkUx3vt00nDDb4yTNk9w=="/>
+					<symbol id="1" c="w8d8b1XciMXAOem5aQsxbH+E/iViAOvPgHwgM0bZ97V+FKEgfiG5znrvfxRvK+k2LEX78ijHzZP+hy02eXK9TQ=="/>
+					<symbol id="2" c="yBYsryMJHG6WR4v1CajroI2GG4JGm/3cmCcLcswSuB7heaLF+Uo4/tgCOBslXrQZLyn2WZXKe6VVKgGpdTZbyw=="/>
+					<symbol id="3" c="ufKV2SpehoLB5d4q3Xb4JBcDK2zVWeBu+ZQRrdb6dzlf6zOt1t4BYsBmEWYflHeekX9pV3oHay4GSgMXiab5+g=="/>
+				</question>
+			</ballot>
+			<ballot pid="72" barcodeSerialCommitment="R7OnmA0FrOqMxV/eghVTuSlADpUd5Hf6wGYzZwjpYq5DoOB5ifmF7lzDOMHPiucrT20lwea7MHuN01BU4FT7Pg==" webSerialCommitment="awNfRVjtPxnR0smaK/ER1JHbP/EJyszijYfnQwNU6TKisVlYWh7h9uj6f9PcQjrt91cm1edP7HRzCYegsxGfYw==">
+				<question id="0">
+					<symbol id="0" c="+ZUeiAR6fCKUM4LlRyzTWv5hxbqeM+DDE+1iVkFF0JnemRmrOqQRzttPIKEFmfJnWVJHjgjQLQ82sOxrcEjAqA=="/>
+					<symbol id="1" c="3XCnNs93BfN56dED2A28YbDHS0Wvq0kBBUprkkV7N0IizKNe8qkBqcCTV0bvodQ0TnMBlwDlrJvNumUqpPWF6w=="/>
+					<symbol id="2" c="tzDSZVFk6GvzLUYq4pn2gjvCrMRgRohh7JdSbRUd2WCVqvkjPOjFIbK8NrHodPLmxBUb/edAQBXy2+oFmPuSBA=="/>
+					<symbol id="3" c="i8eknivT6w6FJeirpu7KswXS+jwm0P40dtdH7zhJIY8ubAthQU4mJHlVXZ4sbc8QZnLL4Tpphf9BOs9Xoaz7Dg=="/>
+				</question>
+				<question id="1">
+					<symbol id="0" c="yKmp6qtGjMP2SWPlyFVCp4I/oZU5cuifUdj5pjXqqWsE5AGXkNB5jQ10fYmBWW/Fgxk2Uoks5bYFwzUyY4vkMQ=="/>
+					<symbol id="1" c="BjI/uAHf/EbX3d+0GGQT/xifBwiOY6AKWX99EwgVHPwUfrx8MI8AcBrmcKcH86Bjd8yUqPC/JX/93mSFDBKybA=="/>
+					<symbol id="2" c="F1J7dQcGoAZFsliu3mw6f0EUbyABsrBpj8R3HfqYDRKgXVP3IxKW57gC8PmrYsbD2XgRXx4tO7SB4oPKuqQlTA=="/>
+				</question>
+				<question id="2">
+					<symbol id="0" c="35IgsGZ1Gc2dNYpTr3P6EF3XWx603Ugsy6XJ9hpyw0N68Dwsi2TmT2gvsYwPtw6UCFaP20oDuqbEL6rV3uQBTw=="/>
+					<symbol id="1" c="tCbuUo01fHvsMI8qWQkjeN3MIdHe3MV/HpM2oxzghcVm94wK+ANNxLJALKvxg6tSyClCs/NEL+01rZ/vAVuPwQ=="/>
+					<symbol id="2" c="CbmtdQxTxAfVL2UJDfTvPhZh6IITBZ2u6nUJi5eHDG4rxTHdQBGPI61LZ50m6EK26/FyhByxSApNWS/uEaUOQg=="/>
+					<symbol id="3" c="HlnknqB8BhSlwbavZUgKWViMWePKkxPK6qB6CkjMKZmjnFVdu//lSH0QYXxWDxWPP/B2dZLw55F+Lr9zuJ91hg=="/>
+				</question>
+			</ballot>
+			<ballot pid="73" barcodeSerialCommitment="DHaFkHLUcoXnH/cbaTqw2nreEf+PtPQMKiEjTOuLoydZTQHVO/q2vMZaXZHnMBewx7c/w3nGg0CDeH/qDCECQg==" webSerialCommitment="8yKF/XgUoKhKL2hkI9kdpFdHRywPhNqU7OfuwvuennWKEgK7PvpmvZccKAWQiMFbAp7aGrB5oMQREvDBvHynJQ==">
+				<question id="0">
+					<symbol id="0" c="WKWqeya3t+OGxJ51ujkVquNS2oQ7XfykP8cmkMzqP9SoTpYjBS3gqoBVIhsLghJ1YOstLABiJKxwpNmUigsr8Q=="/>
+					<symbol id="1" c="o5wjFMtBd+JhqfUlKteg6Sz/eccRvM+leiMGeOr30kb1+8TCWXo9HIq3H87sQnaQhOM3C4d5KVTkkj//uUl62w=="/>
+					<symbol id="2" c="4dqmZL6hbM7fqGADX52wmA0Mipn0RYDF0SIfD+0rPCuT120D2otrzwxN1mk18FaItDFYSZLbIgxK04c5maCI8A=="/>
+					<symbol id="3" c="wAtvFooX86j6cqLE102/DWXHdh4h2fpLdsXar3C3L2art+g7EOIUsjAeW9Q4xUqLuHkcKFLl23dNJiYNTV0k3A=="/>
+				</question>
+				<question id="1">
+					<symbol id="0" c="4tFDMh0UdK5jnYqqmSIU01PEOEsxS3mOHxmAuQYkdgknspR2mBnGwhXgGs9GxOeezp3ZVvW0WqrjojAVc014vQ=="/>
+					<symbol id="1" c="lcZbJUK3VkD8+3NGcWF8J4Fg5BGJ/QPvVUY+TKOve+GzWjHKUZcVBNI36vtdI5NXXT5ybcplpp3J1L282pm5Xw=="/>
+					<symbol id="2" c="WWsvmdbelYQ8V9LPFVe31tkK8BHCdOQxjXMO0MBGNEpAW35HAKaaBgfWOp9X7RGR6UnjsOOGp5qD/1JlRm3XUg=="/>
+				</question>
+				<question id="2">
+					<symbol id="0" c="J4cLKkidrLCMADzPw3G2N8GTzYEvqDRab4DUBvQlcy/0v/b/MOrF6yoWB5c7oasRG8ZAKAOhl/riZzO1T9p/wQ=="/>
+					<symbol id="1" c="MMgL21yTSXzBWt0QjcT89+Fy3KS481Az8CIAHeJq+fm1j702R1C9pJ1M6TP9Y+dVyfNWTOXe9+8ERYNLxy66Bw=="/>
+					<symbol id="2" c="nqIZnjJpgmiNjn2IiHTfqulaeuVyboBX97Obrws4EDFnKm0cu8Uwp/BJCQVvOeY0OZCmtyFmrpaQq1YGV61O+Q=="/>
+					<symbol id="3" c="ex8CBDA5TVUnzeq9QWDPDshzdwCM7Nx13CS6Lsk6let8CN23km2MaTHiNqDT28OceoQ71adNdFrzI2e78+1MRQ=="/>
+				</question>
+			</ballot>
+			<ballot pid="74" barcodeSerialCommitment="elel8R3bXK20aK35ton4/C7Iajq7DAPoW+j7V0AgaKWTqFPeoKp2p9L7rpSRGDS+c29vLLBSHahlz/0c1B4tBg==" webSerialCommitment="DQa4SK3RmA7xLZmlDS3hYqW0SXDeJfEQWyGTGnwGqgIxsdVRtP3WzXafzFaTX3SFKFvaOAC5dI8IjZVhiUrRRA==">
+				<question id="0">
+					<symbol id="0" c="FdqjKeGw4bNmmZ1GkzAK261i70Te6GTs7q0dktMeSwDA+pDHoltwJF7ZLLO8+giY3oUkUjbg+VLA9A+wUGU/Hg=="/>
+					<symbol id="1" c="uZKsIMMQ3SPrNQglx7Fx78VCnIBNu5EUsAkD9DiI3MCLchmfy6JEE4Zp0fUqo0nfeUugkVoiBh+OhOPsL8xVCg=="/>
+					<symbol id="2" c="u8BmApgdDrClwkGyGRT8Vp/ENzA3DcIpC5Agv6V8QGlMlB+48MmPhTvqV4ZMS/ET0oWbwJj1C4QCRks/tr/7ng=="/>
+					<symbol id="3" c="HWWdO/0bBNbWQw7orJO2L20g1u4a0xaefChmXr+22OXDOOgqlL+W9PRphIiV80wqSd4KpXf1hOrNVJi+D3ywmA=="/>
+				</question>
+				<question id="1">
+					<symbol id="0" c="oSdRKorZ6KvB3VSBVtgHpBBYdEbQ/YSDBRAkdtO51yCZGcS1Bz0z3/EN77RPVPRjTZGgPN+EzvcQu1O9zazwcw=="/>
+					<symbol id="1" c="AJ/ArL0r75o1RmBxhvcQfB8EtQ5EuDe6AA44fN6wRPccfJuaedAs8KG37Wl98YPFqtWAvvu0OH4Hf4yHrWtFUA=="/>
+					<symbol id="2" c="p5lQQXQBoiq965308umf+1vR/u1G8r0Rm9cOjIxl1ZwhtlmshhxuXaIROs9zs9EQOU1dhPX9qd6hu57+/MQH/Q=="/>
+				</question>
+				<question id="2">
+					<symbol id="0" c="G6793/Ha7QdO29J+yu2+VJVSq6WuNiuLzsOjYTZyaqFjbTxrhVKNtVZrxVryqojzYwDi57ycy1UrYbOgKkIROQ=="/>
+					<symbol id="1" c="F7EdbsYCwEem+7TMWCd1t39N94GURDsekquxhJO3LIds35fPvqcy91Or8ba4m/QuC0Jt75ryNmUMtL6lHwgNcg=="/>
+					<symbol id="2" c="o4OeWGIkbz831lo4qgQ2P04M2a3icalOYK13onsDrMUPSTFUlPzzfLX4Md7jIAvjjNPeC4hNwfbIpekyhs2laA=="/>
+					<symbol id="3" c="LCqtiYSVpMkFIQTu6CYwo4X9H9DykhNVWG4YxqxdhX8Ftf8Gxm4Ksk5aPLSX/199kPmIULIBTD9SNjUfgliGOw=="/>
+				</question>
+			</ballot>
+			<ballot pid="75" barcodeSerialCommitment="nmPNaM/ZeHYWzrYLd5ksiUT6R9+fJwd2AbdXdWNP/c7rYlVjhDiTPixNLiSfy3V/pgnwbQNsVHsaSgmLUnSCWA==" webSerialCommitment="D5P8G8aLJwMjMKXoPy7JVDmvV1X2kyzA8fzQncECuWlG+KQi6x0myBWqRkZI6vYqCWxyTg5bn9ZM+8gMFdy8lg==">
+				<question id="0">
+					<symbol id="0" c="m0DZRhXO9AZntkWvwcY0uK+0rYvtBgshxbtMfDiOQdust5zzF/la6SBbFOrVYmgL/mvFFn5YZPxoZPiUNxmbRQ=="/>
+					<symbol id="1" c="S7ybUvJ9yF7kjV1OoP/U1reu67rvCzWD7p/K4byQF1JQdkyqi2rpnGmSzo6bumR2mGsDLYFGFvbd/vCXRLqllA=="/>
+					<symbol id="2" c="9ed9AkYUjqH5yx1l3SnkEJePeZvqJbSspGGZjOLYWcPPWQpPqgO/Af2z6qkevv8snB+MvHD1a4Tiptg1n9y/lw=="/>
+					<symbol id="3" c="XdybpAvLFcsIr413mdDD00xxqyGm+99SvwVx0a/TDUrs9v6mAjV6/g8krvnhun5Q7qM0BsxTnn4djG10sBc/kQ=="/>
+				</question>
+				<question id="1">
+					<symbol id="0" c="OtB2GX4pjPtgwsgJ2xhzS1EwTuEZ0iVL/UnGc2fh1ipePXH+iqBxkucyDpxbkh+k9qAMQf11SUBBBRTRDusLUg=="/>
+					<symbol id="1" c="EFGe0sKsdCJnrW1eDK4WFPwzNBwkYAHvy2ZvIJ66LDpP+yjSbgBmWdjVbSjc70bBb27qMWIwW7b5pApCmnvJcA=="/>
+					<symbol id="2" c="9DRKYdalleWuRParozOySPA+XbIUagPptgeRn0kRanCIcNgHUkIT47ujuxoSeq2YZJAiz9qSsUT2TFl29SI04g=="/>
+				</question>
+				<question id="2">
+					<symbol id="0" c="iudD/3N5ZHoOrCphCeJezPyW0CBbNe8uoB/GuMwUF1+4bjv8vDIsdgGk83YOivTpWqgYfMqg3FDpyQK2crPQbA=="/>
+					<symbol id="1" c="P/rJtfUsskkxfddfxYuEf4q3QhP9nYZEN74WcWkXx0hg7SpqDIsMw0uOGegv6N8VQO9MDpOPn+2lSZd/P1gteQ=="/>
+					<symbol id="2" c="ira8BuBfrS7N7JpJbcPzZvE+z2viiZawqAdBnMI5ZsEmT0hWNd+MfM22MCjT6gx04PnC7eKGLVO6gqi0SWOd2g=="/>
+					<symbol id="3" c="qfmxK7JBKPxctwtcQvrBjyZ3Q3/aCywv4MhmmnYBiEksMIZHc1xZpbIqTyE5Gr0yEFOidIvJQBuURSwJHb9N0g=="/>
+				</question>
+			</ballot>
+			<ballot pid="76" barcodeSerialCommitment="WB5w/NitxnsfUYapAqBbHq6XwvoaZY9xXN+9lpxkxBGRwkfR2dh7bB03JIUYg1PqEY8yfxHQihwz0QAH+seRBA==" webSerialCommitment="eQ+4dlBjsUJli7iReVf4BprElwQrfOg5Cvt5go1iyF8FxMNyU4sObUYiuz4mcwDB42eb4YtyU7BWslHFu2a5Qg==">
+				<question id="0">
+					<symbol id="0" c="EjB779hfmstDqm6rMapTjiKDirBA5t3eKAdmG7s5SQLjieexpOOVFQE3p7qr1U4J4wFGxPeUiuNopQuWzlTeqg=="/>
+					<symbol id="1" c="ll8Lb774opG064/CG0Rn76d2jxkxP2F0OAU/wA2BoLX5A845q4NEb2KscZvsCL8mJIqEvnyBBiZ8uSXenKkK+Q=="/>
+					<symbol id="2" c="OzSwv5f/5pRfmSfitu6MxBxuWwkRKCrU0U2XMcUIJxcl+xQKy/Ca2wUhrfX/c4nqFRModC/SFAJZAC7Dj3P9xQ=="/>
+					<symbol id="3" c="/rETrHrNMit82Pj43/0Ijr6TWX468HUERSImxjQLMkFaEIRaUY6SO5g+7asjTurvfmSzgS8bifJwpk7W/UYn/A=="/>
+				</question>
+				<question id="1">
+					<symbol id="0" c="VMI7BsCzvY5n7EN3Gf6lSi6ycmi/n3QqMo6xfJERYw0nCM0Hf97AVEfQWmfyxnwmoqqgysOciGPQk0dw16ax8g=="/>
+					<symbol id="1" c="PZQOO8GsgJAGIzSACKZqO6aeV3HaVuj4hNOrXi4RrHbGqLji02RQ+oS+Yx/9pgqlKYqfDmBx7PKh5QfegED0Jw=="/>
+					<symbol id="2" c="VZ8+ml/W1Co58+4NY2nJ/D4aC7wlePHAS/BI/rihS2jhDkQcoHzJnHrMj96juCcNvYopmKlRBUbzSEP8flQHsA=="/>
+				</question>
+				<question id="2">
+					<symbol id="0" c="vfn9fgJA0EPqx7NUHFxm9hMiqdEr9laQQA9bapMR32wbDi8h0BkIj7obunW37epgetvJfhEyEwp3DG91aexzyg=="/>
+					<symbol id="1" c="N1PPengXF+cuGUKWWRKom5awdYoDMK0Lc2tLJd0peXjMADLwhfxv8lh/ikOHfJ53aU7eoj2ntyYxVBUbs1/RHQ=="/>
+					<symbol id="2" c="L2uBxTW9msvfnFokvnqZ4YLsB9+Zt7CY622wVk5H0+VkdmK2OIIJVtBdx2dH8WoL040HYyvdph4vBt99+3yHwg=="/>
+					<symbol id="3" c="OJLXGAUpInOCQzOSzvR01nOjGRzGa8InfuKrBPXGpEggHPAfshtgPwcSss1VlYf1RM7j02zyXXmup8cZR4N+9w=="/>
+				</question>
+			</ballot>
+			<ballot pid="77" barcodeSerialCommitment="zY4/zrxe+BaEB0f8yP0tllP3fDTRGsfSrBxxfvpdieh1JhJDBgLI9Arc2lISPIKz41JqAaUJLKhgTHFHc0c9Aw==" webSerialCommitment="mslf17dvp4moZKacH4boFUAVsceg3/9sYGJpGDEXAohsTTKAyJwOp8cA1z5OVyZPIwdOa8C2VfHStbeWlumA+w==">
+				<question id="0">
+					<symbol id="0" c="fh8I2PIJTyIqjAE1XPPP+Ad4ULrFc4bLBV46j1pPFQ9+uF0KlLHlmvYSydMVBKun1+QASoJsOS31NjsaJ3HLeg=="/>
+					<symbol id="1" c="fsWkqeqQby6iQncPqUqeps2TT8vnY/bSh5+NFWB1wdqG5FLCk8jYCMnTeXtZTgaqHZI6jGFv6USo2FxR6yLvOg=="/>
+					<symbol id="2" c="Os6mxdq91oIDFFY8DDmR9cYo2Qq+fma1AZ45leUp9ZiGfjAw0dNt6n3D/iFiLRc0+c4da7JVAPnSbYh1GR8u8w=="/>
+					<symbol id="3" c="6EyKLJI6H1GzF9NnH2CNGiEUPJaFp6P8ceXxdq3GWYMTyeQPV72FNcQlrJ109rXdR/W8fRHgIEdmc05J5ye8YQ=="/>
+				</question>
+				<question id="1">
+					<symbol id="0" c="AqTbcfpgnCMSQ98QIPZnUwwlwdOT3P7YMAhbALZtLJ1usEo26++qJxoqh70vqCnWjSdJZhRp07Q1x1Jh2zxQkw=="/>
+					<symbol id="1" c="lSlK392T2olwsS8/uBir7dOMzLPZJ0VW8gTLHLRTMPv8Zykfy2njVajlp55B8q3ZXBzRhs1FKhKGRn6PQPZgHg=="/>
+					<symbol id="2" c="9oKcD6cnfVmySE6/EFJ6iYavaKVRU6hiDzD8LnvsoKkgtoVB1iHVosomwF1Nl/pSn3k8zqYzUBDZy4H8LUh1mg=="/>
+				</question>
+				<question id="2">
+					<symbol id="0" c="LDPcF4Gkm3axcTWGsFb62wHuAThh4Dz9ebxmDta6bBI3P7HoXTVZl3J26SN7t20pb5n121vfzVULitMRlwxNlw=="/>
+					<symbol id="1" c="peaq0dTEd1wdgJAtlup6Wq+Sk27jffHSVhU1rMtUAc7x4Exo6hPvLZM5IIYQUx3QmT/Uw23nvSYvtTz73GGLsQ=="/>
+					<symbol id="2" c="iHcGlww7GNF9nmakkTMaW5ygnfhWE7sIpc00ZO0/QCdz5OxW6aXjLNeUrJGUw5wYd1gc2W2muMjE3VzwrNlXxg=="/>
+					<symbol id="3" c="kTlld9jUwkt+vDMjZbIPTDl3BF0Nn5qFy+gUUpttkoeIguG5XElrDHJ3kWeYCnWtMpPBqU7tmzD2ZfO8pCBO/A=="/>
+				</question>
+			</ballot>
+			<ballot pid="80" barcodeSerialCommitment="T2aER+yrwFbXN2E9YjfAhAAzQolSRCM+QJrze1VDrOY36WG8XKePsOlcvepw/Xuir8WlAZHvx5I5/VU6J7Z0NQ==" webSerialCommitment="FC6OVcfFLXk53Ydcgle8Q0kYJHCPTRR8w72nRYv0V/KGgyjqbtNtIX0ndWha6j2QHqSg6i5Y+AvdkRy7FFrZKA==">
+				<question id="0">
+					<symbol id="0" c="8qMVLkPyEPZ3XhQ2BA9w3YHREAKU+vJaLEJCenTM2sF5KK+08Ffl8+uJgLL77iRYfiF9pAPyDi6US+SpEnNOtw=="/>
+					<symbol id="1" c="aO2aqbUKOyZzLyEcJH2Pf3bwXB/LsvvDFvG6m9F3bidlYQF/W8gubt894MkzLSxiyc9mVvpUgqVn40O52ZNWoQ=="/>
+					<symbol id="2" c="VIHQDmUwiVtCY7BtTg5NaVArjbsYkwd/wCKch1gL7PvNb3rgoqNAsTyFHOgLGlrQAS3An5qeBfKpAJnHDHor3g=="/>
+					<symbol id="3" c="jCiZGpr95+xz9K8sdHU5NbFZsklyRvldrUZB/csK9OEsPBWWzknw2oyA5bUuOT34KD4gXIZfa3L1Z88FM8Em9Q=="/>
+				</question>
+				<question id="1">
+					<symbol id="0" c="6DG7ZSkwwAlgNgsByZJN3wOYINpFlufl4C/BEnkWcRkg1Gi2B/izv+dOs4Mx3ViWgjkj2rHGHuCSluSnPbcnhw=="/>
+					<symbol id="1" c="t9WrF5iD/qf5po2rlSWaBDU9ZBkIQDbzFr/S5qtyvQFr9tWu/wKl44/hVSCtYagZicWzI1+PklCC+Zu6qmH5GA=="/>
+					<symbol id="2" c="x7NJ//m2huvnr5GvSGqEvLuU5mQ5YGg1xZa6bSOm+2yOg3WMfpf4NiYB7M49/tXkjkmANIviRia4tcJ154Vwbg=="/>
+				</question>
+				<question id="2">
+					<symbol id="0" c="G3eISSFsRA+Cm60mbNNxK2Pr6ttU/jRxE2ne6JUjjGYEUtmeKcaKqCDnuVdzi6DbXnK2JMxWJg+5kMLAknsBRA=="/>
+					<symbol id="1" c="ZIKgl4KcBN7AFhEr1YZLAeIW58IEMxbI2nxuXHOaG5qneF7lUTqwtvBlcdiO/6IMSq7Q4F1YwSxH7dB6lTJIWA=="/>
+					<symbol id="2" c="UnUW4KCvOfjMMHlI3CXKwQvHXB+Wb6P5EU6lkWNqax/ZtHoKlaoKfsrlDPKL5YHgnQySBbXZP2Zb/IrEyb8JOg=="/>
+					<symbol id="3" c="3R4EHYilMdAuwaD2BQYgZ+EmRUV6dZPH97QPUDJ3VFs6du7wVUoq5AoTokMU5HeyY2CHbqVKCFvfEc3wCrbwAg=="/>
+				</question>
+			</ballot>
+			<ballot pid="81" barcodeSerialCommitment="uVGwyinq5k4yje96nPqHU9ID3ZPTjMvmMF4eZEMPR3nT4jzNDXZhARBViZSYXtN383eBLdpOIyMZkdZnoH1fpw==" webSerialCommitment="VFZQmV9CmYFiMxv71RuANhKVbhME/S+2xBYXijo2UNFBtshFctrNcu6oKovFUv8YGh8Scl1OhODKp7J/aixE3Q==">
+				<question id="0">
+					<symbol id="0" c="Hj9T4ZKe3KlYuRIfnGvFP0zzvL8Mm9vGkmHVKSge76rhzpdPC7vzQB8yl965KK1NlyBEpsZ3Y3xZzU0V8ajo5g=="/>
+					<symbol id="1" c="O//LfTQT2l5cCRdl1otj2kfkd5dLJhue4UGA4i4upUnaxEvUc/CxGGKKt7XAZZRVetfdRqSQ16+bvsxl8evIlQ=="/>
+					<symbol id="2" c="TSOWv8uHVWtRxavZkG17nzbWzro0kMMk68ffPWLKQY6SSAB/CtfCbs2wNXKCWNmJeBaahlrfhYu4sK8cfvv5eg=="/>
+					<symbol id="3" c="LCLDqZJmX9sAs2doRXu8D9Ms27+LtTmlzxNdc/nNTPFXhcX+KkTthb93MnbxOs48ZuqsEHwKEyHnwkxRTI0VtA=="/>
+				</question>
+				<question id="1">
+					<symbol id="0" c="UNQvOgd/Ey7ds5/2MXRwivpejQwXnboDWCqu2R77fqCIOvAo/kjDFaXHhTAuWxPOIH2BPebDv/h22hdz7VDDdA=="/>
+					<symbol id="1" c="vqod/z9+IobuIdtiRsmsaC0/VcniTjxytzEIbsAyRAAVFmg3zSSYo3jN6H9wBPnhoT1WF1FEtrGyb53lKPEs6g=="/>
+					<symbol id="2" c="aKY86VzPWQCz1u5qcMm9gdTitm1NA2Xa2qVF+vzKopIfBCoiWhQ7kUB1vmPWW1jw/zbsClSQdEi+M4NYBZWsjQ=="/>
+				</question>
+				<question id="2">
+					<symbol id="0" c="ZlttW5jnV8vxgYyxGdYpaMrY2YARdTgDVsqfIZK/+HMZzkGjVQr7/OquhVW/IfpfruBFAcFM/JKloOFUpM1DHg=="/>
+					<symbol id="1" c="9zVlS7PQBjA5qvEcddEwRZ2RO6mTnXzqus6cVUjcAotmelTbm7SaqJncXXkbraup1GNuzh94SXZ5z0GjCiVraA=="/>
+					<symbol id="2" c="GurXtSMz2tWh1V8tjC7G99P8EQrUzyaLnNs4HFh85qQHxZZomixWUTN4p2r6Z3yLHu+SYZBLvZYuM5DegocqCw=="/>
+					<symbol id="3" c="qv3ve/r6IsYaAbXodJ+FRrFE0PEOatOWQ27BH/iOTWpnDI82Qa9KVw3IDRZgwHQmoMC3bBtHO14uhhhw6NlP4Q=="/>
+				</question>
+			</ballot>
+			<ballot pid="82" barcodeSerialCommitment="z0ennVKbHoPxdLOQ1BY3n5PmlXdaeWpKn5Lz3ckQJoG/VhvYI8FjUrtiapD6mlMhBMza2P4f6xUAxF6NIDkjsg==" webSerialCommitment="WalLscTe5ENV5hwRCdnTwfIEsjxJ1Q1kuv0jIkFqSZcZzOivmmN1DiwDTkFTBanJcxyVGlMYXirpKuIQ/TF6og==">
+				<question id="0">
+					<symbol id="0" c="61PixOQUmMNOAbFZ0cDyFq7CkQAJuJUe1tVJZoi6do5LvX88YqCGKomcSEnT5n8qKBO6rV80wEzIN2biYPk6Mg=="/>
+					<symbol id="1" c="Y8avD3BB4HBImhaJ57HNxdqqMyLR6cahHPDen89jSh+m3cMtvXsN3L5cYkkQV1Lh2DoAix0zh4v63HahOsZWWg=="/>
+					<symbol id="2" c="YdcQlP3jx5I6kJ35TS2pIMjpgRruG8+uivY+FPA7ueG8JH4G1wEE/4eNRd8ERA9bA0E/RIciU6n4zJLa3oArAQ=="/>
+					<symbol id="3" c="BY4SE+Q1tclNzG8F5heR5L/9FPhh68G429jeezpBWZjsoqxxmxajoWxE3w7TcxYBvSWNcb6WfbSgRv/BeenoYQ=="/>
+				</question>
+				<question id="1">
+					<symbol id="0" c="Kc3N92f3xEbzGjflKQvGljOajku0icUGiUURZ1EDLFBoA6uoysIcJ/sMHc8uc+hBgcaoPqZnRDliImBvTo+hzw=="/>
+					<symbol id="1" c="q/y7RMy5aW72618BG3XldglsgZDRlcdCz7g9fufX3bEOquHO9PQrBsS+rxrqad3/DdN4bSq1VqjrnfVTY/B8Tg=="/>
+					<symbol id="2" c="2jsvp5vxb4qVoweTKwIaJ+7wZqA6yf9F3e2wnIFheitHIBolesD7uCsIn8zpXyDL/tBHM2ItkiBA5FWsbds56Q=="/>
+				</question>
+				<question id="2">
+					<symbol id="0" c="vSUqW390fyoHi0h8PPEajPhhIlq+UPZij28lu/h/oVvsGjOQIO1T+zssqFy7ziZw3Ow3z4yJxMBu1k2duxkOtQ=="/>
+					<symbol id="1" c="y+7RAqo2ZiBkLHUZcfjfNzoaQvZH/EQJNAzfzgodGDroWZlw2DXZ0yWhGJ+Sai9hQjs4t3RcWYr6uHKHZj583A=="/>
+					<symbol id="2" c="pyf/4/fiyE7bsztQqoQx008voacPG652prXF+6LHfVYoEjsHbR4KcBVeBFJi8B4sD/jvjJ6YSK+lq66tI3leRg=="/>
+					<symbol id="3" c="h/OKhUyh9Gk5ovxJq5bfm2eueP/kDMU/Gfm5nL/wIiDXaA/xYF8N38LgTgnRlQbgS/rOJEJ6txNDLXtaLJJh+A=="/>
+				</question>
+			</ballot>
+			<ballot pid="83" barcodeSerialCommitment="CxHtToyNbU/P+zXB3QZ27z3QO9o3MQIgkuXMkxzvoIvNtnMaEZBLZPazvh+K436MZ6ETMqx+UMYadeDlNsH5ZQ==" webSerialCommitment="lM/zypH8fGwNiyz8UTqijvWIxsoPq+G8tzpkECf6mbp0HuGCbFoLpmzV8yLCYoysZvD4tYtzmQZensRPJdg5CQ==">
+				<question id="0">
+					<symbol id="0" c="zsPbTa5rRgVZjKx2clyjPTHp3d5r+KT1oWSLlGky22Rv1o6QI6f7tJE1WAN6uEJt2owRoDT4z0kkqdCm3Fs6OQ=="/>
+					<symbol id="1" c="Vb6JCaoTnktJ47PBXAiHoHGDFoQ7bVDPlsEk+lcWDczTJ4xNGSOSiTLyXXCMCII/7qzY5O7nNfVfoP9fgf96Hg=="/>
+					<symbol id="2" c="DRC5Q1hqOiwVEMICAfy/WdQUReDMBoEbNzcnERNjPRA/E7AJNdIGheypUC12mRCZVLXzQEcy3pSHrkMewL8CiA=="/>
+					<symbol id="3" c="wnJEnDRkW8NiFc9o/rC0MnDxo7Vgs6TGrAzdcIK7vX0t5F/r/+SrlBMDzkWzi3raaBs/kp4YGihrBviaPmzrhw=="/>
+				</question>
+				<question id="1">
+					<symbol id="0" c="lKyZqC43WsgJbwkqSsupvkB1c/GFY1ZfE/RtjM0y3ed8oc5hRt0MS7VxFVEY7Es9ZqeErKin1VVPRobiQLPB1A=="/>
+					<symbol id="1" c="ZhLYLeSMccMw9rwYeJ4ir+U9w1RF/Un/4tgx/q/MP1AbqRtvHELHDUc0ZRTfhiSpT7DZP5wQwCFkIsgurlxHuQ=="/>
+					<symbol id="2" c="czSziM4xDZ/Rjy+Jc+Tc9terHvK3aEXBKE+Htw6Bniz5jQrwNxLEUTpNvn121jAoK4iV/HJDx/dcXWdSAsw+pw=="/>
+				</question>
+				<question id="2">
+					<symbol id="0" c="/TgWH9dAT5rpt4ooBp0inIs9jM9b1oOhrSCFPw+quibvL9WezYdKVti0rVMM+UA9oy5YBOYcXq/QQsxfuK0xEw=="/>
+					<symbol id="1" c="eJLS1M/RM9YAW32IWc63k1N9LYbFsnRQYui46JOk04OUltO6uOnpkSBB0+E+r7JmFYx+gJd0UPAEd0d/Mt7lFg=="/>
+					<symbol id="2" c="XtRKv+I2GtiB/7ENkxYsnu025dqr5B4UpOJd/e7+K6OqbaHuQ4rgaBXc8kDvZkotHf9TQ68HzUsvkWBfensbOw=="/>
+					<symbol id="3" c="ylXzb+JBq0rmVQ81vRQbEO6Tc/Yiw7EFlpL52keSuaSbpj/XnT1YJmvkgJHKItutsO7GRH3F//oPXTv5LXi9eg=="/>
+				</question>
+			</ballot>
+			<ballot pid="84" barcodeSerialCommitment="Pgjni9DUdx5aKw4RiPKMvLav8cm3UBL0rqP1rLZMqhyXwwZntdjXcakKlB9gx/6Y6cZZHHhy6bThciEO1saDNA==" webSerialCommitment="ZKhRGGSbIir2UklJfeumM0Z5l60JYzxm3OuzEX79nfIq6qodb8PTwDPl4suYZtVP9xaq7IEqPjmpRss6KMewHA==">
+				<question id="0">
+					<symbol id="0" c="BONfwZtHTd0aq77cPJCbUkXXbwam/Ys9CKaEkUx7fOj3k0+9mqnEvJzIvJF8b4iH8e25NWGaqUNA3K74QC1IUQ=="/>
+					<symbol id="1" c="6tvSTQ1Ejljh6tpGXzr3re5MhmtvooyAahnzUZY1D54s36gi6UZL526ttNzztg3y/S0anVl5fQ2wc3wje27VEQ=="/>
+					<symbol id="2" c="2bopW8H0LHk1wQsg8+YtZ2NXgraDhRhCVW30DCciiLDhq5fDcZmH9ZH4ZbpBKfu/rb9ZIN1hSyA+/9Wj8S8LPw=="/>
+					<symbol id="3" c="qF74fEZTwesYedhlcotynGFhEYbGfItdvCI00jMaEo5dRr0x5/2s7NWRWbHDolhAtON5Gd3z8lzFl1XeZovw6w=="/>
+				</question>
+				<question id="1">
+					<symbol id="0" c="d+eVR/rQ8P7OsVA/xHMj81XRjbgbsgH8UBYBGJe0kcJvaNj+erS1MSFYcvE1MQG8xSjBsJ9Nwqaqp3RbzLWZeQ=="/>
+					<symbol id="1" c="dKWRY8F3GBRCrMU2JnYnSAyozB3seCZkAmIgblu2ZU6Vzk3OTehx7Hq4aLswECfPjDoru+eIRY09lsPwT9Mx1A=="/>
+					<symbol id="2" c="Gxsp6H9460GyQLbIdNK9rGpBTMTX/aX9wbJOZVzK2c/xFZf1xw81UwhettomrnZthBYH0BKQf5V2zc8B2SQcyQ=="/>
+				</question>
+				<question id="2">
+					<symbol id="0" c="4A0u+3VyX2vKkoyHSltQWytMa/LfUOow9OjQWO6Id63Chf5TU5sDD3eSTEMJPg8gL2EN4A1mbck1kDpaXty/ug=="/>
+					<symbol id="1" c="5foXdlFpN8fK9kzx/xP6Ih3F9xfFgUz5IjPr6yniVcIIMkF1pl0dfjgzvOgem8YbmxTwE8i6O6BmX0077XE3Eg=="/>
+					<symbol id="2" c="9jQKLVGp90OHLa5h/7ZE0dDtwa+yootJlY7fbADyCFfCNl0LMcJA0e7b3I2RvgArOyNdY87B953wqmfeJD3cyA=="/>
+					<symbol id="3" c="X+tH6nda4HjyKancSJm6jJyyqHnlaYXlX801Y2UoQF27E7Fr1zh31wmUbZyLlUq3Sd1YusooQWheW7WerO0jHg=="/>
+				</question>
+			</ballot>
+			<ballot pid="86" barcodeSerialCommitment="1r9Qy3nYJmERpfCsDnNmfdfVejDhLlWjlSoIDEcW+sBFH3EwK5A1KGJZoR/rxLfg9tSJ5VNCOkS1vtvkK9UylA==" webSerialCommitment="qtWslbegRIsLkYcQowfs3tOxmT6UV6ZyqHqZIq4U17dsm9pbS6MucIElF/YQb/q/9XxBFd73b9HS5s2jfF/JGQ==">
+				<question id="0">
+					<symbol id="0" c="x7ucZGQMkIu7ShoU0vZ04P/AYASmQ8HpNAAhRpMYo4Ss1IKFisapbmDG+R2Kzm83TiKINfjanaEWLaMCtnvl0Q=="/>
+					<symbol id="1" c="dSjYc57zwVpEGV7PC4C4hq+oAk9MtrIUv4bFwOqERVUFYgcyZNNVkHB11uQSwu5a3MOHR+VSzSwx5fX9yXSjww=="/>
+					<symbol id="2" c="ruEH76FrGCxNKGHLx9Di32xnTwnPfmO+affi06UQea6PvKeOKcJyjrSRJhryyL2rja5+XgKhRiU/QH7+/BIW0w=="/>
+					<symbol id="3" c="scJQNFh2O+mC40cBsNmbn7WMq97EMt43rzek8kYaceIySaXAkigc55zFPSjlNbcbcQ3MlzdbtN8l03IOj7q81g=="/>
+				</question>
+				<question id="1">
+					<symbol id="0" c="KZGQe+juMp6GKFoRTZsdv/Eo/PE2jl+HQekuWWJmlhW53Vg5qFaUyhtJo/rbaCmIkqlDTEWESk1pO+JnSTeTUA=="/>
+					<symbol id="1" c="dHlf1Ycootoi1+YA5C72Izh8uXwtxw37JxqmB/sckZ76pBvIoFDVsEw8OGu6cqGtWLK1ht+K8wyXWW1ROL1XzQ=="/>
+					<symbol id="2" c="nKCv/MDXyBXKefSCd4C2dwB7f0QiqvyQepuwsE2WfmthhRbz2VgOAq/8dek7D3ZClTo29hajw1an9XApHhu6RQ=="/>
+				</question>
+				<question id="2">
+					<symbol id="0" c="66/6PVJ8O0dhL4y8BzA0HELpSlUlTuavO/Eww5dSYIx3B7Lukhp6SKBmkh2vZkeD0KLmMgcPM6k5Io3a1cJMdQ=="/>
+					<symbol id="1" c="1AIqIIpGWOIwcai/zA10S8nT77/lq19jQ5r9Pu2KiGLSGF/LEbst1yB22TN4lLL9R3eUd5E3iKgDeuKlvvqZFg=="/>
+					<symbol id="2" c="GHIFgpxm3+XIsocAYwT48Ij930NweNuuwr94Q06HYnokx+5fs81rpLnP72+61VRuPlt5EfxzJXDt9B4MQ9wELw=="/>
+					<symbol id="3" c="AtSgPYo55hsvdhUI1JQ7+f19LEb1D5kd82SaPktQjJEyJwGfA7IZaVQDaM3R6HwlSZWwHHgnRmOrKdBGpqantw=="/>
+				</question>
+			</ballot>
+			<ballot pid="87" barcodeSerialCommitment="Ijxydv27a9H6++fXyB3YUg3BvXrZu5sMmis7HJeWrWtzdzt1fw7SeAKQTXsknId3+BvgW9upkUIcgm5TCcI9hg==" webSerialCommitment="6g76gQgvzHJOnHUSQuT+xFoLBaOT9Y4PlKMktbX9gqv2G1vw7S/A49dT2/5vUY0FlouDqk7KBD/z3osK1mJVbQ==">
+				<question id="0">
+					<symbol id="0" c="3/G68KWXH2PLPesAgw/hte0ui35j1o0F9nnKIJwLHrRZcv1hnBPU5COCLiMWkbbmshZczT8vndKIARtX+/R+RA=="/>
+					<symbol id="1" c="JIOttdNpknEuXE2xOg0QP05ZCBJaWWzjY77jeJaRUJDAPtqW+xaZ/Hga4soYAxJgH41WMCc5TRk6AoY8XOQoDg=="/>
+					<symbol id="2" c="GwdLVFpSuXhda8szqZn0VN5ishQu4g5+6ax7OlzXlK57IgLroYNEF8PqykQjCETR1nL/HmIKLDiCPfwunwzEog=="/>
+					<symbol id="3" c="rBcMuN72usQGP4maLB6y/PFFsLsuI6sIcPsBXIBihVTDUdIj6v333vBYtbDHg2FGfcWxZSLMyB+lLl3BdRDE5w=="/>
+				</question>
+				<question id="1">
+					<symbol id="0" c="VYqbFbcb2zWfnDqmsdffY4pApBat7DFu75jaZZDj3sA8hGZI+H8Sy+pcoutKBwhB6fCZATEkb4UjB0zFnRVmjA=="/>
+					<symbol id="1" c="v4RwMH3Gzs4nOprJteBsqQEtaA79Nt0x2aed+BV0uqY83pvPO/a1Q7sHy4KpJK0mxQfvCKAHroLgIMr3hxN5vQ=="/>
+					<symbol id="2" c="X0UGg7ErV8hV7U5z6HBYM3p17D563powfCktaaweikawZEfqsCx3zGCR2ID/nLFujbvwqXAfpgmegI07VORCig=="/>
+				</question>
+				<question id="2">
+					<symbol id="0" c="LIJDEMeAYBjQGIJeXyP9G8GZYPr65wLJYQk7MV3+PpgDjtz71Fk358whT275OWt3ovV9pZsTCHMJtpvtHStkjg=="/>
+					<symbol id="1" c="5BBAZAUglSBVrW1EGTub5rQD+ZHpFTNmQT5DY6b2hV0DrlBoV6VHrYrE6HyG5qnXlb2mgAwULpgi/JMZ9S9QEg=="/>
+					<symbol id="2" c="Nhc3eOxv0IZ93twtKwRCVSWmtPXKCDzbkb98ticv2l1rlDXwmsKmw/JIdbvXMMqv797ERTdX0IKht3eBwwI6VA=="/>
+					<symbol id="3" c="nezQlnTX/XZo0jCB3RuQJv6k0IC9NJ3My0wRoigAGnK0wN05A9tBCr0trZ4zE+QdDR7/6Tct5eEaLFkH/69XUA=="/>
+				</question>
+			</ballot>
+			<ballot pid="90" barcodeSerialCommitment="SbZmgxrhsazc8K+44ALbMy9o0Re8HxBzv4z1REvHD1ptMnZzIvNlLOwdcuUjlRQ0+41U5JtW6scnSFxttNrS+A==" webSerialCommitment="uWHNzK5rPFh5/EZjWkHWB5twBbMC2CT5xU96h40xsKhw/5gqTni+tKe8coI1aqrFN5N0qhlBA6Bh+jzDoRoqnQ==">
+				<question id="0">
+					<symbol id="0" c="FuBqsPBYYI2NkAVGUzMljFsF19LXs+BMCmqV1i2PEHd6fLCI5HK9Sn4L4rRzqocpR+zVq/iFUTMnQVXBn8RIgg=="/>
+					<symbol id="1" c="xXgwIwgA3O26NUbLmSF1zrFvZHsIkXp/1osQ/i3dkBZWGGbEQmaRMmK5NJdI856xGY9Xim19pGOGuPArKa4ZkA=="/>
+					<symbol id="2" c="MmT7MQ7o8aX/ZhmKJD7enpAOqDzl4wJxPLwE/EpPoWI8tfDqoyKaMDcGNQ/z/NMwf6dSGoBS13XKjX98YGLPqw=="/>
+					<symbol id="3" c="Grq/be3wC6XuFpWg3gB17mZz7jxg4zqMw1bSOh82JUDa2PbcMrsH9u9RSIJDxjX9rHwbfGHxzSK2XDVMag9ODw=="/>
+				</question>
+				<question id="1">
+					<symbol id="0" c="B9BMJrAaT9ouEsPhQ84BDG93z+i/lgOiNDpvnsQFv/4G56Gt5wSVDRhl4ulT0H/s9UoxzwjGT4w65AcByactMA=="/>
+					<symbol id="1" c="2+7nyPEgI6tktMXHu5JMPrRhoLcJ1ry2/7Q1eeqSOGI5t3++xMXk3tntFCptIu5rGVk2EB3gMIJCriKIac7nAA=="/>
+					<symbol id="2" c="yAHfux+Ubm5fn2oPPCbWOf/E98Jgh4SOiDIv1gkJ5Nu9g7cNVqVmdBLMNYpbZWmJsMlWGdSsdbuMUe/tqtJqgA=="/>
+				</question>
+				<question id="2">
+					<symbol id="0" c="KPwsbVm/WRc02/+Oo1OIQJcDSKPTv77cgrqHb2g45/SfS2a8X+hJsazNvgf7dGiRdExEX+OhPI0We0/32R+oXA=="/>
+					<symbol id="1" c="a6XFHHB2VpKS3LVyb1+Tr5vkIhUDSRCYgu1GqK7UdTb0oqZbcVTJlFcge9Jeh17r5SWpds3XoP/N34K6JhVB7w=="/>
+					<symbol id="2" c="z1naEGWZbUgC5Vg2wCWOPYCCxdcoqt3ENHZCxXlTvLpuPW4dWj/0dLRC+kJ+UrJBKBy31sXAwHYsv8qqnEFOZQ=="/>
+					<symbol id="3" c="tRJkZpuUvXbVNwXUIbquVU1X5hIyoL6awElkfSrjWY1p0Rwao/VsOAs6dcYKpOkEeJzGcHxCkY95rwFPqG4mrQ=="/>
+				</question>
+			</ballot>
+			<ballot pid="93" barcodeSerialCommitment="LU8T4Q4cCGz3qtZnSs2PY5fjqA5bmWJL7HnQDO1/ix6A9dj+TkCKQuVwheTPmiTc3Kft3cDxkCiV7JDFMDFNmg==" webSerialCommitment="Kqhn8X4l6QdTxkckn75rA3A1N4ed6LdVRWVRbxSlD8njr12F7553XWNk0oHfGLjTMwd5Ly8s/iPMcdkYSdjHvw==">
+				<question id="0">
+					<symbol id="0" c="dz7rt6V39HHoHpHPQe76n+urVxxNtqtQFjA9iJ0IAcpmfgY2pXu1QFGNOJhjqvpahQnGRZu66YOJnZhQbqM3zA=="/>
+					<symbol id="1" c="SZEgdiwwd6dXRQSN1v/ltwRHOLMiR0DZwVpQySOw18vn2nVWqUhQhibQLbgg/AnW3C+rhHuRI1t1dy6nvjo6Dg=="/>
+					<symbol id="2" c="DciCk+raBul9R1R6kd+cb3H/BNGF0OFuLwwRbQ0CtaabBSSJHCsS0lirtczvbKyEptQNR+ARfGkRMaxzB//CRw=="/>
+					<symbol id="3" c="5DxI3DGRYbVff/l/xU4R/oZVG2NvzqhWJqamPKasiT1P9Lz66M7fgylgVVYZtUfxim3fZ4lo5HhmJhYdyg8L0g=="/>
+				</question>
+				<question id="1">
+					<symbol id="0" c="G4ES68SK+PzQE7z3Z4fa0EPHq5bhKxVtOWwlSPTHbBA51wmtP50d1+tRn2lsxJcSpYVB6oFtQ+2dSHvDA7UF5A=="/>
+					<symbol id="1" c="xUBslOhuMQ0Hdl+wZSYRIctv+YYWBSOpal2yYpGgdO7eQeRbaukS6GwbbAcR31fWJiBNWlS6P++pKTrWfplnfw=="/>
+					<symbol id="2" c="GKW/mNxXpt7tn7v5Ufb+q2YKiU3l/cBP/RZg4gzW0Q1XJNWqXDit/m3lpTA17Xk3Jr5IMyooaSg/8a5KSqeDSw=="/>
+				</question>
+				<question id="2">
+					<symbol id="0" c="C1TxOTJW9DmwFalY1EymK2wt1snmBm+psVAp1nYhni+sWfd2aRKagu2rHk3Oals690i2unIP6WhhHUZzNI+Mwg=="/>
+					<symbol id="1" c="ydYcKP5ssTrTAXiTYQG5lDi08UWuhBeUGn0UfgwPZG035kyfOrF0sYrmAmrb8hLnyw24ntISzQCUz2zrffoZFg=="/>
+					<symbol id="2" c="mY3dbba78TnzeVjmp1lsvjHabJaInfg/lkVciuUoMzlYlspz2e5Mrzp67LHt98qg01OcXAhr1Yag5+VrTk/YsA=="/>
+					<symbol id="3" c="3FqfMUUxq6XDiu8vVwvT7xFky1hqkHvQelZ0LfhaeBrglfCaZdZpI0pkdU4T0IBIlzHvZBR1eJ9f6NTMygBUMw=="/>
+				</question>
+			</ballot>
+			<ballot pid="94" barcodeSerialCommitment="TF7uBKEfqzCesL0+txSObrnWKEaA+xpnHKRLCxv1Zb+Resgaj/K3MU0uTvLqdrcpwWNgQq68igPeogeZknujtA==" webSerialCommitment="VcSgw/x97e3mYl7OZBpP5dbWnyebA9On1XHjJal5jIwHUvtaca8IhZsn3SzJA3pcYv6hldYi2BUHvVRDn3OPnQ==">
+				<question id="0">
+					<symbol id="0" c="UxIRZ1csP6kqT68EIzU1e+T0iINgypIm22+M6nKJ2HPryuKuO5U8cNqT7veA1oMUXF854KW+d6RVqeuJTqZENA=="/>
+					<symbol id="1" c="7cf6ATsPJlOToNxHW3BDvuD518JBsve+oi4PeNrvpvSJWeFQy/IVe8tSeTyIkwS/2w6Z7DxfUtL6gsEsE0CoWg=="/>
+					<symbol id="2" c="OA8fn3CC7c0a6MRHTP+occm3YSrIUwQaZ6ObAw1hKt3aeJ52bh2fsSWV2ZSCi9nFLUOKmRJmCwJvZzINDbGEEw=="/>
+					<symbol id="3" c="YHqRHvJlQ7DylTnibf+hmwdJLafDi2XWp0KObmCBwjZJZwax0myq1wNe0xkaxjmTs5rTQ9HtjzIOQ7shxNsu+Q=="/>
+				</question>
+				<question id="1">
+					<symbol id="0" c="2GkOlAipq7b9bU2vD/IdYUAwfQZdvsTrwpoUqlZ9CD8pVWw5iwSmEBxLuYTqAzm3Ryp9o4PA/7c+T3vxd8xITw=="/>
+					<symbol id="1" c="tqVgp3RZqUTEYP+GAvfv+UJNFJ9g8+Trg1kquY1HIaoJTMZvuwTOiwYx3BfkV4lK2LVN/Pt1hA0n6WTEXm3xmQ=="/>
+					<symbol id="2" c="5ZnbmH1MhrtX951MM0gcBs9kNyjfYETFm2K2qn0/9rF2K+pzFoEvF4lJTuUniabWqHUZZQXzE5tFQoBfLq6zuA=="/>
+				</question>
+				<question id="2">
+					<symbol id="0" c="kVZWyNreZLnAY+XnBqPaM5eTmUYZhXLLQcl6tha6mSKZS1eh9TvraOmjFVaVEHylOqnjw574QXX7qXPcsJ1q0A=="/>
+					<symbol id="1" c="j6IWIG6sXBG+RpeY/jdyyy38irdW71miHDBn41oJs+MZY1JSjXXSw6AMC15jZMH7BxuSXhAzwpSH0i0GpzxoEA=="/>
+					<symbol id="2" c="ixTKH6EzPTxpSTo8zBSsQwayWpYNOgmx8wg/ur6TcsPoR+EJFFiqrX6uKpNqJdDJtc7kKA44sqM+7MbfERisRw=="/>
+					<symbol id="3" c="+x4dpre0edhAGBnHrtxA0EHI8z6mW1H+87z7XmRGwvOUQvIXanRWklO7+jLnrZSwBLmhHiNULAxyOHUXrhlhiA=="/>
+				</question>
+			</ballot>
+			<ballot pid="95" barcodeSerialCommitment="i4z+y44aWaB4ice0StMpi0Bhz/qPph9Fd9IPofvh7lmVaTBlH9LSPrNC+5wMjUq/nmnNM9KkQwQbASiMrGOTrQ==" webSerialCommitment="anYyI6CiF29tMHD1g+5bHmDLx+/HJdi0iZNGiIMBYdknm5BSoBS46HOrUopgpJEL4JiV46wJDuNzC7E2a7WI1g==">
+				<question id="0">
+					<symbol id="0" c="6ctfoxcsM2wTzCu6d80D+dCkgxaD8L2Wbx1ctew8d38KwzmIwN+UOa13MOOfLb6PzNZ690TSARQooK8RHWN4lA=="/>
+					<symbol id="1" c="golxPlHCpOFsVNpjsOFZR2m7dWKK7fGgt67u/DaBmHvzegFXKqM+6b+XVhNCcoWvdaEYMPBJ7cEjDGOmjUL2WQ=="/>
+					<symbol id="2" c="o8C/Yo7JucZT+mXNXR9iykkpj23qs+P7z6dsMV5tkqR+o4PO/zql6Qz4rSwxNj0DgS/Ndk8DT0BMIdCDnrGZ5A=="/>
+					<symbol id="3" c="+F0bNEh3lc7NlEfyyVykwCN9QONSV3INFF57KkRolzLXUv203s4YB0PIAFgipghnSibZuGUtPmyNQlGPVeJpxA=="/>
+				</question>
+				<question id="1">
+					<symbol id="0" c="5jkfXEuYioLStUemDexJ6dlPL3Cq1FQEFx8nm2kMon9Bi4cdp9AvQZq5FOSSZXfdqtrdSjIqb9wagDg6Y3kVpg=="/>
+					<symbol id="1" c="4C0nWsSDuz+1knsSm/xldbL0GGRCEuSvBVPMmZjL0kqjyKUmG+tpXHnAOqrTmK0UE/6J7F4eiX2TpSNTTnbeeQ=="/>
+					<symbol id="2" c="jCez4zBW0uidiD+FNPDDTx21iCwfNjuOQJxGamTLG5LZU4XlnSUaTk6G31ubmwBsSFCe3obw67Q9z9tswKqjfA=="/>
+				</question>
+				<question id="2">
+					<symbol id="0" c="mq7kTwShtMJy/n/D/9aa7IydRGub1yXRbhjxXoq0zu9siez85aZ2Mac3w/b3g7S0ZvLHBpbIIWRBpsRSK1s1/A=="/>
+					<symbol id="1" c="PuUAe3ybqVwG6OMdC2Cfmy5dutoh1GEnuRiN7iZdueQpeDhoXR9h7qlon4OPe0UY6ezg2q0wCDD/lTq6YWwdaA=="/>
+					<symbol id="2" c="Cy1CQNXWicfgtLaxa3vC2KqB8uHIiqo8KTABAg+bAEAUv8FMvAR9rw0AkHfrrTXTCbzpTIwd/8A7/n4P10w7wA=="/>
+					<symbol id="3" c="oLnkwl/uovzJX0gbt8d/T3Kr4r0DvQgHA+lqtcU/DmAH6NtrNzaViedFdveA8uW4lQjqYGpSCY/+Dy8krjEfyQ=="/>
+				</question>
+			</ballot>
+			<ballot pid="96" barcodeSerialCommitment="/NgVf4qM4HdzcV1YgMkTf8tl2bBo0sk23+5oNiNc0W3TTF0awAiNrthwpWZuIW4GxrFUIrWW8O8e4qyTMGcABg==" webSerialCommitment="QZhQTYpLYxOpkQdNaSfeTER8NTkHPeVrVDziHADtJ3kOMfvE/4Bnk2R3Q8CBRsfQPePTC3bmx7HH/bnYM8Axwg==">
+				<question id="0">
+					<symbol id="0" c="/4KCVNxZla43TQ3fOTRpsyR4OPvryudzG5uoxbe3EVOiqo5ngYbWBx/VjCViL/G5sazep9NTM5AdRyidVj81xw=="/>
+					<symbol id="1" c="L6FpNr4r3JkFQvzaGIjDJ82x/2Q7W1kuwtJvegUkZS68xIBcztNRcMogBwIsmbr5hECPQjSW6lEXAB/MPJQZNg=="/>
+					<symbol id="2" c="5kZ2avTBQqXi8pjCzrwcL084qKJ5ZesjZIiIofkw6xdvShg753IrKv2Jiy95WZb8RyGSk3U4Dbv7BhNNnsww1A=="/>
+					<symbol id="3" c="BL7Y9Y8emhRzUNO3bpaAEWcU7YUrDkCRqEO0+HzdPvQf7H+ruV2JjaYTbu4Z/GvRWmiIz0hcVM4ShxnWD8atiQ=="/>
+				</question>
+				<question id="1">
+					<symbol id="0" c="Dq0UCsWm6EfitGoBpe2BWSIdsbm0mPpgQBAXLEJj3VC4YvhTwx2uJbslw4ObbxghtES3F8k9XvxrAr5yn7IRuA=="/>
+					<symbol id="1" c="+SMCC035EUTvvWdmYtYL5+k1tWsJO22UTAA21owSeFjLCZOSrnyqBDM5dvmuCHdNLW/bk0W26AqyuU9nWEqcmA=="/>
+					<symbol id="2" c="dZfNFnWlaR+94T4mOE1LXLn6+KmW8d4B5Q9c4irgW3lgpMG+N3ATIr39O5c6ZBYt9xUT5pIdBt4AW0y9ObXuMg=="/>
+				</question>
+				<question id="2">
+					<symbol id="0" c="JMR2v52Zjr8qdEo3JiLZDdFxK4RiyZZ5Ot8xk/BySQSJ/0Oit4o0D2GJIHqlI1KZq7G5qDib+/M8DpsKfrxW+g=="/>
+					<symbol id="1" c="7SjXeq8oc5CUTsDJZNifg9N4byxOpSzkpfKwvZRkHQrJ8O0DqQqSd/mMS12/FmtgJi7GUIl5jsiANft8tMGKbw=="/>
+					<symbol id="2" c="/RGqHiDv9zDDzeKOzyQ0tFCfrvGyL/H5URxVXpxjhedh9x7O5TDDozXf8g12KkGcwo7KA7YSuhFP8SZ5B8hDuw=="/>
+					<symbol id="3" c="IvoWqW5+zcbWm8NAilbKefb1sjTJF6zM9fr+d90gv0PYcDUzaBX6MsVQH1Gj1S36qEXXG/sSLa7TX0MEd3IIgQ=="/>
+				</question>
+			</ballot>
+			<ballot pid="97" barcodeSerialCommitment="8iMvwgmTLpt7HRsFhuPffzklZ2Ge38oPHHj3FAZL37G3GmQjFJhMcmQuLV1OLoM6x1ZXPcEf/lMkwz+k4lpUlg==" webSerialCommitment="pMwmDnwqzg8vFFbnTx2oMVmBS/iHpRNXpMiWWxy5HNe8hl2JrwCCiPwWUQwOoAR2lhfsnhTWR5IrkRlbXBjuMA==">
+				<question id="0">
+					<symbol id="0" c="bH8uAIzXUGI187ekRFhVEUTaJHNhTumbTJRn24mh5xXgzgWZz0RdKpMFIFgH8AiuFphTwxiVTfCoc/lZMMZEcQ=="/>
+					<symbol id="1" c="LBecTsTzTD19ErXsVuC0Pkd4WHPjoIvUi0frQw4HCViCVnYfhjgiT3JMXqlwC2RW27IW4h8lP0JF6o4JfpkUHA=="/>
+					<symbol id="2" c="GPVV2HaJD5LiU+C2Q9R/Vn8aTOCGSpX/neGNc6jaTos1UYhQNQq+QS7Xk181i2UxTzDvJMFf76mZ9IKHA+z1RA=="/>
+					<symbol id="3" c="ERrO5vaEqyvNLVM+3O0xD7qF4rJvHdb8H5cWOQildPwncmaLks1OXMAHbOOM1FsETLeuK76/8m9DlT9awcroNQ=="/>
+				</question>
+				<question id="1">
+					<symbol id="0" c="LZX2fH/p62ULOcldoR8FeTcrKsuErIzLbCqGZQQHWP9xzX/OqTJVoaFo+G82SeU4BDtrW31jpUZloXsKv4muVA=="/>
+					<symbol id="1" c="qriE9hqS/RgqRW1zWQKHUzZl0uMq+2SL1+nr0lVCRhJ+G44kc0YqrRn0poQX84arojk9aaEg9WS8J86Iih29FA=="/>
+					<symbol id="2" c="qbcYTwS97nCLhgPFCBFj8PsLzlu0/H3ctjpWDTTIEZtjkMRpsowAAVt1518NrqgHD9g44psTIqRJA2iHiB9loA=="/>
+				</question>
+				<question id="2">
+					<symbol id="0" c="++t2ZEMPwAFKl8HRXoUGmHLRkxyT50T8Dpg49/yxwud4b2CkXTy5GAT1pcoFmRwphPSOnFlj8BGV4GhEBwerXA=="/>
+					<symbol id="1" c="16DWtVGDynWQnJqu2Nmv2Eu7OUYzQBbcPfSxwjkzwZs6lQ+9oo9EVrnEDDxJPh3dl5NkhWSPpMRBdpghLsFg/A=="/>
+					<symbol id="2" c="ch8Lkl4LhN1Jv8HGD8wWZn+9ezKVgqjx671IqI0Ea+r2zknpTGEFCgwEthqI0ea0tCm7Ndwv7mlpUBn2j0fLgQ=="/>
+					<symbol id="3" c="OldGt3+iFG5MWT+d7ibkEepOrf6M+7lwbR3p4zm3mFg38xRPZoW0D2Twmq+JcafSPo+WwmtN2Rws6gOQL4H9Nw=="/>
+				</question>
+			</ballot>
+			<ballot pid="99" barcodeSerialCommitment="/mODDqGYP7PD6r7uycc8z051N5BIP9peqCoZAEXP7dPDDaPOO/+vTOdsLUiXpjZuMFadCv2vKHWieHvK+42vLw==" webSerialCommitment="RbnanAeeRcHI0AIGU+QJvugZEdHxjDBo/WNSxxYgDU2oXhsd0pf3V13eb0AC30pNOt4StoPXXIILeStvABkJ7g==">
+				<question id="0">
+					<symbol id="0" c="kEiCkm2o5F2de5MhwabtqE4U1AqWV+uB2Dc//cjw4IixaurMUQyDR65CQFeVh+Mj16aMeESIqTPyxu+ZHBFnSg=="/>
+					<symbol id="1" c="692fNISTKgVh73Z2qsqw4R83zWGRPGBQZQY5Vm4rBEpfz6wKFcdk4A8/GIJdafyoe6+Vm7QZUwFsO5IQsGvgfw=="/>
+					<symbol id="2" c="DJ9EqA1H0uaYJSgcd73pbKGOmXDSCiphLB8O3B3cCTubORe0C6VBDM/VkoT8NMPGZQeemofYQZ+UTVvU1Cg2fg=="/>
+					<symbol id="3" c="xxHMshbR/DmMT52e3TPbubPsVOyrxf2Fpx2sFjdfaHuvU15i2KYwaUTakKj5D3Cqs2fvk/OhrC4YS6DxqmDr0A=="/>
+				</question>
+				<question id="1">
+					<symbol id="0" c="tT+D+KJbwSNgZeBNqFFODENILcFXFq2gG7QpxXUszX/g7IofOoLZSugRqwUNPyTtssRw1R/FO5qTalQ4Ut8M/A=="/>
+					<symbol id="1" c="CYVjzwlq7gcRIiL6RxhUBDq8g6bY+RJCrPxeWwsTRPXav4ZAG9aVg7SpRC9RxlLuQZIaKSyTiyaDh60ytirS0g=="/>
+					<symbol id="2" c="7n05gcVtj62NuhAj3fUJgSTx8+4b4k4GCMCqmoEk20Dk9KMVmvgJbrl6Q29pWCgimky0CEXGomQndCOXgTPPyA=="/>
+				</question>
+				<question id="2">
+					<symbol id="0" c="n1uUTlAcj//+EYsJLLnx6R0CFzaelTTaugmePCIRkWSqa3G+Di+5C9ZMM7s4r6puB7VNxhrPefxtbJ4dlDxTEQ=="/>
+					<symbol id="1" c="1Zkgb9pyNJXxlJKrrLzbfkSdZlKO6OtPZXvODihTPpiINWLQwWvSupLtgkk2YLYIF44/RnNZkjVLk/1nOQMKFw=="/>
+					<symbol id="2" c="gakO6zw/roCWYYpCCHt0hSLtuwj2kB5EiKce96e1ZXo/ikZt5fMknqpLRmwZS13piUG7VacCCk1CD6dFT7uYPw=="/>
+					<symbol id="3" c="aCGmwtbhECILjx3JkA5f1GOPvcZ7nXZTtfbXW4g/rV6vAl6pY2Zx5Ov2mPSQ+AE7By0QPfk/pVLPa4SWqoYMyQ=="/>
+				</question>
+			</ballot>
+		</printCommitments>
+	</database>
+</xml>

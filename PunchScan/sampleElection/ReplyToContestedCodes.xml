@@ -1,0 +1,386 @@
+<xml>
+	<database>
+		<printCommitments>
+			<ballot pid="3" webSerial="4-429942" webSerialSalt="tgsAjavU3SjgpicGwkizTA==">
+				<question id="0">
+					<symbol id="0" code="981" salt="JQg/LPyLbsPmwBzHdDI4FA=="/>
+					<symbol id="1" code="044" salt="WseXwjPhH9oL4HRpEtyLGg=="/>
+					<symbol id="2" code="897" salt="JtVtk3OxoLUt8gZLvZMW6w=="/>
+					<symbol id="3" code="966" salt="VbJkFhUtcJmzk8djYu+Fwg=="/>
+				</question>
+				<question id="1">
+					<symbol id="0" code="917" salt="ARqsEH0FvKwxx73vhP5JBA=="/>
+					<symbol id="1" code="574" salt="iQEWf0qA44Le2rRSoQi1bA=="/>
+					<symbol id="2" code="896" salt="uBUjztRsYBRRoNgdsYfNFw=="/>
+				</question>
+				<question id="2">
+					<symbol id="0" code="331" salt="LxkN5FyjO7P1qaIYm4Hp0Q=="/>
+					<symbol id="1" code="349" salt="cKZ1uW3Fg5tRdXc3z0wnEw=="/>
+					<symbol id="2" code="958" salt="ztnR3CbnWbmXA1gKPGZuhw=="/>
+					<symbol id="3" code="781" salt="nfDjeVFZUkUr90yr4d+hMQ=="/>
+				</question>
+			</ballot>
+			<ballot pid="4" webSerial="4-960863" webSerialSalt="GHNg5F5qkCaj9UBA3x0ckg==">
+				<question id="0">
+					<symbol id="0" code="989" salt="GcmqmB1C3sBeN0BIwOFwZg=="/>
+					<symbol id="1" code="835" salt="Lw96Nil1X0EJlxyqaN3qrA=="/>
+					<symbol id="2" code="595" salt="6dTFSJD8ghUJobl+tkD53A=="/>
+					<symbol id="3" code="975" salt="TRhCQNBK4uBOntp7mkgX2w=="/>
+				</question>
+				<question id="1">
+					<symbol id="0" code="123" salt="9QJjg9zvVA/U94lLCGHLRg=="/>
+					<symbol id="1" code="940" salt="pTQdwKLvKDJlQ22/zz11Zg=="/>
+					<symbol id="2" code="086" salt="rZPf0wF/f8Wa61J8jyWDKg=="/>
+				</question>
+				<question id="2">
+					<symbol id="0" code="325" salt="1VgQKjElGtMC7HBc9F20rw=="/>
+					<symbol id="1" code="908" salt="Y9fqG6PyAJoEOWSao84bsA=="/>
+					<symbol id="2" code="971" salt="Nax4xxoY7bs52HWB4lzuIw=="/>
+					<symbol id="3" code="966" salt="yIgaG0q0cgJIIxPHGY5Wyw=="/>
+				</question>
+			</ballot>
+			<ballot pid="10" webSerial="4-672515" webSerialSalt="2XGsvsqscz9eFVfiGvDO5A==">
+				<question id="0">
+					<symbol id="0" code="981" salt="r7XdqoVgzSbzGNflt5INGA=="/>
+					<symbol id="1" code="996" salt="5NS6qLLwzeWShPeKCq7x5g=="/>
+					<symbol id="2" code="610" salt="8d/iG+TwVRacO+eJjtWtfA=="/>
+					<symbol id="3" code="825" salt="mni9IIwgYZA5b0G9uRSlPw=="/>
+				</question>
+				<question id="1">
+					<symbol id="0" code="916" salt="q2czxwFhmNa5uFWvvLQnXw=="/>
+					<symbol id="1" code="258" salt="rA2SDi/0VCnAJGzCL64x3Q=="/>
+					<symbol id="2" code="941" salt="VXHWeAC45ADBNfuECKYfgg=="/>
+				</question>
+				<question id="2">
+					<symbol id="0" code="896" salt="wGHJ4Tq5VfgjgkfmkqySaw=="/>
+					<symbol id="1" code="915" salt="zllkAv4zyEf5aM69rcOIQA=="/>
+					<symbol id="2" code="003" salt="CN41uyp66jBRfwS9eS0iVg=="/>
+					<symbol id="3" code="860" salt="8bESkq+r0uPtHZwf4xYX3A=="/>
+				</question>
+			</ballot>
+			<ballot pid="12" webSerial="4-760892" webSerialSalt="U/m4hhsAwPo+KJw9AVdytQ==">
+				<question id="0">
+					<symbol id="0" code="919" salt="UIsdV4cTMnl66dIT+DxeTA=="/>
+					<symbol id="1" code="058" salt="CVZhjAL48r7DpfZNvGTaQQ=="/>
+					<symbol id="2" code="896" salt="TQnNnFrSTGWT1uEEkDYrVg=="/>
+					<symbol id="3" code="789" salt="lrTB47Gia33iQdZ9Jt5TWg=="/>
+				</question>
+				<question id="1">
+					<symbol id="0" code="918" salt="QvDOkkHt7N836ZsTpLyMWQ=="/>
+					<symbol id="1" code="061" salt="awEWEWDps6v2gwWb3RKl6A=="/>
+					<symbol id="2" code="999" salt="d7/ZXmScqskS5ysNp7PiIg=="/>
+				</question>
+				<question id="2">
+					<symbol id="0" code="098" salt="EArdAmYfM4SMwVId6BvQ/g=="/>
+					<symbol id="1" code="975" salt="1BwY+R4gJy/69XAazdAYig=="/>
+					<symbol id="2" code="961" salt="hW2u5tJADCnIOwlI2zsh1w=="/>
+					<symbol id="3" code="008" salt="JyHl3bEcwt6gitZ2dBH2Lg=="/>
+				</question>
+			</ballot>
+			<ballot pid="13" webSerial="4-883048" webSerialSalt="8+lNZFkxA3GW9lugpuyO2w==">
+				<question id="0">
+					<symbol id="0" code="879" salt="JFPw5TIR2A0UK42GQ5mWLg=="/>
+					<symbol id="1" code="918" salt="q+MrEt+eJgWW67QWw41giQ=="/>
+					<symbol id="2" code="973" salt="Ku5cm1Eypdg9h+jqZmAYuQ=="/>
+					<symbol id="3" code="996" salt="5KuOr2gNL7sjGLcSbweRGw=="/>
+				</question>
+				<question id="1">
+					<symbol id="0" code="949" salt="r8z//wH9yuP+E7N5BB4r5g=="/>
+					<symbol id="1" code="920" salt="qj1XV+W4lyF32IdyaBmq2Q=="/>
+					<symbol id="2" code="852" salt="DIAqZntxFOZIHZ+vgrfKMQ=="/>
+				</question>
+				<question id="2">
+					<symbol id="0" code="841" salt="i607dmujwmEF+iSPBi7qrw=="/>
+					<symbol id="1" code="979" salt="HAyBXx8YaHRen0Oudz1iBQ=="/>
+					<symbol id="2" code="032" salt="RCrMOjQZTxE7Bx0fxIgWwQ=="/>
+					<symbol id="3" code="531" salt="bxlwmAxIbNKgHJkqHqWMJw=="/>
+				</question>
+			</ballot>
+			<ballot pid="15" webSerial="4-744092" webSerialSalt="dBZj3KFZIOONduUepAMfJQ==">
+				<question id="0">
+					<symbol id="0" code="612" salt="tGSfRxseTgoIfbTzyQGlcw=="/>
+					<symbol id="1" code="899" salt="npvM8A2OH73toS27N4eaiQ=="/>
+					<symbol id="2" code="926" salt="KJIo/BaIveM6627sVHE3gw=="/>
+					<symbol id="3" code="557" salt="LlE3ku1A6bZv9e/g/EDg4A=="/>
+				</question>
+				<question id="1">
+					<symbol id="0" code="514" salt="LAnYVq9jYY7yJ6klsbHtXQ=="/>
+					<symbol id="1" code="786" salt="bjugHSGk+fntbNW2lWCB5w=="/>
+					<symbol id="2" code="289" salt="9E8U1IkONN1bEFD0WA0beg=="/>
+				</question>
+				<question id="2">
+					<symbol id="0" code="970" salt="pRoAVv7ExUnKAL7XIQSJlw=="/>
+					<symbol id="1" code="898" salt="9c1bcuz1DbEGOmMp77irSw=="/>
+					<symbol id="2" code="327" salt="wAukqtQf/6Gb+e3eUbSNGA=="/>
+					<symbol id="3" code="951" salt="T1zoDbYmseWK6FmRG8ZNvA=="/>
+				</question>
+			</ballot>
+			<ballot pid="16" webSerial="4-252337" webSerialSalt="2sX6eFl8OnrROvKNxOt46w==">
+				<question id="0">
+					<symbol id="0" code="101" salt="oKBp9hdHLw3UrXki6pu4gw=="/>
+					<symbol id="1" code="972" salt="GnG3ce8W4NcTfTtNkRdKwA=="/>
+					<symbol id="2" code="780" salt="OIjwqCR/AFxx2gwdOJ53+g=="/>
+					<symbol id="3" code="297" salt="6WIh5qzwv6RpXvXr8oJ6OA=="/>
+				</question>
+				<question id="1">
+					<symbol id="0" code="330" salt="/1shbIKmH5UAPhStil2QCQ=="/>
+					<symbol id="1" code="911" salt="SNT63TSiqampiR7UiyC7Sg=="/>
+					<symbol id="2" code="998" salt="n3InsvccihuORId9rrCZBQ=="/>
+				</question>
+				<question id="2">
+					<symbol id="0" code="582" salt="DGOqLIXzJN5+6Y0OA2YOAQ=="/>
+					<symbol id="1" code="628" salt="atjvYNIOwnwtQx4DETud2g=="/>
+					<symbol id="2" code="349" salt="kpBYRIwKYdX2e6cNUVCV9A=="/>
+					<symbol id="3" code="921" salt="SfFYPYnWu6G8e9aT6tOTgA=="/>
+				</question>
+			</ballot>
+			<ballot pid="19" webSerial="4-825160" webSerialSalt="lZtwqBiOKYawIvTgNYIVcA==">
+				<question id="0">
+					<symbol id="0" code="317" salt="CReHwG6ensrJLVAaO2sliQ=="/>
+					<symbol id="1" code="994" salt="FK3+C6pdumrlesbZ712PJg=="/>
+					<symbol id="2" code="932" salt="DzithavL5FAhHabaJcsNXg=="/>
+					<symbol id="3" code="367" salt="Tro35gRCcD84HHfSl/uu4w=="/>
+				</question>
+				<question id="1">
+					<symbol id="0" code="533" salt="e06JTARKltsb2E/E6R32lA=="/>
+					<symbol id="1" code="809" salt="sZtPpQl8qY3+VkjKse+AyQ=="/>
+					<symbol id="2" code="317" salt="WuM3n9xQYMPHq9Q81c8FQg=="/>
+				</question>
+				<question id="2">
+					<symbol id="0" code="616" salt="7dKjm7mpq5jNRl8PFrsuUQ=="/>
+					<symbol id="1" code="270" salt="/MWUpyZkWd+t7G+l+UC5Pw=="/>
+					<symbol id="2" code="547" salt="YMcabBQD6wqN2ACUvQP8bg=="/>
+					<symbol id="3" code="958" salt="C9fi0OrpfGL/p57QCzzmTQ=="/>
+				</question>
+			</ballot>
+			<ballot pid="22" webSerial="4-327639" webSerialSalt="5eRa1Fy5enSZDJ0fPLYsWw==">
+				<question id="0">
+					<symbol id="0" code="025" salt="Gltb1WSdS7psIXEx+KUt+Q=="/>
+					<symbol id="1" code="526" salt="vmx7zrhbpoFNxAghpuEHrQ=="/>
+					<symbol id="2" code="582" salt="xWarf6I98W5JRWXZnAqkBA=="/>
+					<symbol id="3" code="084" salt="uxh1ooi2KN24eb7GoWzpeg=="/>
+				</question>
+				<question id="1">
+					<symbol id="0" code="929" salt="RJ23cp72PNtNropok815qQ=="/>
+					<symbol id="1" code="119" salt="bYxe7UO0tMfhTzWfQNihqw=="/>
+					<symbol id="2" code="848" salt="lsjO66Pf0nemOsauiS5gHQ=="/>
+				</question>
+				<question id="2">
+					<symbol id="0" code="318" salt="B0N6OoyR/tDPHYQGNm+Pug=="/>
+					<symbol id="1" code="920" salt="H+HzAXChlVhYm2lqzzKfkg=="/>
+					<symbol id="2" code="526" salt="swnKPu4hln8j5yh2y6HxEQ=="/>
+					<symbol id="3" code="922" salt="YWvgKZ3EONL8OwI2Z8FzbQ=="/>
+				</question>
+			</ballot>
+			<ballot pid="23" webSerial="4-660758" webSerialSalt="m0ha6FE+I+VI33MidnIwdQ==">
+				<question id="0">
+					<symbol id="0" code="980" salt="ZZxCfxpHw+5AtWnH5rTkSw=="/>
+					<symbol id="1" code="952" salt="uXKyALuRBt19khxlqG8rlQ=="/>
+					<symbol id="2" code="527" salt="gVf66nznVOvVuyGW61H/8g=="/>
+					<symbol id="3" code="968" salt="bwfmGGwM4ohpvSGSI3POdQ=="/>
+				</question>
+				<question id="1">
+					<symbol id="0" code="365" salt="sHgLn8mFUb5bdcrFMygTyQ=="/>
+					<symbol id="1" code="021" salt="LCu2ikNrxxfuJyhShHANUA=="/>
+					<symbol id="2" code="916" salt="BA8P//cifcfG90GvkgBxIg=="/>
+				</question>
+				<question id="2">
+					<symbol id="0" code="960" salt="PprQ58B1c7eOs4LihCyKzA=="/>
+					<symbol id="1" code="916" salt="MVdazGraHBBQXI2g3oJzOw=="/>
+					<symbol id="2" code="932" salt="2XnkReCrTLva/6+ikdVcbQ=="/>
+					<symbol id="3" code="555" salt="sXgok41tJAr1L+A/Z1qjtA=="/>
+				</question>
+			</ballot>
+			<ballot pid="24" webSerial="4-141237" webSerialSalt="EzFyv54KU/AR+FGcLTP6Jg==">
+				<question id="0">
+					<symbol id="0" code="958" salt="oms7K9o/dJ/ing9fCMF34w=="/>
+					<symbol id="1" code="607" salt="vUE5Juz4dSBCbZv8N8nmFQ=="/>
+					<symbol id="2" code="822" salt="AcdGLTn52qSb01GtW4JHoA=="/>
+					<symbol id="3" code="941" salt="/GS8hTGbTQFDtFd8DlUaaQ=="/>
+				</question>
+				<question id="1">
+					<symbol id="0" code="843" salt="77+MH+Q4gxaaQpxmnY0puA=="/>
+					<symbol id="1" code="069" salt="rIFap0cor1sdfbk/noNAjg=="/>
+					<symbol id="2" code="998" salt="hbPtAGGY/d7+kWOnvCnnzw=="/>
+				</question>
+				<question id="2">
+					<symbol id="0" code="104" salt="7K34kzPcPfIZBTl2lwyLvw=="/>
+					<symbol id="1" code="935" salt="WIM8etb3WE0Pu6RRLRhYOA=="/>
+					<symbol id="2" code="541" salt="QYAS/YVDOhIkffRFR6f+qw=="/>
+					<symbol id="3" code="561" salt="a4cMssysKiZoz+pTq/kRTw=="/>
+				</question>
+			</ballot>
+			<ballot pid="28" webSerial="4-900239" webSerialSalt="PiY/vjoNMh8UMnS6qLkEGg==">
+				<question id="0">
+					<symbol id="0" code="550" salt="xbLR9skPVFUD0YB8RQnoDA=="/>
+					<symbol id="1" code="308" salt="KrNs7JIH1PLQ8kXZ8PEPTQ=="/>
+					<symbol id="2" code="915" salt="KHicRDhi+jiAUiUuO2glJg=="/>
+					<symbol id="3" code="542" salt="2rZlg87fS5mN6n/83eePZg=="/>
+				</question>
+				<question id="1">
+					<symbol id="0" code="985" salt="FNmjMw3X76OnvTZ25alVOA=="/>
+					<symbol id="1" code="769" salt="G5t/+J0rEZAE+JF7UPu3Og=="/>
+					<symbol id="2" code="914" salt="Lw04XuBsKSIyg720WIuICw=="/>
+				</question>
+				<question id="2">
+					<symbol id="0" code="954" salt="hGoxpvevBW6pU0NbdjjQ5Q=="/>
+					<symbol id="1" code="372" salt="4fGmttVXMEddTnPoNYzh/w=="/>
+					<symbol id="2" code="571" salt="+jtZ0lCNPN/hsfBfNDza3A=="/>
+					<symbol id="3" code="821" salt="oDbSSubZjodLKDOEIuFX3Q=="/>
+				</question>
+			</ballot>
+			<ballot pid="29" webSerial="4-617892" webSerialSalt="aSZio4vr8rK/W0OlvieeSQ==">
+				<question id="0">
+					<symbol id="0" code="624" salt="DJBPul3M6ywz2Z/rBDgpFg=="/>
+					<symbol id="1" code="994" salt="qSy8Nk57VNJLe8Hy1wv9ww=="/>
+					<symbol id="2" code="270" salt="Fnt5PIt6ItJRe+zFzmeiXA=="/>
+					<symbol id="3" code="000" salt="ZggQbfbv22uTjkj5vt9GjA=="/>
+				</question>
+				<question id="1">
+					<symbol id="0" code="379" salt="1SKnGVqHt2HFVYkPbgk2Jg=="/>
+					<symbol id="1" code="925" salt="7s/wvCz9wr1OG+JWnaj6rw=="/>
+					<symbol id="2" code="115" salt="JDF1V/zSednRFYE8aDULeA=="/>
+				</question>
+				<question id="2">
+					<symbol id="0" code="949" salt="+Yad+wm6gOeuY5njTep90w=="/>
+					<symbol id="1" code="801" salt="/Op2DkYCCznf+jthMkNz7g=="/>
+					<symbol id="2" code="826" salt="8vYxaDYe/4qiOLUT0vo3tA=="/>
+					<symbol id="3" code="963" salt="jMyWi9c6P1UUX1KXSjVHiQ=="/>
+				</question>
+			</ballot>
+			<ballot pid="33" webSerial="4-719867" webSerialSalt="lGCxGTbbkxrFKXC3P1OQwg==">
+				<question id="0">
+					<symbol id="0" code="910" salt="uokwYa7eNcuRrGSznUf88A=="/>
+					<symbol id="1" code="552" salt="XPiUG1Nqw3mUvIDdf/E/5g=="/>
+					<symbol id="2" code="939" salt="Ds5tjRmOEyDBNDYaWON/yg=="/>
+					<symbol id="3" code="016" salt="MYx7X/KI31eBkZ73dCup4w=="/>
+				</question>
+				<question id="1">
+					<symbol id="0" code="312" salt="3eumfJeZt5dFkOQKWu8S9A=="/>
+					<symbol id="1" code="812" salt="TItMMCPMyfEgadPJbjzaoQ=="/>
+					<symbol id="2" code="959" salt="oaEv62VLQqEKmcETO49brw=="/>
+				</question>
+				<question id="2">
+					<symbol id="0" code="379" salt="AyKgUHQLrZS0ap4rfKoleA=="/>
+					<symbol id="1" code="971" salt="+yxoh0s7jerusr9L9pO4mQ=="/>
+					<symbol id="2" code="030" salt="XIz47m7s/XoQdi5eT6K+cA=="/>
+					<symbol id="3" code="903" salt="b3TyAX6PF0Y9WUBENQ2A4g=="/>
+				</question>
+			</ballot>
+			<ballot pid="36" webSerial="4-148900" webSerialSalt="90Olu+3rZKAFx+pfvNvFfw==">
+				<question id="0">
+					<symbol id="0" code="969" salt="L2Oaq4CVbn0V7V9vid9IuQ=="/>
+					<symbol id="1" code="336" salt="x7Rnr2tLed78dxPt5EfEHQ=="/>
+					<symbol id="2" code="920" salt="t+qe1rBGJPJGWzUQD6SEaQ=="/>
+					<symbol id="3" code="111" salt="99Z3+2nxSkIe2AtFl0J+IQ=="/>
+				</question>
+				<question id="1">
+					<symbol id="0" code="592" salt="XmbzQ8l/WvwL3tOpSHT+Mw=="/>
+					<symbol id="1" code="890" salt="du5MSfJPJ+tEGmbSbPQ/5g=="/>
+					<symbol id="2" code="349" salt="SWLAGTvPHeHlz2sWextmzA=="/>
+				</question>
+				<question id="2">
+					<symbol id="0" code="525" salt="txd23N/0S/ac76ld5PS7PQ=="/>
+					<symbol id="1" code="787" salt="G6fTN1R5Czk4OLiPIFFGyw=="/>
+					<symbol id="2" code="272" salt="xtZvAUjmUJnmdUYlTsyckg=="/>
+					<symbol id="3" code="339" salt="GXjB+IGdomG+b/DuGn8VGg=="/>
+				</question>
+			</ballot>
+			<ballot pid="42" webSerial="4-538037" webSerialSalt="hNImSZGMUtXOZ+XXcHMs7Q==">
+				<question id="0">
+					<symbol id="0" code="992" salt="DgSu0uhGyxsvWx1Y3X/3xw=="/>
+					<symbol id="1" code="917" salt="D1bEhmAHc0SUJ5o8vCiBtg=="/>
+					<symbol id="2" code="346" salt="4CEQ53boZyJbFOnSxZfYdg=="/>
+					<symbol id="3" code="963" salt="yq+ZTag5phaYiOQWcjtFjw=="/>
+				</question>
+				<question id="1">
+					<symbol id="0" code="931" salt="QRBBeuUGCdTcLLVCtGPjXA=="/>
+					<symbol id="1" code="116" salt="35gJgUYqtO6nh25wHwKrjA=="/>
+					<symbol id="2" code="517" salt="YHprdezsP0TnY+LSt5JQfw=="/>
+				</question>
+				<question id="2">
+					<symbol id="0" code="977" salt="Ul8CF90KPNY3bj2p5C9DHA=="/>
+					<symbol id="1" code="546" salt="15vmN8kidomM3yorY87WNg=="/>
+					<symbol id="2" code="952" salt="6C+9bvrvwRWh4aci7K7bPQ=="/>
+					<symbol id="3" code="915" salt="VKsKPgm5F4WJlF5nwVtvzA=="/>
+				</question>
+			</ballot>
+			<ballot pid="43" webSerial="4-785266" webSerialSalt="jJ8Fex2f8txxbzv+BQZE+A==">
+				<question id="0">
+					<symbol id="0" code="957" salt="Y4qqie1D5H29Lg1c58TESA=="/>
+					<symbol id="1" code="275" salt="Mki/wO20mKkvw2TpqzLhUw=="/>
+					<symbol id="2" code="575" salt="lOXicfrmJqxiz+/I4+MX3Q=="/>
+					<symbol id="3" code="920" salt="1BZdoaLZ9TDO9mlsjVLHlw=="/>
+				</question>
+				<question id="1">
+					<symbol id="0" code="974" salt="9O78ukfvdmbiURTHGeOoWg=="/>
+					<symbol id="1" code="902" salt="9C5tsujS5LMK9u3OGJT62A=="/>
+					<symbol id="2" code="096" salt="m2MgGXimMn3gk13IsArOIA=="/>
+				</question>
+				<question id="2">
+					<symbol id="0" code="274" salt="MLaOfV2apKPUNisqeACVlw=="/>
+					<symbol id="1" code="978" salt="e3/1egChNnlpzvPSpSX6QA=="/>
+					<symbol id="2" code="962" salt="giOOCerVv4YqcxhjOoqVkA=="/>
+					<symbol id="3" code="940" salt="MnG+Xssq9RvaU2y1hT0jWw=="/>
+				</question>
+			</ballot>
+			<ballot pid="47" webSerial="4-261126" webSerialSalt="7t5UrmkMAdyWnV/t/9+xvw==">
+				<question id="0">
+					<symbol id="0" code="911" salt="whCrKl7Xx0D0/pmZbMvm9Q=="/>
+					<symbol id="1" code="978" salt="QHZTmw3UqlsmFf4eyYeIDQ=="/>
+					<symbol id="2" code="869" salt="VhXmx4m7MHjglc3GWUAspA=="/>
+					<symbol id="3" code="282" salt="hpAJFtmCM6IMMRxCZFipeA=="/>
+				</question>
+				<question id="1">
+					<symbol id="0" code="282" salt="Eyi+C04BGsZh385XJ9lnmw=="/>
+					<symbol id="1" code="851" salt="JET7JsprzXHhQAZFPVCauw=="/>
+					<symbol id="2" code="520" salt="sJi5ubTR1I2IAk0gCbwCOw=="/>
+				</question>
+				<question id="2">
+					<symbol id="0" code="030" salt="WFkLrTxWesPXRb54bitgZg=="/>
+					<symbol id="1" code="930" salt="WOADk9W025fLPoyQKzjD7w=="/>
+					<symbol id="2" code="084" salt="2FetOZk6/0BTr+ap1M/0HQ=="/>
+					<symbol id="3" code="533" salt="jOLryXcRGbgw12PcI8yV6A=="/>
+				</question>
+			</ballot>
+			<ballot pid="49" webSerial="4-579414" webSerialSalt="yoRo41vlBTV++bz6BC6Lfg==">
+				<question id="0">
+					<symbol id="0" code="077" salt="vUAWQMImyxr2h9WZLDb3EQ=="/>
+					<symbol id="1" code="521" salt="5HJIE6bow2/U0VlsOwRVKA=="/>
+					<symbol id="2" code="520" salt="n1bp8vWNFmbv4TVxLTMj9Q=="/>
+					<symbol id="3" code="310" salt="XSRohJu5H40AXKkLrEfKZg=="/>
+				</question>
+				<question id="1">
+					<symbol id="0" code="948" salt="n1r3MVmazroe1GQ1kp6EYA=="/>
+					<symbol id="1" code="978" salt="kErJ/nu/vSXyCx394vJTMg=="/>
+					<symbol id="2" code="966" salt="mPLGiArYX72n8Jw/KA+FmA=="/>
+				</question>
+				<question id="2">
+					<symbol id="0" code="877" salt="sNoZZNnLzk3mGow3mlBi6g=="/>
+					<symbol id="1" code="987" salt="+dYmtTysDqil8Ow/j0gE8w=="/>
+					<symbol id="2" code="974" salt="U7axR2ccFtIyXH566EyhpA=="/>
+					<symbol id="3" code="796" salt="I7+Oh9zYte7noAAsedaSsA=="/>
+				</question>
+			</ballot>
+			<ballot pid="50" webSerial="4-380072" webSerialSalt="U++fV84SZMtoBniyFR8VZA==">
+				<question id="0">
+					<symbol id="0" code="118" salt="Xwn3ehcejkk36npYalqoDw=="/>
+					<symbol id="1" code="791" salt="Eu0AoGK/CD6l7KSIYAzhHA=="/>
+					<symbol id="2" code="970" salt="P05W17GjOe+rIvqc+clyHw=="/>
+					<symbol id="3" code="864" salt="SAgUyJIL7sF/nr94/T/iBg=="/>
+				</question>
+				<question id="1">
+					<symbol id="0" code="875" salt="KVGKTdX+11Lxe4gQMC/C9Q=="/>
+					<symbol id="1" code="965" salt="RFvWaQuBdGzr16hc0FLXww=="/>
+					<symbol id="2" code="568" salt="yO85ajbc9KoxaT8AOws4tA=="/>
+				</question>
+				<question id="2">
+					<symbol id="0" code="884" salt="WGVVLo97ZFeB86wWE1x8Xw=="/>
+					<symbol id="1" code="907" salt="0su+9Y5VdtwDthlZPD1L/Q=="/>
+					<symbol id="2" code="911" salt="Q95O1AgOSgNsmWBJyJd4OA=="/>
+					<symbol id="3" code="994" salt="TVH8Pe9PluNLvDzm5I8dcg=="/>
+				</question>
+			</ballot>
+		</printCommitments>
+	</database>
+</xml>

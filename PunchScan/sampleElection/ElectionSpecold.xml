@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<electionSpecification version="0.1">
+	<electionInfo id="TakomaPark3Nov2009">
+		<sections>
+			<section id="0" possition="1">
+				<questions>
+					<question id="1" possition="2" typeOfAnswerChoice="rank" max_number_of_answers_selected="2">
+						<answers>
+							<answer id="1" possition="2" points="0.0"/>
+							<answer id="0" possition="1" points="0.0"/>
+						</answers>
+					</question>
+					<question id="0" possition="1" typeOfAnswerChoice="rank" max_number_of_answers_selected="3">
+						<answers>
+							<answer id="2" possition="3" points="0.0"/>
+							<answer id="1" possition="2" points="0.0"/>
+							<answer id="0" possition="1" points="0.0"/>
+						</answers>
+					</question>
+				</questions>
+			</section>
+		</sections>
+	</electionInfo>
+</electionSpecification>

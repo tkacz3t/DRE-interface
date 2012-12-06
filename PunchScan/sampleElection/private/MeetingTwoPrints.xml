@@ -1,0 +1,956 @@
+<xml>
+	<database>
+		<codes>
+			<ballot barcodeSerial="609038" chitSerial="960863" password1="598264" password2="728332">
+				<question id="0">
+					<symbol id="0" code="KW"/>
+					<symbol id="1" code="LN"/>
+					<symbol id="2" code="NM"/>
+					<symbol id="3" code="KL"/>
+				</question>
+				<question id="1">
+					<symbol id="0" code="TC"/>
+					<symbol id="1" code="L9"/>
+					<symbol id="2" code="CM"/>
+				</question>
+				<question id="2">
+					<symbol id="0" code="MW"/>
+					<symbol id="1" code="KC"/>
+					<symbol id="2" code="43"/>
+					<symbol id="3" code="IN"/>
+				</question>
+			</ballot>
+			<ballot barcodeSerial="700872" chitSerial="742751" password1="293799" password2="774773">
+				<question id="0">
+					<symbol id="0" code="LK"/>
+					<symbol id="1" code="CT"/>
+					<symbol id="2" code="TK"/>
+					<symbol id="3" code="HM"/>
+				</question>
+				<question id="1">
+					<symbol id="0" code="3K"/>
+					<symbol id="1" code="LL"/>
+					<symbol id="2" code="T9"/>
+				</question>
+				<question id="2">
+					<symbol id="0" code="LN"/>
+					<symbol id="1" code="MK"/>
+					<symbol id="2" code="3N"/>
+					<symbol id="3" code="I4"/>
+				</question>
+			</ballot>
+			<ballot barcodeSerial="686674" chitSerial="265018" password1="927069" password2="249556">
+				<question id="0">
+					<symbol id="0" code="4I"/>
+					<symbol id="1" code="CM"/>
+					<symbol id="2" code="MN"/>
+					<symbol id="3" code="T9"/>
+				</question>
+				<question id="1">
+					<symbol id="0" code="CK"/>
+					<symbol id="1" code="H4"/>
+					<symbol id="2" code="K4"/>
+				</question>
+				<question id="2">
+					<symbol id="0" code="3H"/>
+					<symbol id="1" code="4I"/>
+					<symbol id="2" code="MC"/>
+					<symbol id="3" code="9K"/>
+				</question>
+			</ballot>
+			<ballot barcodeSerial="317955" chitSerial="647715" password1="480639" password2="761752">
+				<question id="0">
+					<symbol id="0" code="CL"/>
+					<symbol id="1" code="KM"/>
+					<symbol id="2" code="NI"/>
+					<symbol id="3" code="IN"/>
+				</question>
+				<question id="1">
+					<symbol id="0" code="4W"/>
+					<symbol id="1" code="IL"/>
+					<symbol id="2" code="39"/>
+				</question>
+				<question id="2">
+					<symbol id="0" code="LW"/>
+					<symbol id="1" code="NM"/>
+					<symbol id="2" code="KC"/>
+					<symbol id="3" code="KI"/>
+				</question>
+			</ballot>
+			<ballot barcodeSerial="773495" chitSerial="672515" password1="992396" password2="228182">
+				<question id="0">
+					<symbol id="0" code="M9"/>
+					<symbol id="1" code="MH"/>
+					<symbol id="2" code="HN"/>
+					<symbol id="3" code="L4"/>
+				</question>
+				<question id="1">
+					<symbol id="0" code="4M"/>
+					<symbol id="1" code="39"/>
+					<symbol id="2" code="CN"/>
+				</question>
+				<question id="2">
+					<symbol id="0" code="33"/>
+					<symbol id="1" code="LM"/>
+					<symbol id="2" code="4L"/>
+					<symbol id="3" code="3C"/>
+				</question>
+			</ballot>
+			<ballot barcodeSerial="369815" chitSerial="802345" password1="381720" password2="847576">
+				<question id="0">
+					<symbol id="0" code="NC"/>
+					<symbol id="1" code="CC"/>
+					<symbol id="2" code="4N"/>
+					<symbol id="3" code="CT"/>
+				</question>
+				<question id="1">
+					<symbol id="0" code="3W"/>
+					<symbol id="1" code="NC"/>
+					<symbol id="2" code="K9"/>
+				</question>
+				<question id="2">
+					<symbol id="0" code="KH"/>
+					<symbol id="1" code="LI"/>
+					<symbol id="2" code="3N"/>
+					<symbol id="3" code="C3"/>
+				</question>
+			</ballot>
+			<ballot barcodeSerial="324256" chitSerial="883048" password1="705732" password2="628174">
+				<question id="0">
+					<symbol id="0" code="NC"/>
+					<symbol id="1" code="4T"/>
+					<symbol id="2" code="KI"/>
+					<symbol id="3" code="MH"/>
+				</question>
+				<question id="1">
+					<symbol id="0" code="93"/>
+					<symbol id="1" code="L3"/>
+					<symbol id="2" code="HI"/>
+				</question>
+				<question id="2">
+					<symbol id="0" code="KW"/>
+					<symbol id="1" code="4L"/>
+					<symbol id="2" code="9M"/>
+					<symbol id="3" code="K4"/>
+				</question>
+			</ballot>
+			<ballot barcodeSerial="850669" chitSerial="744092" password1="460364" password2="458772">
+				<question id="0">
+					<symbol id="0" code="NW"/>
+					<symbol id="1" code="3C"/>
+					<symbol id="2" code="T4"/>
+					<symbol id="3" code="9K"/>
+				</question>
+				<question id="1">
+					<symbol id="0" code="39"/>
+					<symbol id="1" code="9N"/>
+					<symbol id="2" code="4K"/>
+				</question>
+				<question id="2">
+					<symbol id="0" code="HL"/>
+					<symbol id="1" code="39"/>
+					<symbol id="2" code="K9"/>
+					<symbol id="3" code="IW"/>
+				</question>
+			</ballot>
+			<ballot barcodeSerial="161351" chitSerial="594700" password1="546705" password2="482947">
+				<question id="0">
+					<symbol id="0" code="94"/>
+					<symbol id="1" code="3I"/>
+					<symbol id="2" code="IW"/>
+					<symbol id="3" code="II"/>
+				</question>
+				<question id="1">
+					<symbol id="0" code="I9"/>
+					<symbol id="1" code="HK"/>
+					<symbol id="2" code="4N"/>
+				</question>
+				<question id="2">
+					<symbol id="0" code="3W"/>
+					<symbol id="1" code="KT"/>
+					<symbol id="2" code="C4"/>
+					<symbol id="3" code="T3"/>
+				</question>
+			</ballot>
+			<ballot barcodeSerial="941238" chitSerial="761364" password1="396040" password2="261967">
+				<question id="0">
+					<symbol id="0" code="LW"/>
+					<symbol id="1" code="I9"/>
+					<symbol id="2" code="IW"/>
+					<symbol id="3" code="II"/>
+				</question>
+				<question id="1">
+					<symbol id="0" code="4W"/>
+					<symbol id="1" code="NH"/>
+					<symbol id="2" code="LC"/>
+				</question>
+				<question id="2">
+					<symbol id="0" code="NT"/>
+					<symbol id="1" code="MN"/>
+					<symbol id="2" code="TH"/>
+					<symbol id="3" code="LK"/>
+				</question>
+			</ballot>
+			<ballot barcodeSerial="376002" chitSerial="825160" password1="680483" password2="749599">
+				<question id="0">
+					<symbol id="0" code="NC"/>
+					<symbol id="1" code="C3"/>
+					<symbol id="2" code="I4"/>
+					<symbol id="3" code="M9"/>
+				</question>
+				<question id="1">
+					<symbol id="0" code="NT"/>
+					<symbol id="1" code="4N"/>
+					<symbol id="2" code="I4"/>
+				</question>
+				<question id="2">
+					<symbol id="0" code="49"/>
+					<symbol id="1" code="9W"/>
+					<symbol id="2" code="MM"/>
+					<symbol id="3" code="NN"/>
+				</question>
+			</ballot>
+			<ballot barcodeSerial="245389" chitSerial="816426" password1="124171" password2="246586">
+				<question id="0">
+					<symbol id="0" code="33"/>
+					<symbol id="1" code="HW"/>
+					<symbol id="2" code="HI"/>
+					<symbol id="3" code="LK"/>
+				</question>
+				<question id="1">
+					<symbol id="0" code="K3"/>
+					<symbol id="1" code="NI"/>
+					<symbol id="2" code="HC"/>
+				</question>
+				<question id="2">
+					<symbol id="0" code="TH"/>
+					<symbol id="1" code="3L"/>
+					<symbol id="2" code="34"/>
+					<symbol id="3" code="9W"/>
+				</question>
+			</ballot>
+			<ballot barcodeSerial="406344" chitSerial="660758" password1="509035" password2="761686">
+				<question id="0">
+					<symbol id="0" code="HM"/>
+					<symbol id="1" code="K3"/>
+					<symbol id="2" code="4C"/>
+					<symbol id="3" code="L3"/>
+				</question>
+				<question id="1">
+					<symbol id="0" code="4N"/>
+					<symbol id="1" code="N4"/>
+					<symbol id="2" code="4M"/>
+				</question>
+				<question id="2">
+					<symbol id="0" code="IH"/>
+					<symbol id="1" code="4M"/>
+					<symbol id="2" code="NH"/>
+					<symbol id="3" code="C3"/>
+				</question>
+			</ballot>
+			<ballot barcodeSerial="723957" chitSerial="510012" password1="132946" password2="694781">
+				<question id="0">
+					<symbol id="0" code="HW"/>
+					<symbol id="1" code="4H"/>
+					<symbol id="2" code="LT"/>
+					<symbol id="3" code="93"/>
+				</question>
+				<question id="1">
+					<symbol id="0" code="K4"/>
+					<symbol id="1" code="49"/>
+					<symbol id="2" code="9M"/>
+				</question>
+				<question id="2">
+					<symbol id="0" code="L9"/>
+					<symbol id="1" code="TH"/>
+					<symbol id="2" code="KC"/>
+					<symbol id="3" code="LL"/>
+				</question>
+			</ballot>
+			<ballot barcodeSerial="284058" chitSerial="953881" password1="523918" password2="929935">
+				<question id="0">
+					<symbol id="0" code="LW"/>
+					<symbol id="1" code="M3"/>
+					<symbol id="2" code="3M"/>
+					<symbol id="3" code="CH"/>
+				</question>
+				<question id="1">
+					<symbol id="0" code="IW"/>
+					<symbol id="1" code="HH"/>
+					<symbol id="2" code="K9"/>
+				</question>
+				<question id="2">
+					<symbol id="0" code="CW"/>
+					<symbol id="1" code="9C"/>
+					<symbol id="2" code="3I"/>
+					<symbol id="3" code="LW"/>
+				</question>
+			</ballot>
+			<ballot barcodeSerial="976744" chitSerial="900239" password1="170248" password2="166798">
+				<question id="0">
+					<symbol id="0" code="9K"/>
+					<symbol id="1" code="HH"/>
+					<symbol id="2" code="C9"/>
+					<symbol id="3" code="4L"/>
+				</question>
+				<question id="1">
+					<symbol id="0" code="34"/>
+					<symbol id="1" code="4K"/>
+					<symbol id="2" code="LI"/>
+				</question>
+				<question id="2">
+					<symbol id="0" code="NM"/>
+					<symbol id="1" code="HI"/>
+					<symbol id="2" code="N4"/>
+					<symbol id="3" code="HW"/>
+				</question>
+			</ballot>
+			<ballot barcodeSerial="956304" chitSerial="923764" password1="734740" password2="882970">
+				<question id="0">
+					<symbol id="0" code="9T"/>
+					<symbol id="1" code="CC"/>
+					<symbol id="2" code="NH"/>
+					<symbol id="3" code="MT"/>
+				</question>
+				<question id="1">
+					<symbol id="0" code="4M"/>
+					<symbol id="1" code="43"/>
+					<symbol id="2" code="LT"/>
+				</question>
+				<question id="2">
+					<symbol id="0" code="3T"/>
+					<symbol id="1" code="NC"/>
+					<symbol id="2" code="IL"/>
+					<symbol id="3" code="C9"/>
+				</question>
+			</ballot>
+			<ballot barcodeSerial="561169" chitSerial="300817" password1="237252" password2="781601">
+				<question id="0">
+					<symbol id="0" code="CI"/>
+					<symbol id="1" code="CC"/>
+					<symbol id="2" code="9T"/>
+					<symbol id="3" code="HW"/>
+				</question>
+				<question id="1">
+					<symbol id="0" code="39"/>
+					<symbol id="1" code="4W"/>
+					<symbol id="2" code="MI"/>
+				</question>
+				<question id="2">
+					<symbol id="0" code="NT"/>
+					<symbol id="1" code="NK"/>
+					<symbol id="2" code="HH"/>
+					<symbol id="3" code="H4"/>
+				</question>
+			</ballot>
+			<ballot barcodeSerial="863749" chitSerial="148900" password1="150501" password2="505760">
+				<question id="0">
+					<symbol id="0" code="K4"/>
+					<symbol id="1" code="93"/>
+					<symbol id="2" code="NM"/>
+					<symbol id="3" code="NC"/>
+				</question>
+				<question id="1">
+					<symbol id="0" code="LN"/>
+					<symbol id="1" code="T9"/>
+					<symbol id="2" code="KM"/>
+				</question>
+				<question id="2">
+					<symbol id="0" code="4L"/>
+					<symbol id="1" code="44"/>
+					<symbol id="2" code="NM"/>
+					<symbol id="3" code="KW"/>
+				</question>
+			</ballot>
+			<ballot barcodeSerial="462638" chitSerial="928205" password1="750890" password2="893525">
+				<question id="0">
+					<symbol id="0" code="3L"/>
+					<symbol id="1" code="N9"/>
+					<symbol id="2" code="CI"/>
+					<symbol id="3" code="33"/>
+				</question>
+				<question id="1">
+					<symbol id="0" code="9I"/>
+					<symbol id="1" code="49"/>
+					<symbol id="2" code="MM"/>
+				</question>
+				<question id="2">
+					<symbol id="0" code="C3"/>
+					<symbol id="1" code="H3"/>
+					<symbol id="2" code="N4"/>
+					<symbol id="3" code="H9"/>
+				</question>
+			</ballot>
+			<ballot barcodeSerial="499771" chitSerial="441085" password1="473927" password2="193094">
+				<question id="0">
+					<symbol id="0" code="LC"/>
+					<symbol id="1" code="4K"/>
+					<symbol id="2" code="H4"/>
+					<symbol id="3" code="34"/>
+				</question>
+				<question id="1">
+					<symbol id="0" code="KI"/>
+					<symbol id="1" code="HM"/>
+					<symbol id="2" code="CT"/>
+				</question>
+				<question id="2">
+					<symbol id="0" code="LN"/>
+					<symbol id="1" code="HK"/>
+					<symbol id="2" code="N4"/>
+					<symbol id="3" code="HL"/>
+				</question>
+			</ballot>
+			<ballot barcodeSerial="115945" chitSerial="996025" password1="864720" password2="476267">
+				<question id="0">
+					<symbol id="0" code="KC"/>
+					<symbol id="1" code="C3"/>
+					<symbol id="2" code="4N"/>
+					<symbol id="3" code="9T"/>
+				</question>
+				<question id="1">
+					<symbol id="0" code="MC"/>
+					<symbol id="1" code="HN"/>
+					<symbol id="2" code="M4"/>
+				</question>
+				<question id="2">
+					<symbol id="0" code="9M"/>
+					<symbol id="1" code="IM"/>
+					<symbol id="2" code="LT"/>
+					<symbol id="3" code="II"/>
+				</question>
+			</ballot>
+			<ballot barcodeSerial="327892" chitSerial="579414" password1="174953" password2="849904">
+				<question id="0">
+					<symbol id="0" code="3N"/>
+					<symbol id="1" code="HK"/>
+					<symbol id="2" code="KI"/>
+					<symbol id="3" code="TL"/>
+				</question>
+				<question id="1">
+					<symbol id="0" code="IT"/>
+					<symbol id="1" code="NL"/>
+					<symbol id="2" code="KT"/>
+				</question>
+				<question id="2">
+					<symbol id="0" code="9H"/>
+					<symbol id="1" code="LL"/>
+					<symbol id="2" code="KK"/>
+					<symbol id="3" code="N4"/>
+				</question>
+			</ballot>
+			<ballot barcodeSerial="256741" chitSerial="380072" password1="563176" password2="778985">
+				<question id="0">
+					<symbol id="0" code="M3"/>
+					<symbol id="1" code="4W"/>
+					<symbol id="2" code="NT"/>
+					<symbol id="3" code="K9"/>
+				</question>
+				<question id="1">
+					<symbol id="0" code="IN"/>
+					<symbol id="1" code="MW"/>
+					<symbol id="2" code="HM"/>
+				</question>
+				<question id="2">
+					<symbol id="0" code="4C"/>
+					<symbol id="1" code="M9"/>
+					<symbol id="2" code="3W"/>
+					<symbol id="3" code="NM"/>
+				</question>
+			</ballot>
+			<ballot barcodeSerial="379958" chitSerial="377641" password1="379309" password2="243682">
+				<question id="0">
+					<symbol id="0" code="LC"/>
+					<symbol id="1" code="4W"/>
+					<symbol id="2" code="K3"/>
+					<symbol id="3" code="NI"/>
+				</question>
+				<question id="1">
+					<symbol id="0" code="NM"/>
+					<symbol id="1" code="HH"/>
+					<symbol id="2" code="KM"/>
+				</question>
+				<question id="2">
+					<symbol id="0" code="34"/>
+					<symbol id="1" code="HI"/>
+					<symbol id="2" code="NL"/>
+					<symbol id="3" code="HW"/>
+				</question>
+			</ballot>
+			<ballot barcodeSerial="374586" chitSerial="812015" password1="159355" password2="286726">
+				<question id="0">
+					<symbol id="0" code="44"/>
+					<symbol id="1" code="NC"/>
+					<symbol id="2" code="3K"/>
+					<symbol id="3" code="M3"/>
+				</question>
+				<question id="1">
+					<symbol id="0" code="HT"/>
+					<symbol id="1" code="44"/>
+					<symbol id="2" code="H4"/>
+				</question>
+				<question id="2">
+					<symbol id="0" code="9W"/>
+					<symbol id="1" code="4H"/>
+					<symbol id="2" code="HT"/>
+					<symbol id="3" code="N9"/>
+				</question>
+			</ballot>
+			<ballot barcodeSerial="756180" chitSerial="230628" password1="918191" password2="804872">
+				<question id="0">
+					<symbol id="0" code="44"/>
+					<symbol id="1" code="MW"/>
+					<symbol id="2" code="MM"/>
+					<symbol id="3" code="CK"/>
+				</question>
+				<question id="1">
+					<symbol id="0" code="49"/>
+					<symbol id="1" code="IC"/>
+					<symbol id="2" code="CL"/>
+				</question>
+				<question id="2">
+					<symbol id="0" code="KL"/>
+					<symbol id="1" code="LT"/>
+					<symbol id="2" code="NW"/>
+					<symbol id="3" code="IL"/>
+				</question>
+			</ballot>
+			<ballot barcodeSerial="396293" chitSerial="391128" password1="906173" password2="974761">
+				<question id="0">
+					<symbol id="0" code="4H"/>
+					<symbol id="1" code="3T"/>
+					<symbol id="2" code="HM"/>
+					<symbol id="3" code="IT"/>
+				</question>
+				<question id="1">
+					<symbol id="0" code="33"/>
+					<symbol id="1" code="KM"/>
+					<symbol id="2" code="CH"/>
+				</question>
+				<question id="2">
+					<symbol id="0" code="L4"/>
+					<symbol id="1" code="34"/>
+					<symbol id="2" code="K3"/>
+					<symbol id="3" code="33"/>
+				</question>
+			</ballot>
+			<ballot barcodeSerial="126555" chitSerial="382973" password1="557762" password2="515002">
+				<question id="0">
+					<symbol id="0" code="I4"/>
+					<symbol id="1" code="NI"/>
+					<symbol id="2" code="MN"/>
+					<symbol id="3" code="T4"/>
+				</question>
+				<question id="1">
+					<symbol id="0" code="C9"/>
+					<symbol id="1" code="4C"/>
+					<symbol id="2" code="MH"/>
+				</question>
+				<question id="2">
+					<symbol id="0" code="C4"/>
+					<symbol id="1" code="TL"/>
+					<symbol id="2" code="HT"/>
+					<symbol id="3" code="NK"/>
+				</question>
+			</ballot>
+			<ballot barcodeSerial="635233" chitSerial="945350" password1="916726" password2="977995">
+				<question id="0">
+					<symbol id="0" code="IT"/>
+					<symbol id="1" code="39"/>
+					<symbol id="2" code="NI"/>
+					<symbol id="3" code="LM"/>
+				</question>
+				<question id="1">
+					<symbol id="0" code="IL"/>
+					<symbol id="1" code="N9"/>
+					<symbol id="2" code="NL"/>
+				</question>
+				<question id="2">
+					<symbol id="0" code="LT"/>
+					<symbol id="1" code="I4"/>
+					<symbol id="2" code="HH"/>
+					<symbol id="3" code="CN"/>
+				</question>
+			</ballot>
+			<ballot barcodeSerial="568537" chitSerial="687201" password1="680147" password2="299137">
+				<question id="0">
+					<symbol id="0" code="KM"/>
+					<symbol id="1" code="34"/>
+					<symbol id="2" code="4L"/>
+					<symbol id="3" code="9L"/>
+				</question>
+				<question id="1">
+					<symbol id="0" code="3K"/>
+					<symbol id="1" code="93"/>
+					<symbol id="2" code="39"/>
+				</question>
+				<question id="2">
+					<symbol id="0" code="4K"/>
+					<symbol id="1" code="N3"/>
+					<symbol id="2" code="IC"/>
+					<symbol id="3" code="93"/>
+				</question>
+			</ballot>
+			<ballot barcodeSerial="307496" chitSerial="389678" password1="307825" password2="612077">
+				<question id="0">
+					<symbol id="0" code="I3"/>
+					<symbol id="1" code="3W"/>
+					<symbol id="2" code="IW"/>
+					<symbol id="3" code="NL"/>
+				</question>
+				<question id="1">
+					<symbol id="0" code="33"/>
+					<symbol id="1" code="II"/>
+					<symbol id="2" code="9N"/>
+				</question>
+				<question id="2">
+					<symbol id="0" code="K9"/>
+					<symbol id="1" code="CH"/>
+					<symbol id="2" code="93"/>
+					<symbol id="3" code="IT"/>
+				</question>
+			</ballot>
+			<ballot barcodeSerial="973051" chitSerial="347821" password1="217863" password2="890734">
+				<question id="0">
+					<symbol id="0" code="4N"/>
+					<symbol id="1" code="4H"/>
+					<symbol id="2" code="HC"/>
+					<symbol id="3" code="CK"/>
+				</question>
+				<question id="1">
+					<symbol id="0" code="44"/>
+					<symbol id="1" code="CL"/>
+					<symbol id="2" code="MW"/>
+				</question>
+				<question id="2">
+					<symbol id="0" code="LH"/>
+					<symbol id="1" code="33"/>
+					<symbol id="2" code="TK"/>
+					<symbol id="3" code="KN"/>
+				</question>
+			</ballot>
+			<ballot barcodeSerial="880101" chitSerial="982006" password1="769040" password2="177143">
+				<question id="0">
+					<symbol id="0" code="C3"/>
+					<symbol id="1" code="ML"/>
+					<symbol id="2" code="IC"/>
+					<symbol id="3" code="KT"/>
+				</question>
+				<question id="1">
+					<symbol id="0" code="MH"/>
+					<symbol id="1" code="HM"/>
+					<symbol id="2" code="CN"/>
+				</question>
+				<question id="2">
+					<symbol id="0" code="TC"/>
+					<symbol id="1" code="4M"/>
+					<symbol id="2" code="CC"/>
+					<symbol id="3" code="C4"/>
+				</question>
+			</ballot>
+			<ballot barcodeSerial="987623" chitSerial="910188" password1="518227" password2="915117">
+				<question id="0">
+					<symbol id="0" code="3T"/>
+					<symbol id="1" code="IL"/>
+					<symbol id="2" code="I4"/>
+					<symbol id="3" code="NI"/>
+				</question>
+				<question id="1">
+					<symbol id="0" code="KH"/>
+					<symbol id="1" code="CM"/>
+					<symbol id="2" code="9L"/>
+				</question>
+				<question id="2">
+					<symbol id="0" code="93"/>
+					<symbol id="1" code="IM"/>
+					<symbol id="2" code="MI"/>
+					<symbol id="3" code="HL"/>
+				</question>
+			</ballot>
+			<ballot barcodeSerial="996643" chitSerial="968637" password1="376890" password2="881218">
+				<question id="0">
+					<symbol id="0" code="NC"/>
+					<symbol id="1" code="M3"/>
+					<symbol id="2" code="IT"/>
+					<symbol id="3" code="NT"/>
+				</question>
+				<question id="1">
+					<symbol id="0" code="KC"/>
+					<symbol id="1" code="49"/>
+					<symbol id="2" code="HL"/>
+				</question>
+				<question id="2">
+					<symbol id="0" code="3W"/>
+					<symbol id="1" code="93"/>
+					<symbol id="2" code="3C"/>
+					<symbol id="3" code="NI"/>
+				</question>
+			</ballot>
+			<ballot barcodeSerial="135611" chitSerial="922455" password1="986159" password2="988771">
+				<question id="0">
+					<symbol id="0" code="KT"/>
+					<symbol id="1" code="99"/>
+					<symbol id="2" code="4W"/>
+					<symbol id="3" code="N4"/>
+				</question>
+				<question id="1">
+					<symbol id="0" code="KL"/>
+					<symbol id="1" code="3C"/>
+					<symbol id="2" code="KW"/>
+				</question>
+				<question id="2">
+					<symbol id="0" code="NM"/>
+					<symbol id="1" code="CL"/>
+					<symbol id="2" code="IC"/>
+					<symbol id="3" code="M4"/>
+				</question>
+			</ballot>
+			<ballot barcodeSerial="232246" chitSerial="272929" password1="245505" password2="181561">
+				<question id="0">
+					<symbol id="0" code="MM"/>
+					<symbol id="1" code="KC"/>
+					<symbol id="2" code="39"/>
+					<symbol id="3" code="M4"/>
+				</question>
+				<question id="1">
+					<symbol id="0" code="NI"/>
+					<symbol id="1" code="H9"/>
+					<symbol id="2" code="34"/>
+				</question>
+				<question id="2">
+					<symbol id="0" code="33"/>
+					<symbol id="1" code="HL"/>
+					<symbol id="2" code="3W"/>
+					<symbol id="3" code="3I"/>
+				</question>
+			</ballot>
+			<ballot barcodeSerial="863867" chitSerial="837749" password1="374918" password2="264778">
+				<question id="0">
+					<symbol id="0" code="H4"/>
+					<symbol id="1" code="IK"/>
+					<symbol id="2" code="TL"/>
+					<symbol id="3" code="HN"/>
+				</question>
+				<question id="1">
+					<symbol id="0" code="K9"/>
+					<symbol id="1" code="KN"/>
+					<symbol id="2" code="CK"/>
+				</question>
+				<question id="2">
+					<symbol id="0" code="9L"/>
+					<symbol id="1" code="IW"/>
+					<symbol id="2" code="34"/>
+					<symbol id="3" code="T4"/>
+				</question>
+			</ballot>
+			<ballot barcodeSerial="313923" chitSerial="457410" password1="996948" password2="908506">
+				<question id="0">
+					<symbol id="0" code="IM"/>
+					<symbol id="1" code="C9"/>
+					<symbol id="2" code="KH"/>
+					<symbol id="3" code="IN"/>
+				</question>
+				<question id="1">
+					<symbol id="0" code="T4"/>
+					<symbol id="1" code="TK"/>
+					<symbol id="2" code="4K"/>
+				</question>
+				<question id="2">
+					<symbol id="0" code="C9"/>
+					<symbol id="1" code="HI"/>
+					<symbol id="2" code="ML"/>
+					<symbol id="3" code="LN"/>
+				</question>
+			</ballot>
+			<ballot barcodeSerial="990965" chitSerial="872317" password1="119132" password2="703345">
+				<question id="0">
+					<symbol id="0" code="9K"/>
+					<symbol id="1" code="IN"/>
+					<symbol id="2" code="IH"/>
+					<symbol id="3" code="LI"/>
+				</question>
+				<question id="1">
+					<symbol id="0" code="H3"/>
+					<symbol id="1" code="KN"/>
+					<symbol id="2" code="NM"/>
+				</question>
+				<question id="2">
+					<symbol id="0" code="KI"/>
+					<symbol id="1" code="M3"/>
+					<symbol id="2" code="9N"/>
+					<symbol id="3" code="CM"/>
+				</question>
+			</ballot>
+			<ballot barcodeSerial="506280" chitSerial="532402" password1="920288" password2="945164">
+				<question id="0">
+					<symbol id="0" code="3M"/>
+					<symbol id="1" code="NT"/>
+					<symbol id="2" code="NK"/>
+					<symbol id="3" code="HL"/>
+				</question>
+				<question id="1">
+					<symbol id="0" code="M3"/>
+					<symbol id="1" code="K4"/>
+					<symbol id="2" code="MH"/>
+				</question>
+				<question id="2">
+					<symbol id="0" code="39"/>
+					<symbol id="1" code="9L"/>
+					<symbol id="2" code="HT"/>
+					<symbol id="3" code="H3"/>
+				</question>
+			</ballot>
+			<ballot barcodeSerial="216968" chitSerial="588032" password1="648986" password2="451940">
+				<question id="0">
+					<symbol id="0" code="LK"/>
+					<symbol id="1" code="NW"/>
+					<symbol id="2" code="4K"/>
+					<symbol id="3" code="KN"/>
+				</question>
+				<question id="1">
+					<symbol id="0" code="L9"/>
+					<symbol id="1" code="9N"/>
+					<symbol id="2" code="43"/>
+				</question>
+				<question id="2">
+					<symbol id="0" code="TH"/>
+					<symbol id="1" code="4W"/>
+					<symbol id="2" code="KH"/>
+					<symbol id="3" code="CL"/>
+				</question>
+			</ballot>
+			<ballot barcodeSerial="287085" chitSerial="968040" password1="259182" password2="331534">
+				<question id="0">
+					<symbol id="0" code="TI"/>
+					<symbol id="1" code="3M"/>
+					<symbol id="2" code="MW"/>
+					<symbol id="3" code="4N"/>
+				</question>
+				<question id="1">
+					<symbol id="0" code="H9"/>
+					<symbol id="1" code="TH"/>
+					<symbol id="2" code="HN"/>
+				</question>
+				<question id="2">
+					<symbol id="0" code="LC"/>
+					<symbol id="1" code="3C"/>
+					<symbol id="2" code="IC"/>
+					<symbol id="3" code="HK"/>
+				</question>
+			</ballot>
+			<ballot barcodeSerial="704864" chitSerial="827940" password1="153803" password2="131300">
+				<question id="0">
+					<symbol id="0" code="CC"/>
+					<symbol id="1" code="NW"/>
+					<symbol id="2" code="99"/>
+					<symbol id="3" code="K4"/>
+				</question>
+				<question id="1">
+					<symbol id="0" code="HC"/>
+					<symbol id="1" code="M9"/>
+					<symbol id="2" code="9W"/>
+				</question>
+				<question id="2">
+					<symbol id="0" code="ML"/>
+					<symbol id="1" code="4T"/>
+					<symbol id="2" code="3H"/>
+					<symbol id="3" code="HC"/>
+				</question>
+			</ballot>
+			<ballot barcodeSerial="217563" chitSerial="484484" password1="739399" password2="746067">
+				<question id="0">
+					<symbol id="0" code="KC"/>
+					<symbol id="1" code="43"/>
+					<symbol id="2" code="KH"/>
+					<symbol id="3" code="M4"/>
+				</question>
+				<question id="1">
+					<symbol id="0" code="IK"/>
+					<symbol id="1" code="4M"/>
+					<symbol id="2" code="K3"/>
+				</question>
+				<question id="2">
+					<symbol id="0" code="LH"/>
+					<symbol id="1" code="9H"/>
+					<symbol id="2" code="9W"/>
+					<symbol id="3" code="IT"/>
+				</question>
+			</ballot>
+			<ballot barcodeSerial="121594" chitSerial="270734" password1="599819" password2="337699">
+				<question id="0">
+					<symbol id="0" code="9C"/>
+					<symbol id="1" code="LW"/>
+					<symbol id="2" code="3K"/>
+					<symbol id="3" code="3L"/>
+				</question>
+				<question id="1">
+					<symbol id="0" code="IN"/>
+					<symbol id="1" code="3N"/>
+					<symbol id="2" code="NK"/>
+				</question>
+				<question id="2">
+					<symbol id="0" code="CK"/>
+					<symbol id="1" code="IW"/>
+					<symbol id="2" code="39"/>
+					<symbol id="3" code="T3"/>
+				</question>
+			</ballot>
+			<ballot barcodeSerial="165291" chitSerial="920437" password1="484535" password2="152754">
+				<question id="0">
+					<symbol id="0" code="MI"/>
+					<symbol id="1" code="KN"/>
+					<symbol id="2" code="H4"/>
+					<symbol id="3" code="43"/>
+				</question>
+				<question id="1">
+					<symbol id="0" code="HC"/>
+					<symbol id="1" code="93"/>
+					<symbol id="2" code="3C"/>
+				</question>
+				<question id="2">
+					<symbol id="0" code="HW"/>
+					<symbol id="1" code="LW"/>
+					<symbol id="2" code="N3"/>
+					<symbol id="3" code="4T"/>
+				</question>
+			</ballot>
+			<ballot barcodeSerial="986697" chitSerial="419586" password1="318305" password2="873780">
+				<question id="0">
+					<symbol id="0" code="HH"/>
+					<symbol id="1" code="C9"/>
+					<symbol id="2" code="I9"/>
+					<symbol id="3" code="3I"/>
+				</question>
+				<question id="1">
+					<symbol id="0" code="MH"/>
+					<symbol id="1" code="3T"/>
+					<symbol id="2" code="NN"/>
+				</question>
+				<question id="2">
+					<symbol id="0" code="94"/>
+					<symbol id="1" code="4L"/>
+					<symbol id="2" code="44"/>
+					<symbol id="3" code="NL"/>
+				</question>
+			</ballot>
+			<ballot barcodeSerial="581116" chitSerial="854772" password1="632025" password2="767206">
+				<question id="0">
+					<symbol id="0" code="44"/>
+					<symbol id="1" code="CH"/>
+					<symbol id="2" code="CM"/>
+					<symbol id="3" code="IK"/>
+				</question>
+				<question id="1">
+					<symbol id="0" code="9N"/>
+					<symbol id="1" code="CI"/>
+					<symbol id="2" code="H3"/>
+				</question>
+				<question id="2">
+					<symbol id="0" code="I4"/>
+					<symbol id="1" code="39"/>
+					<symbol id="2" code="CI"/>
+					<symbol id="3" code="KI"/>
+				</question>
+			</ballot>
+		</codes>
+	</database>
+</xml>

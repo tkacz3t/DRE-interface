@@ -1,0 +1,7 @@
+<xml>
+	<electionSpec>ElectionSpec.xml</electionSpec>
+	<noBallots>100</noBallots>
+	<noDs>1</noDs>
+	<constant>RGVtbyBCZW4gV2FyZCA0IA==</constant>
+	<partitions>partitions.xml</partitions>
+</xml>

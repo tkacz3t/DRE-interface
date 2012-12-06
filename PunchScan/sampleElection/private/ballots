@@ -1,0 +1,24 @@
+<xml>
+	<print>
+					<row id="462638" p3="0 1 0 1" page="NONE"/>
+					<row id="956304" p3="3 0 0 1" page="NONE"/>
+					<row id="723957" p3="3 1 0 1" page="NONE"/>
+					<row id="700872" p3="1 1 1 0" page="NONE"/>
+					<row id="976744" p3="3 2 0 1" page="NONE"/>
+					<row id="317955" p3="0 2 0 1" page="NONE"/>
+					<row id="406344" p3="3 0 1 0" page="NONE"/>
+					<row id="863749" p3="2 2 0 1" page="NONE"/>
+					<row id="609038" p3="2 0 0 1" page="NONE"/>
+					<row id="850669" p3="2 0 0 1" page="NONE"/>
+					<row id="284058" p3="3 1 1 0" page="NONE"/>
+					<row id="161351" p3="2 2 1 0" page="NONE"/>
+					<row id="324256" p3="2 1 1 0" page="NONE"/>
+					<row id="376002" p3="1 2 1 0" page="NONE"/>
+					<row id="686674" p3="1 1 0 1" page="NONE"/>
+					<row id="561169" p3="3 0 1 0" page="NONE"/>
+					<row id="941238" p3="3 2 1 0" page="NONE"/>
+					<row id="369815" p3="2 2 1 0" page="NONE"/>
+					<row id="773495" p3="3 2 0 1" page="NONE"/>
+					<row id="245389" p3="2 0 0 1" page="NONE"/>
+	</print>
+</xml>

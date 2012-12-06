@@ -1,0 +1,956 @@
+<xml>
+	<database>
+		<codes>
+			<ballot barcodeSerial="4-732654" webSerial="4-429942" stubSerial="4-0001">
+				<question id="0">
+					<symbol id="0" code="966"/>
+					<symbol id="1" code="044"/>
+					<symbol id="2" code="897"/>
+					<symbol id="3" code="981"/>
+				</question>
+				<question id="1">
+					<symbol id="0" code="896"/>
+					<symbol id="1" code="917"/>
+					<symbol id="2" code="574"/>
+				</question>
+				<question id="2">
+					<symbol id="0" code="781"/>
+					<symbol id="1" code="958"/>
+					<symbol id="2" code="349"/>
+					<symbol id="3" code="331"/>
+				</question>
+			</ballot>
+			<ballot barcodeSerial="4-609038" webSerial="4-960863" stubSerial="4-0002">
+				<question id="0">
+					<symbol id="0" code="595"/>
+					<symbol id="1" code="989"/>
+					<symbol id="2" code="835"/>
+					<symbol id="3" code="975"/>
+				</question>
+				<question id="1">
+					<symbol id="0" code="123"/>
+					<symbol id="1" code="086"/>
+					<symbol id="2" code="940"/>
+				</question>
+				<question id="2">
+					<symbol id="0" code="966"/>
+					<symbol id="1" code="971"/>
+					<symbol id="2" code="908"/>
+					<symbol id="3" code="325"/>
+				</question>
+			</ballot>
+			<ballot barcodeSerial="4-773495" webSerial="4-672515" stubSerial="4-0003">
+				<question id="0">
+					<symbol id="0" code="610"/>
+					<symbol id="1" code="996"/>
+					<symbol id="2" code="825"/>
+					<symbol id="3" code="981"/>
+				</question>
+				<question id="1">
+					<symbol id="0" code="916"/>
+					<symbol id="1" code="258"/>
+					<symbol id="2" code="941"/>
+				</question>
+				<question id="2">
+					<symbol id="0" code="896"/>
+					<symbol id="1" code="860"/>
+					<symbol id="2" code="915"/>
+					<symbol id="3" code="003"/>
+				</question>
+			</ballot>
+			<ballot barcodeSerial="4-799466" webSerial="4-760892" stubSerial="4-0004">
+				<question id="0">
+					<symbol id="0" code="789"/>
+					<symbol id="1" code="919"/>
+					<symbol id="2" code="896"/>
+					<symbol id="3" code="058"/>
+				</question>
+				<question id="1">
+					<symbol id="0" code="061"/>
+					<symbol id="1" code="918"/>
+					<symbol id="2" code="999"/>
+				</question>
+				<question id="2">
+					<symbol id="0" code="961"/>
+					<symbol id="1" code="098"/>
+					<symbol id="2" code="975"/>
+					<symbol id="3" code="008"/>
+				</question>
+			</ballot>
+			<ballot barcodeSerial="4-324256" webSerial="4-883048" stubSerial="4-0005">
+				<question id="0">
+					<symbol id="0" code="879"/>
+					<symbol id="1" code="918"/>
+					<symbol id="2" code="973"/>
+					<symbol id="3" code="996"/>
+				</question>
+				<question id="1">
+					<symbol id="0" code="920"/>
+					<symbol id="1" code="852"/>
+					<symbol id="2" code="949"/>
+				</question>
+				<question id="2">
+					<symbol id="0" code="979"/>
+					<symbol id="1" code="531"/>
+					<symbol id="2" code="032"/>
+					<symbol id="3" code="841"/>
+				</question>
+			</ballot>
+			<ballot barcodeSerial="4-850669" webSerial="4-744092" stubSerial="4-0006">
+				<question id="0">
+					<symbol id="0" code="557"/>
+					<symbol id="1" code="899"/>
+					<symbol id="2" code="612"/>
+					<symbol id="3" code="926"/>
+				</question>
+				<question id="1">
+					<symbol id="0" code="514"/>
+					<symbol id="1" code="289"/>
+					<symbol id="2" code="786"/>
+				</question>
+				<question id="2">
+					<symbol id="0" code="951"/>
+					<symbol id="1" code="898"/>
+					<symbol id="2" code="970"/>
+					<symbol id="3" code="327"/>
+				</question>
+			</ballot>
+			<ballot barcodeSerial="4-130068" webSerial="4-252337" stubSerial="4-0007">
+				<question id="0">
+					<symbol id="0" code="101"/>
+					<symbol id="1" code="780"/>
+					<symbol id="2" code="297"/>
+					<symbol id="3" code="972"/>
+				</question>
+				<question id="1">
+					<symbol id="0" code="911"/>
+					<symbol id="1" code="998"/>
+					<symbol id="2" code="330"/>
+				</question>
+				<question id="2">
+					<symbol id="0" code="628"/>
+					<symbol id="1" code="582"/>
+					<symbol id="2" code="921"/>
+					<symbol id="3" code="349"/>
+				</question>
+			</ballot>
+			<ballot barcodeSerial="4-376002" webSerial="4-825160" stubSerial="4-0008">
+				<question id="0">
+					<symbol id="0" code="367"/>
+					<symbol id="1" code="932"/>
+					<symbol id="2" code="317"/>
+					<symbol id="3" code="994"/>
+				</question>
+				<question id="1">
+					<symbol id="0" code="809"/>
+					<symbol id="1" code="533"/>
+					<symbol id="2" code="317"/>
+				</question>
+				<question id="2">
+					<symbol id="0" code="270"/>
+					<symbol id="1" code="547"/>
+					<symbol id="2" code="616"/>
+					<symbol id="3" code="958"/>
+				</question>
+			</ballot>
+			<ballot barcodeSerial="4-492604" webSerial="4-327639" stubSerial="4-0009">
+				<question id="0">
+					<symbol id="0" code="025"/>
+					<symbol id="1" code="582"/>
+					<symbol id="2" code="526"/>
+					<symbol id="3" code="084"/>
+				</question>
+				<question id="1">
+					<symbol id="0" code="848"/>
+					<symbol id="1" code="929"/>
+					<symbol id="2" code="119"/>
+				</question>
+				<question id="2">
+					<symbol id="0" code="922"/>
+					<symbol id="1" code="318"/>
+					<symbol id="2" code="920"/>
+					<symbol id="3" code="526"/>
+				</question>
+			</ballot>
+			<ballot barcodeSerial="4-406344" webSerial="4-660758" stubSerial="4-0010">
+				<question id="0">
+					<symbol id="0" code="952"/>
+					<symbol id="1" code="968"/>
+					<symbol id="2" code="527"/>
+					<symbol id="3" code="980"/>
+				</question>
+				<question id="1">
+					<symbol id="0" code="021"/>
+					<symbol id="1" code="365"/>
+					<symbol id="2" code="916"/>
+				</question>
+				<question id="2">
+					<symbol id="0" code="960"/>
+					<symbol id="1" code="916"/>
+					<symbol id="2" code="555"/>
+					<symbol id="3" code="932"/>
+				</question>
+			</ballot>
+			<ballot barcodeSerial="4-283031" webSerial="4-141237" stubSerial="4-0011">
+				<question id="0">
+					<symbol id="0" code="941"/>
+					<symbol id="1" code="958"/>
+					<symbol id="2" code="607"/>
+					<symbol id="3" code="822"/>
+				</question>
+				<question id="1">
+					<symbol id="0" code="998"/>
+					<symbol id="1" code="069"/>
+					<symbol id="2" code="843"/>
+				</question>
+				<question id="2">
+					<symbol id="0" code="104"/>
+					<symbol id="1" code="541"/>
+					<symbol id="2" code="561"/>
+					<symbol id="3" code="935"/>
+				</question>
+			</ballot>
+			<ballot barcodeSerial="4-976744" webSerial="4-900239" stubSerial="4-0012">
+				<question id="0">
+					<symbol id="0" code="542"/>
+					<symbol id="1" code="308"/>
+					<symbol id="2" code="550"/>
+					<symbol id="3" code="915"/>
+				</question>
+				<question id="1">
+					<symbol id="0" code="769"/>
+					<symbol id="1" code="914"/>
+					<symbol id="2" code="985"/>
+				</question>
+				<question id="2">
+					<symbol id="0" code="372"/>
+					<symbol id="1" code="821"/>
+					<symbol id="2" code="954"/>
+					<symbol id="3" code="571"/>
+				</question>
+			</ballot>
+			<ballot barcodeSerial="4-446385" webSerial="4-617892" stubSerial="4-0013">
+				<question id="0">
+					<symbol id="0" code="994"/>
+					<symbol id="1" code="624"/>
+					<symbol id="2" code="270"/>
+					<symbol id="3" code="000"/>
+				</question>
+				<question id="1">
+					<symbol id="0" code="925"/>
+					<symbol id="1" code="379"/>
+					<symbol id="2" code="115"/>
+				</question>
+				<question id="2">
+					<symbol id="0" code="826"/>
+					<symbol id="1" code="801"/>
+					<symbol id="2" code="963"/>
+					<symbol id="3" code="949"/>
+				</question>
+			</ballot>
+			<ballot barcodeSerial="4-367115" webSerial="4-719867" stubSerial="4-0014">
+				<question id="0">
+					<symbol id="0" code="552"/>
+					<symbol id="1" code="910"/>
+					<symbol id="2" code="016"/>
+					<symbol id="3" code="939"/>
+				</question>
+				<question id="1">
+					<symbol id="0" code="812"/>
+					<symbol id="1" code="959"/>
+					<symbol id="2" code="312"/>
+				</question>
+				<question id="2">
+					<symbol id="0" code="379"/>
+					<symbol id="1" code="903"/>
+					<symbol id="2" code="030"/>
+					<symbol id="3" code="971"/>
+				</question>
+			</ballot>
+			<ballot barcodeSerial="4-863749" webSerial="4-148900" stubSerial="4-0015">
+				<question id="0">
+					<symbol id="0" code="969"/>
+					<symbol id="1" code="920"/>
+					<symbol id="2" code="336"/>
+					<symbol id="3" code="111"/>
+				</question>
+				<question id="1">
+					<symbol id="0" code="349"/>
+					<symbol id="1" code="890"/>
+					<symbol id="2" code="592"/>
+				</question>
+				<question id="2">
+					<symbol id="0" code="787"/>
+					<symbol id="1" code="525"/>
+					<symbol id="2" code="272"/>
+					<symbol id="3" code="339"/>
+				</question>
+			</ballot>
+			<ballot barcodeSerial="4-120613" webSerial="4-538037" stubSerial="4-0016">
+				<question id="0">
+					<symbol id="0" code="346"/>
+					<symbol id="1" code="963"/>
+					<symbol id="2" code="917"/>
+					<symbol id="3" code="992"/>
+				</question>
+				<question id="1">
+					<symbol id="0" code="517"/>
+					<symbol id="1" code="116"/>
+					<symbol id="2" code="931"/>
+				</question>
+				<question id="2">
+					<symbol id="0" code="546"/>
+					<symbol id="1" code="952"/>
+					<symbol id="2" code="915"/>
+					<symbol id="3" code="977"/>
+				</question>
+			</ballot>
+			<ballot barcodeSerial="4-217554" webSerial="4-785266" stubSerial="4-0017">
+				<question id="0">
+					<symbol id="0" code="575"/>
+					<symbol id="1" code="957"/>
+					<symbol id="2" code="275"/>
+					<symbol id="3" code="920"/>
+				</question>
+				<question id="1">
+					<symbol id="0" code="902"/>
+					<symbol id="1" code="974"/>
+					<symbol id="2" code="096"/>
+				</question>
+				<question id="2">
+					<symbol id="0" code="274"/>
+					<symbol id="1" code="940"/>
+					<symbol id="2" code="962"/>
+					<symbol id="3" code="978"/>
+				</question>
+			</ballot>
+			<ballot barcodeSerial="4-312450" webSerial="4-261126" stubSerial="4-0018">
+				<question id="0">
+					<symbol id="0" code="869"/>
+					<symbol id="1" code="282"/>
+					<symbol id="2" code="978"/>
+					<symbol id="3" code="911"/>
+				</question>
+				<question id="1">
+					<symbol id="0" code="282"/>
+					<symbol id="1" code="851"/>
+					<symbol id="2" code="520"/>
+				</question>
+				<question id="2">
+					<symbol id="0" code="533"/>
+					<symbol id="1" code="030"/>
+					<symbol id="2" code="084"/>
+					<symbol id="3" code="930"/>
+				</question>
+			</ballot>
+			<ballot barcodeSerial="4-327892" webSerial="4-579414" stubSerial="4-0019">
+				<question id="0">
+					<symbol id="0" code="521"/>
+					<symbol id="1" code="310"/>
+					<symbol id="2" code="077"/>
+					<symbol id="3" code="520"/>
+				</question>
+				<question id="1">
+					<symbol id="0" code="966"/>
+					<symbol id="1" code="948"/>
+					<symbol id="2" code="978"/>
+				</question>
+				<question id="2">
+					<symbol id="0" code="796"/>
+					<symbol id="1" code="987"/>
+					<symbol id="2" code="974"/>
+					<symbol id="3" code="877"/>
+				</question>
+			</ballot>
+			<ballot barcodeSerial="4-256741" webSerial="4-380072" stubSerial="4-0020">
+				<question id="0">
+					<symbol id="0" code="864"/>
+					<symbol id="1" code="791"/>
+					<symbol id="2" code="118"/>
+					<symbol id="3" code="970"/>
+				</question>
+				<question id="1">
+					<symbol id="0" code="965"/>
+					<symbol id="1" code="875"/>
+					<symbol id="2" code="568"/>
+				</question>
+				<question id="2">
+					<symbol id="0" code="911"/>
+					<symbol id="1" code="994"/>
+					<symbol id="2" code="907"/>
+					<symbol id="3" code="884"/>
+				</question>
+			</ballot>
+			<ballot barcodeSerial="4-756180" webSerial="4-230628" stubSerial="4-0021">
+				<question id="0">
+					<symbol id="0" code="909"/>
+					<symbol id="1" code="903"/>
+					<symbol id="2" code="976"/>
+					<symbol id="3" code="938"/>
+				</question>
+				<question id="1">
+					<symbol id="0" code="526"/>
+					<symbol id="1" code="063"/>
+					<symbol id="2" code="299"/>
+				</question>
+				<question id="2">
+					<symbol id="0" code="847"/>
+					<symbol id="1" code="606"/>
+					<symbol id="2" code="975"/>
+					<symbol id="3" code="963"/>
+				</question>
+			</ballot>
+			<ballot barcodeSerial="4-635233" webSerial="4-945350" stubSerial="4-0022">
+				<question id="0">
+					<symbol id="0" code="966"/>
+					<symbol id="1" code="258"/>
+					<symbol id="2" code="625"/>
+					<symbol id="3" code="988"/>
+				</question>
+				<question id="1">
+					<symbol id="0" code="323"/>
+					<symbol id="1" code="969"/>
+					<symbol id="2" code="883"/>
+				</question>
+				<question id="2">
+					<symbol id="0" code="990"/>
+					<symbol id="1" code="317"/>
+					<symbol id="2" code="948"/>
+					<symbol id="3" code="557"/>
+				</question>
+			</ballot>
+			<ballot barcodeSerial="4-479573" webSerial="4-839834" stubSerial="4-0023">
+				<question id="0">
+					<symbol id="0" code="826"/>
+					<symbol id="1" code="625"/>
+					<symbol id="2" code="109"/>
+					<symbol id="3" code="939"/>
+				</question>
+				<question id="1">
+					<symbol id="0" code="589"/>
+					<symbol id="1" code="103"/>
+					<symbol id="2" code="987"/>
+				</question>
+				<question id="2">
+					<symbol id="0" code="999"/>
+					<symbol id="1" code="847"/>
+					<symbol id="2" code="941"/>
+					<symbol id="3" code="550"/>
+				</question>
+			</ballot>
+			<ballot barcodeSerial="4-496331" webSerial="4-553304" stubSerial="4-0024">
+				<question id="0">
+					<symbol id="0" code="898"/>
+					<symbol id="1" code="633"/>
+					<symbol id="2" code="987"/>
+					<symbol id="3" code="932"/>
+				</question>
+				<question id="1">
+					<symbol id="0" code="361"/>
+					<symbol id="1" code="282"/>
+					<symbol id="2" code="981"/>
+				</question>
+				<question id="2">
+					<symbol id="0" code="871"/>
+					<symbol id="1" code="002"/>
+					<symbol id="2" code="795"/>
+					<symbol id="3" code="987"/>
+				</question>
+			</ballot>
+			<ballot barcodeSerial="4-568537" webSerial="4-687201" stubSerial="4-0025">
+				<question id="0">
+					<symbol id="0" code="976"/>
+					<symbol id="1" code="897"/>
+					<symbol id="2" code="915"/>
+					<symbol id="3" code="543"/>
+				</question>
+				<question id="1">
+					<symbol id="0" code="902"/>
+					<symbol id="1" code="920"/>
+					<symbol id="2" code="514"/>
+				</question>
+				<question id="2">
+					<symbol id="0" code="914"/>
+					<symbol id="1" code="364"/>
+					<symbol id="2" code="063"/>
+					<symbol id="3" code="920"/>
+				</question>
+			</ballot>
+			<ballot barcodeSerial="4-637772" webSerial="4-755578" stubSerial="4-0026">
+				<question id="0">
+					<symbol id="0" code="907"/>
+					<symbol id="1" code="353"/>
+					<symbol id="2" code="923"/>
+					<symbol id="3" code="902"/>
+				</question>
+				<question id="1">
+					<symbol id="0" code="373"/>
+					<symbol id="1" code="908"/>
+					<symbol id="2" code="884"/>
+				</question>
+				<question id="2">
+					<symbol id="0" code="087"/>
+					<symbol id="1" code="970"/>
+					<symbol id="2" code="818"/>
+					<symbol id="3" code="577"/>
+				</question>
+			</ballot>
+			<ballot barcodeSerial="4-973051" webSerial="4-347821" stubSerial="4-0027">
+				<question id="0">
+					<symbol id="0" code="789"/>
+					<symbol id="1" code="912"/>
+					<symbol id="2" code="819"/>
+					<symbol id="3" code="938"/>
+				</question>
+				<question id="1">
+					<symbol id="0" code="781"/>
+					<symbol id="1" code="299"/>
+					<symbol id="2" code="298"/>
+				</question>
+				<question id="2">
+					<symbol id="0" code="600"/>
+					<symbol id="1" code="896"/>
+					<symbol id="2" code="638"/>
+					<symbol id="3" code="977"/>
+				</question>
+			</ballot>
+			<ballot barcodeSerial="4-335611" webSerial="4-768921" stubSerial="4-0028">
+				<question id="0">
+					<symbol id="0" code="318"/>
+					<symbol id="1" code="967"/>
+					<symbol id="2" code="088"/>
+					<symbol id="3" code="069"/>
+				</question>
+				<question id="1">
+					<symbol id="0" code="969"/>
+					<symbol id="1" code="956"/>
+					<symbol id="2" code="980"/>
+				</question>
+				<question id="2">
+					<symbol id="0" code="356"/>
+					<symbol id="1" code="919"/>
+					<symbol id="2" code="369"/>
+					<symbol id="3" code="980"/>
+				</question>
+			</ballot>
+			<ballot barcodeSerial="4-987623" webSerial="4-910188" stubSerial="4-0029">
+				<question id="0">
+					<symbol id="0" code="906"/>
+					<symbol id="1" code="067"/>
+					<symbol id="2" code="573"/>
+					<symbol id="3" code="576"/>
+				</question>
+				<question id="1">
+					<symbol id="0" code="588"/>
+					<symbol id="1" code="044"/>
+					<symbol id="2" code="927"/>
+				</question>
+				<question id="2">
+					<symbol id="0" code="920"/>
+					<symbol id="1" code="580"/>
+					<symbol id="2" code="101"/>
+					<symbol id="3" code="951"/>
+				</question>
+			</ballot>
+			<ballot barcodeSerial="4-330529" webSerial="4-664560" stubSerial="4-0030">
+				<question id="0">
+					<symbol id="0" code="796"/>
+					<symbol id="1" code="986"/>
+					<symbol id="2" code="908"/>
+					<symbol id="3" code="841"/>
+				</question>
+				<question id="1">
+					<symbol id="0" code="305"/>
+					<symbol id="1" code="330"/>
+					<symbol id="2" code="001"/>
+				</question>
+				<question id="2">
+					<symbol id="0" code="111"/>
+					<symbol id="1" code="996"/>
+					<symbol id="2" code="965"/>
+					<symbol id="3" code="896"/>
+				</question>
+			</ballot>
+			<ballot barcodeSerial="4-996643" webSerial="4-968637" stubSerial="4-0031">
+				<question id="0">
+					<symbol id="0" code="319"/>
+					<symbol id="1" code="992"/>
+					<symbol id="2" code="966"/>
+					<symbol id="3" code="886"/>
+				</question>
+				<question id="1">
+					<symbol id="0" code="971"/>
+					<symbol id="1" code="910"/>
+					<symbol id="2" code="951"/>
+				</question>
+				<question id="2">
+					<symbol id="0" code="907"/>
+					<symbol id="1" code="920"/>
+					<symbol id="2" code="899"/>
+					<symbol id="3" code="916"/>
+				</question>
+			</ballot>
+			<ballot barcodeSerial="4-222883" webSerial="4-975594" stubSerial="4-0032">
+				<question id="0">
+					<symbol id="0" code="514"/>
+					<symbol id="1" code="785"/>
+					<symbol id="2" code="937"/>
+					<symbol id="3" code="958"/>
+				</question>
+				<question id="1">
+					<symbol id="0" code="359"/>
+					<symbol id="1" code="798"/>
+					<symbol id="2" code="990"/>
+				</question>
+				<question id="2">
+					<symbol id="0" code="104"/>
+					<symbol id="1" code="302"/>
+					<symbol id="2" code="525"/>
+					<symbol id="3" code="924"/>
+				</question>
+			</ballot>
+			<ballot barcodeSerial="4-135611" webSerial="4-922455" stubSerial="4-0033">
+				<question id="0">
+					<symbol id="0" code="594"/>
+					<symbol id="1" code="794"/>
+					<symbol id="2" code="535"/>
+					<symbol id="3" code="621"/>
+				</question>
+				<question id="1">
+					<symbol id="0" code="975"/>
+					<symbol id="1" code="899"/>
+					<symbol id="2" code="339"/>
+				</question>
+				<question id="2">
+					<symbol id="0" code="372"/>
+					<symbol id="1" code="939"/>
+					<symbol id="2" code="575"/>
+					<symbol id="3" code="353"/>
+				</question>
+			</ballot>
+			<ballot barcodeSerial="4-654668" webSerial="4-842551" stubSerial="4-0034">
+				<question id="0">
+					<symbol id="0" code="273"/>
+					<symbol id="1" code="791"/>
+					<symbol id="2" code="977"/>
+					<symbol id="3" code="287"/>
+				</question>
+				<question id="1">
+					<symbol id="0" code="338"/>
+					<symbol id="1" code="991"/>
+					<symbol id="2" code="875"/>
+				</question>
+				<question id="2">
+					<symbol id="0" code="593"/>
+					<symbol id="1" code="961"/>
+					<symbol id="2" code="068"/>
+					<symbol id="3" code="985"/>
+				</question>
+			</ballot>
+			<ballot barcodeSerial="4-819240" webSerial="4-621523" stubSerial="4-0035">
+				<question id="0">
+					<symbol id="0" code="369"/>
+					<symbol id="1" code="990"/>
+					<symbol id="2" code="996"/>
+					<symbol id="3" code="002"/>
+				</question>
+				<question id="1">
+					<symbol id="0" code="852"/>
+					<symbol id="1" code="946"/>
+					<symbol id="2" code="374"/>
+				</question>
+				<question id="2">
+					<symbol id="0" code="974"/>
+					<symbol id="1" code="784"/>
+					<symbol id="2" code="914"/>
+					<symbol id="3" code="905"/>
+				</question>
+			</ballot>
+			<ballot barcodeSerial="4-124851" webSerial="4-201006" stubSerial="4-0036">
+				<question id="0">
+					<symbol id="0" code="868"/>
+					<symbol id="1" code="907"/>
+					<symbol id="2" code="953"/>
+					<symbol id="3" code="006"/>
+				</question>
+				<question id="1">
+					<symbol id="0" code="365"/>
+					<symbol id="1" code="353"/>
+					<symbol id="2" code="330"/>
+				</question>
+				<question id="2">
+					<symbol id="0" code="083"/>
+					<symbol id="1" code="903"/>
+					<symbol id="2" code="804"/>
+					<symbol id="3" code="930"/>
+				</question>
+			</ballot>
+			<ballot barcodeSerial="4-331450" webSerial="4-972996" stubSerial="4-0037">
+				<question id="0">
+					<symbol id="0" code="987"/>
+					<symbol id="1" code="372"/>
+					<symbol id="2" code="579"/>
+					<symbol id="3" code="378"/>
+				</question>
+				<question id="1">
+					<symbol id="0" code="896"/>
+					<symbol id="1" code="586"/>
+					<symbol id="2" code="902"/>
+				</question>
+				<question id="2">
+					<symbol id="0" code="969"/>
+					<symbol id="1" code="879"/>
+					<symbol id="2" code="906"/>
+					<symbol id="3" code="039"/>
+				</question>
+			</ballot>
+			<ballot barcodeSerial="4-863867" webSerial="4-837749" stubSerial="4-0038">
+				<question id="0">
+					<symbol id="0" code="945"/>
+					<symbol id="1" code="578"/>
+					<symbol id="2" code="977"/>
+					<symbol id="3" code="953"/>
+				</question>
+				<question id="1">
+					<symbol id="0" code="970"/>
+					<symbol id="1" code="977"/>
+					<symbol id="2" code="554"/>
+				</question>
+				<question id="2">
+					<symbol id="0" code="031"/>
+					<symbol id="1" code="967"/>
+					<symbol id="2" code="257"/>
+					<symbol id="3" code="121"/>
+				</question>
+			</ballot>
+			<ballot barcodeSerial="4-643957" webSerial="4-315592" stubSerial="4-0039">
+				<question id="0">
+					<symbol id="0" code="900"/>
+					<symbol id="1" code="957"/>
+					<symbol id="2" code="585"/>
+					<symbol id="3" code="914"/>
+				</question>
+				<question id="1">
+					<symbol id="0" code="041"/>
+					<symbol id="1" code="351"/>
+					<symbol id="2" code="373"/>
+				</question>
+				<question id="2">
+					<symbol id="0" code="090"/>
+					<symbol id="1" code="960"/>
+					<symbol id="2" code="041"/>
+					<symbol id="3" code="930"/>
+				</question>
+			</ballot>
+			<ballot barcodeSerial="4-313923" webSerial="4-457410" stubSerial="4-0040">
+				<question id="0">
+					<symbol id="0" code="580"/>
+					<symbol id="1" code="038"/>
+					<symbol id="2" code="972"/>
+					<symbol id="3" code="325"/>
+				</question>
+				<question id="1">
+					<symbol id="0" code="121"/>
+					<symbol id="1" code="382"/>
+					<symbol id="2" code="018"/>
+				</question>
+				<question id="2">
+					<symbol id="0" code="294"/>
+					<symbol id="1" code="949"/>
+					<symbol id="2" code="359"/>
+					<symbol id="3" code="093"/>
+				</question>
+			</ballot>
+			<ballot barcodeSerial="4-990965" webSerial="4-872317" stubSerial="4-0041">
+				<question id="0">
+					<symbol id="0" code="030"/>
+					<symbol id="1" code="069"/>
+					<symbol id="2" code="064"/>
+					<symbol id="3" code="985"/>
+				</question>
+				<question id="1">
+					<symbol id="0" code="560"/>
+					<symbol id="1" code="977"/>
+					<symbol id="2" code="356"/>
+				</question>
+				<question id="2">
+					<symbol id="0" code="973"/>
+					<symbol id="1" code="992"/>
+					<symbol id="2" code="929"/>
+					<symbol id="3" code="940"/>
+				</question>
+			</ballot>
+			<ballot barcodeSerial="4-216968" webSerial="4-588032" stubSerial="4-0042">
+				<question id="0">
+					<symbol id="0" code="090"/>
+					<symbol id="1" code="997"/>
+					<symbol id="2" code="914"/>
+					<symbol id="3" code="977"/>
+				</question>
+				<question id="1">
+					<symbol id="0" code="854"/>
+					<symbol id="1" code="929"/>
+					<symbol id="2" code="524"/>
+				</question>
+				<question id="2">
+					<symbol id="0" code="988"/>
+					<symbol id="1" code="279"/>
+					<symbol id="2" code="332"/>
+					<symbol id="3" code="939"/>
+				</question>
+			</ballot>
+			<ballot barcodeSerial="4-287085" webSerial="4-968040" stubSerial="4-0043">
+				<question id="0">
+					<symbol id="0" code="381"/>
+					<symbol id="1" code="776"/>
+					<symbol id="2" code="619"/>
+					<symbol id="3" code="789"/>
+				</question>
+				<question id="1">
+					<symbol id="0" code="562"/>
+					<symbol id="1" code="124"/>
+					<symbol id="2" code="953"/>
+				</question>
+				<question id="2">
+					<symbol id="0" code="855"/>
+					<symbol id="1" code="899"/>
+					<symbol id="2" code="959"/>
+					<symbol id="3" code="566"/>
+				</question>
+			</ballot>
+			<ballot barcodeSerial="4-704864" webSerial="4-827940" stubSerial="4-0044">
+				<question id="0">
+					<symbol id="0" code="935"/>
+					<symbol id="1" code="631"/>
+					<symbol id="2" code="922"/>
+					<symbol id="3" code="329"/>
+				</question>
+				<question id="1">
+					<symbol id="0" code="563"/>
+					<symbol id="1" code="994"/>
+					<symbol id="2" code="931"/>
+				</question>
+				<question id="2">
+					<symbol id="0" code="999"/>
+					<symbol id="1" code="918"/>
+					<symbol id="2" code="004"/>
+					<symbol id="3" code="307"/>
+				</question>
+			</ballot>
+			<ballot barcodeSerial="4-121594" webSerial="4-270734" stubSerial="4-0045">
+				<question id="0">
+					<symbol id="0" code="283"/>
+					<symbol id="1" code="607"/>
+					<symbol id="2" code="006"/>
+					<symbol id="3" code="775"/>
+				</question>
+				<question id="1">
+					<symbol id="0" code="965"/>
+					<symbol id="1" code="009"/>
+					<symbol id="2" code="370"/>
+				</question>
+				<question id="2">
+					<symbol id="0" code="938"/>
+					<symbol id="1" code="839"/>
+					<symbol id="2" code="898"/>
+					<symbol id="3" code="120"/>
+				</question>
+			</ballot>
+			<ballot barcodeSerial="4-165291" webSerial="4-920437" stubSerial="4-0046">
+				<question id="0">
+					<symbol id="0" code="869"/>
+					<symbol id="1" code="081"/>
+					<symbol id="2" code="305"/>
+					<symbol id="3" code="524"/>
+				</question>
+				<question id="1">
+					<symbol id="0" code="947"/>
+					<symbol id="1" code="920"/>
+					<symbol id="2" code="899"/>
+				</question>
+				<question id="2">
+					<symbol id="0" code="571"/>
+					<symbol id="1" code="607"/>
+					<symbol id="2" code="364"/>
+					<symbol id="3" code="918"/>
+				</question>
+			</ballot>
+			<ballot barcodeSerial="4-448661" webSerial="4-660708" stubSerial="4-0047">
+				<question id="0">
+					<symbol id="0" code="801"/>
+					<symbol id="1" code="564"/>
+					<symbol id="2" code="091"/>
+					<symbol id="3" code="910"/>
+				</question>
+				<question id="1">
+					<symbol id="0" code="820"/>
+					<symbol id="1" code="913"/>
+					<symbol id="2" code="961"/>
+				</question>
+				<question id="2">
+					<symbol id="0" code="304"/>
+					<symbol id="1" code="980"/>
+					<symbol id="2" code="973"/>
+					<symbol id="3" code="366"/>
+				</question>
+			</ballot>
+			<ballot barcodeSerial="4-986697" webSerial="4-419586" stubSerial="4-0048">
+				<question id="0">
+					<symbol id="0" code="308"/>
+					<symbol id="1" code="934"/>
+					<symbol id="2" code="958"/>
+					<symbol id="3" code="901"/>
+				</question>
+				<question id="1">
+					<symbol id="0" code="100"/>
+					<symbol id="1" code="906"/>
+					<symbol id="2" code="117"/>
+				</question>
+				<question id="2">
+					<symbol id="0" code="281"/>
+					<symbol id="1" code="787"/>
+					<symbol id="2" code="909"/>
+					<symbol id="3" code="373"/>
+				</question>
+			</ballot>
+			<ballot barcodeSerial="4-531072" webSerial="4-217392" stubSerial="4-0049">
+				<question id="0">
+					<symbol id="0" code="579"/>
+					<symbol id="1" code="915"/>
+					<symbol id="2" code="966"/>
+					<symbol id="3" code="052"/>
+				</question>
+				<question id="1">
+					<symbol id="0" code="880"/>
+					<symbol id="1" code="797"/>
+					<symbol id="2" code="940"/>
+				</question>
+				<question id="2">
+					<symbol id="0" code="331"/>
+					<symbol id="1" code="264"/>
+					<symbol id="2" code="989"/>
+					<symbol id="3" code="929"/>
+				</question>
+			</ballot>
+			<ballot barcodeSerial="4-581116" webSerial="4-854772" stubSerial="4-0050">
+				<question id="0">
+					<symbol id="0" code="909"/>
+					<symbol id="1" code="808"/>
+					<symbol id="2" code="940"/>
+					<symbol id="3" code="962"/>
+				</question>
+				<question id="1">
+					<symbol id="0" code="801"/>
+					<symbol id="1" code="937"/>
+					<symbol id="2" code="944"/>
+				</question>
+				<question id="2">
+					<symbol id="0" code="333"/>
+					<symbol id="1" code="770"/>
+					<symbol id="2" code="041"/>
+					<symbol id="3" code="973"/>
+				</question>
+			</ballot>
+		</codes>
+	</database>
+</xml>
